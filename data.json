@@ -1,0 +1,461 @@
+{
+    "bilgiKutusu": [
+        {
+            "title": "Destanlar",
+            "ders": "KPSS-Tarih",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0_Destanı kime aittir?",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "İskitler - Sakalar"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Uygurlar"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Asya Hun Devleti"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Göktürkler"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Kırgızlar"
+                },
+                {
+                    "id": 5,
+                    "answerText": "Altay"
+                },
+                {
+                    "id": 6,
+                    "answerText": "Bulgarlar"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Alp Er Tunga"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "Şu"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Türeyiş",
+                        "Göç(Kutlu Doğum)"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "Oğuz Kağan"
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Ergenokon",
+                        "Bozkurt"
+                    ],
+                    "answerId": 3
+                },
+                {
+                    "id": 5,
+                    "questionText": [
+                        "Manas"
+                    ],
+                    "answerId": 4
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                        "Yaratılış"
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 7,
+                    "questionText": [
+                        "Şan Kızı"
+                    ],
+                    "answerId": 6
+                }
+            ]
+        },
+        {
+            "title": "Bankalar",
+            "ders": "KPSS-Tarih",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "İŞ BANKASI"
+                },
+                {
+                    "id": 1,
+                    "answerText": "SANAYİ VE MAADİN BANKASI"
+                },
+                {
+                    "id": 2,
+                    "answerText": "EMLAK VE EYTAM BANKASI"
+                },
+                {
+                    "id": 3,
+                    "answerText": "MERKEZ BANKASI"
+                },
+                {
+                    "id": 4,
+                    "answerText": "SÜMERBANK"
+                },
+                {
+                    "id": 5,
+                    "answerText": "HALKBANK"
+                },
+                {
+                    "id": 6,
+                    "answerText": "ETİBANK"
+                },
+                {
+                    "id": 7,
+                    "answerText": "DENİZBANK"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Ulusal ticaret amaçlı kurulan ilk özel bankadır."
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "Osmanlıdan kalan kurumları işletmek için açıldı."
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Konut kredisi verir ve yetim çocukları üstlenir."
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "Para basar, parayı korur, kur ayarlar ve kredi sağlar."
+                    ],
+                    "answerId": 3
+                },
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Kağıt, tekstil ve ayakkabı üretimini destekler.",
+                        "Türkiye Cumhuriyeti'nin ilk kamu yatırım bankasıdır.",
+                        "1934'te yürürlüğe giren I. Beş Yıllık Sanayi Planı'nı uygulama görevi hangi bankaya verilmiştir."
+                    ],
+                    "answerId": 4
+                },
+                {
+                    "id": 5,
+                    "questionText": [
+                        "Esnafa kredi sağlayan kamu bankasıdır."
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                        "Madencilik sektörünü desteklemek amaçlıdır."
+                    ],
+                    "answerId": 6
+                },
+                {
+                    "id": 7,
+                    "questionText": [
+                        "Deniz ticaretini ve filoları desteklemek amaçlıdır."
+                    ],
+                    "answerId": 7
+                }
+            ]
+        },
+        {
+            "title": "Kanunlar",
+            "ders": "KPSS-Tarih",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0_\nhangi ülkeden alınmştır?",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "İsviçre"
+                },
+                {
+                    "id": 1,
+                    "answerText": "İtalya"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Almanya"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Fransa"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Medeni Kanun",
+                        "Borçlar Kanunu",
+                        "İcra ve İflas Kanunu"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "Ceza Kanunu"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Ticaret Kanunu",
+                        "Ceza Mahkemeleri Kanunu",
+                        "Deniz Ticaret Kanunu"
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "İdare Kanunu"
+                    ],
+                    "answerId": 3
+                }
+            ]
+        },
+        {
+            "title": "Kuruluş Dönemi",
+            "ders": "KPSS-Tarih",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "<b>Hangi Padişah döneminde</b>\n_0",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "Osman Bey"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Orhan Bey"
+                },
+                {
+                    "id": 2,
+                    "answerText": "I.Murat (Hüdavendigâr)"
+                },
+                {
+                    "id": 3,
+                    "answerText": "I.Bayezid (Yıldırım)"
+                },
+                {
+                    "id": 4,
+                    "answerText": "I.Mehmet (Çelebi)"
+                },
+                {
+                    "id": 5,
+                    "answerText": "II.Murat"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Bizans ile <color=red>Koyunhisar Savaşı</color> yapılmıştır. Bu savaş Bizans ile yapılan ilk savaştır.",
+                        "<color=red>Ahilik Teşkilatı</color>'nın dini ve ekonomik gücünden faydalanılmıştır",
+                        "Aşiret fetihlerle \"<color=red>Uç Beyligi</color>\" haline gelmiştir.",
+                        "<color=red>İlk Osmanlı parası</color> bakırdan basılmıştır (Mangır).",
+                        "<color=red>İlk Osmanlı vergisi</color> konmuştur. (Bac)"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "<color=red>Bursa</color> fethedilmiştir ve Osmanlı'nın başkenti olmuştur (1326).",
+                        "<color=red>Karesioğulları</color> Osmanlı egemenliğine alınmıştır (Osmanlı'ya katılan ilk beylik).",
+                        "Rumeli'de <color=red>ilk fetih</color> gerçekleşmiştir (Çimpe Kalesi).",
+                        "<color=red>İlk Osmanlı medresesi</color> açılmıştır (İznik'te).",
+                        "<color=red>Divan Teşkilatı</color> kurulmuştur.",
+                        "<color=red>İlk düzenli ordu</color> oluşturulmuştur (Yaya ve Müsellem).",
+                        "<color=red>İlk gümüş Osmanlı parası</color> basılmıştır."
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "<color=red>Edirne</color> Osmanlının <color=red>başkent</color>i olmuştur. (Avrupa yakasında ilk başkent)",
+                        "<color=red>Sırpsındığı Savaşı</color> ile <color=red>Haçlılar</color> yenilgiye uğratılmıştır.",
+                        "<color=red>Kosova Savaşı</color>'nda <color=red>Haçlılar</color> yenilgiye uğratılmıştır. (1389). (Balkanlardaki fetihler kalıcı hale gelmiştir.)",
+                        "<color=red>İskan politikası</color> etkili bir şekilde uygulanarak Türkmenler, Balkan topraklarına yerleştirilmiştir.",
+                        "<color=red>Kapıkulu Ocağı</color> kurulmuştur.",
+                        "<color=red>İlk</color> kez <color=red>defterdar ataması</color> yapılmıştır."
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "Anadolu <color=red>(Güzelcehisar)</color> Hisarı yapılmıştır.",
+                        "İlk kez <color=red>Anadolu Türk Birliği</color> sağlanmıştır.",
+                        "<color=red>Niğbolu Savaşı</color>'nda <color=red>Haçlılar</color> yenilmiş ve Bizans Osmanlı'ya vergi ödemeyi kabul etmiştir (1396)",
+                        "Osmanlı Ordusu <color=red>Ankara Savaşı</color>'nda Timur'un ordusuna yenilmiş ve Osmanlı Devleti \"Fetret Devri'ne girmiştir. (1402)",
+                        "Anadoluda Türk Birligi bozulmuştur. (Timur'un Anadolu beylerine topraklarını geri vermesiyle)"
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Ankara Savaşı'ndan sonra bozulan devlet otoritesini yeniden tesis ettiği için \"Osmanlı Devleti’nin <color=red>ikinci kurucusu</color>\" ünvanını almıştır.",
+                        "<color=red>Şeyh Bedrettin İsyanı</color> bastırılmıştır.",
+                        "Venediklilerle <color=red>ilk deniz savaşı </color> yapılmıştır. (Ancak kaybedilmiştir.)"
+
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                        "Macarlar ile <color=red>Edirne Segedin Antlaşması</color> yapılmıştır.",
+                        "<color=red>Varna Savaşı</color>nda Haçlılar yenilgiye uğratılmıştır.",
+                        "<color=red>II Kosova Savaşı</color>'nı Osmanlı Devleti kazanmıştır (1448). Bu savaşın kazanılması ile Türklerin Balkanlardan atılamayacağı kesinleşmiştir."
+
+                    ],
+                    "answerId": 5
+                }
+            ]
+        },
+        {
+            "title": "Türk Adı ve Anlamı",
+            "ders": "KPSS-Tarih",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0_\nTürk Adına Hangi Anlamı yüklemiştir?",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "Olgunluk Çağı (Divânü Lügati't Türk'te)"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Töreli(Türeli),Kanun-Nizam Sahibi"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Devlete Bağlı Halk"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Türemek,Çoğalmak,Yaratılmış"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Kanunla Düzenlenmiş Halk"
+                },
+                {
+                    "id": 5,
+                    "answerText": "Çekmek, Cezbetmek"
+                },
+                {
+                    "id": 6,
+                    "answerText": "Güçlü,Kuvvetli (Uygur metinlerinden hareketle)"
+                },
+                {
+                    "id": 7,
+                    "answerText": "Miğfer(Dugulga) (Altay'ın eteklerindeki bir dağın şekli nedeniyle)"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Kaşgarlı Mahmut"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "Ziya Gökalp"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "G. Doerfer"
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "A. Wambery"
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                        "W. Barthold"
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                        "S.W.Koelle"
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                        "Müller ve G.Nemeth"
+                    ],
+                    "answerId": 6
+                },
+                {
+                    "id": 7,
+                    "questionText": [
+                        "Çin kaynakları"
+                    ],
+                    "answerId": 7
+                }
+            ]
+        }
+    ]
+}
