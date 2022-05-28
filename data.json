@@ -461,7 +461,7 @@
             "title": "Kâbe Hizmetleri",
             "ders": "KPSS-OABT",
             "question_type": "ÇoktanSeçmeli",
-            "question_text_model": "0_\n<b>Açıklaması verilen kâbe görevi nedir?</b>",
+            "question_text_model": "0_\nAçıklaması verilen kâbe görevi nedir?",
             "answers": [
                 {
                     "id": 0,
@@ -550,7 +550,7 @@
             "title": "Yeniçeriler",
             "ders": "KPSS-Tarih",
             "question_type": "Bilgi Kartı",
-            "question_text_model": "<b>0</b>",
+            "question_text_model": "<b>_0_</b>",
             "answers": [
                 {
                     "id": 0,
