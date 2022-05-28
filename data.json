@@ -456,6 +456,95 @@
                     "answerId": 7
                 }
             ]
+        },
+        {
+            "title": "Kâbe Hizmetleri",
+            "ders": "KPSS-OABT",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0_\nAçıklaması verilen kâbe görevi nedir?",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "Rifâde"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Sikâye"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Nedve"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Hicâbe(Sidane)"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Eşnak"
+                },
+                {
+                    "id": 5,
+                    "answerText": "Sifâret"
+                },
+                {
+                    "id": 6,
+                    "answerText": "Liva"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Hacıları ağırlama ve yiyecek ihtiyaçlarının karşılanması görevidir. Hâşimoğulları'nın elindedir."
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "Kâbe'yi ziyarete gelen hacılara su temi ni görevidir. Hâşimoğulları 'nın elinde bulunan bu görevi Abbas b. Abdülmuttalib yürütüyordu."
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Mekke'nin ve Kureyş kabilesinin önemli işlerinin görüşüldüğü Dârünnedve'deki başkanlık görevi dir. Bu, Abdüddâroğulları 'nın elinde idi."
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "Kâbe'nin perdedarlığı, bakımı ve anahtarının muhafazasıdır. Bu vazife Abdüddåroğul ları'ndan Osman b. Talha'da idi"
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Diyetlerin ödenmesi ve zararların tespiti görevidir. Bu görevi Hz. Ebu Bekir yerine getiriyordu."
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                        "Kureyşin yabancılar nezdinde temsil edil mesidir. Adiy kabilesinin elinde olan bu görevi Ömer b. Hattab yürütüyordu."
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                        "Kureyş'in bayrağını taşıma imtiyazıdır."
+                    ],
+                    "answerId": 6
+                }
+            ]
         }
     ]
 }
