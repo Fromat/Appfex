@@ -461,7 +461,7 @@
             "title": "Kâbe Hizmetleri",
             "ders": "KPSS-OABT",
             "question_type": "ÇoktanSeçmeli",
-            "question_text_model": "0_\nAçıklaması verilen kâbe görevi nedir?",
+            "question_text_model": "0_\n<b>Açıklaması verilen kâbe görevi nedir?</b>",
             "answers": [
                 {
                     "id": 0,
@@ -543,6 +543,84 @@
                         "Kureyş'in bayrağını taşıma imtiyazıdır."
                     ],
                     "answerId": 6
+                }
+            ]
+        },
+        {
+            "title": "Yeniçeriler",
+            "ders": "KPSS-Tarih",
+            "question_type": "Bilgi Kartı",
+            "question_text_model": "<b>0</b>",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "I. Murat"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Buçuktepe Vakası"
+                },
+                {
+                    "id": 2,
+                    "answerText": "II. Osman"
+                },
+                {
+                    "id": 3,
+                    "answerText": "II. Mahmud"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Vaka-i Hayriye"
+                },
+                {
+                    "id": 5,
+                    "answerText": "Asakir-i Mansure-i Muhammediye"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Yeniçeri Ocağı Hangi Padişah döneminde kurulmuştur?"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "İlk Yeniçeri İsyanı olarak bilinen olay"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Yeniçeri Ocağını kaldırmak isterken öldürülen Padişah Kimdir?"
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "Yeniçeri ocağını kaldıran Padişah kimdir?"
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Yeniçeri ocağının kaldırılma olayı ne ad ile bilinir?"
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                        "Yeniçeri Ocağının yerine kurulan ordunun adı nedir?"
+                    ],
+                    "answerId": 5
                 }
             ]
         }
