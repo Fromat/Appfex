@@ -623,6 +623,95 @@
                     "answerId": 5
                 }
             ]
+        },
+        {
+            "title": "Deneme Analizi 1",
+            "ders": "KPSS-Tarih",
+            "question_type": "Bilgi Kartı",
+            "question_text_model": "<b>_0_</b>",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "Musul Sorunu"
+                },
+                {
+                    "id": 1,
+                    "answerText": "Hatay Meselesi"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Efdaleddin Bey"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Ülüş"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Büveyhoğulları"
+                },
+                {
+                    "id": 5,
+                    "answerText": "Ziya Gökalp"
+                },
+                {
+                    "id": 6,
+                    "answerText": "Victor Hugo"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Türkiye ve İngiltere arasında 19 Mayıs 1924'te yapılan \"Haliç Konferansı\" hangi sorunun çözümü için gerçekleşmiştir."
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                        "\"Sandler Raporu\", Türkiye Cumhuriyeti'ni ilgilendiren hangi konu ile ilgili olarak hazırlanmış uluslararası bir belgedir?"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                        "Maarif Nezaretince Osmanlı Beyliği'nin bağımsızlığını bulmakla görevlendirilmiş ve araştırmaları ne ticesinde \"1299\" yılını tespit etmiş \"Tarih-i Osmani Encümeni" kurucu üyesi\" kimdir?
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                        "İslamiyet öncesi Türk devletlerinde Tanrı tarafından \"kut\" ile beraber verildiğine inanılan \"iktisadi güç\""
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                        "Büyük Selçuklu hükümdarı Tuğrul Bey, Abbasi Halifesini aşağıdaki devletlerden hangisinin baskısından kurtardığı için kendisine \"Doğu'nun ve Batı'nın Sultanı\" ile \“Rükneddin\" unvanları verilmiştir?"
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                        "\"Türkçülüğün Esasları\" adlı kitabın sahibi, Diyarbakır milletvekili, Hâkimiyet-i Milliye, Yeni Gün ve Cumhuriyet gazetelerinin yazarı kimdir?"
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                        "\"Paris'in Kalbi\" olarak anılan Notre Dame Katedrali hangi Fransız yazarın romanina ismini vermiştir?"
+                    ],
+                    "answerId": 6
+                }
+            ]
         }
     ]
 }
