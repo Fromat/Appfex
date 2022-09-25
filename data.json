@@ -720,6 +720,96 @@
                     "answerId": 6
                 }
             ]
-        }
+        },
+         {
+           "state": true,
+            "title": "Yeni Din Hareketleri",
+            "ders": "KPSS-OABT",
+            "question_type": "ÇoktanSeçmeli",
+            "question_text_model": "0",
+            "answers": [
+                {
+                    "id": 0,
+                    "answerText": "Mormonlar"
+                },
+                {
+                    "id": 1,
+                    "answerText": "7.Gün Adventist"
+                },
+                {
+                    "id": 2,
+                    "answerText": "Yehova Şahitleri"
+                },
+                {
+                    "id": 3,
+                    "answerText": "Moonculuk- Birleşik Kilise"
+                },
+                {
+                    "id": 4,
+                    "answerText": "Hare Krişna"
+                },
+                {
+                    "id": 5,
+                    "answerText": "İslam Milleti"
+                },
+                {
+                    "id": 6,
+                    "answerText": "Sayentoloji"
+                }
+            ],
+            "questions": [
+                {
+                    "id": 0,
+                    "questionText": [
+                        "Kurucusu: Joseph Smith\n* Ahir zaman kilisesi\n* çok eşlilik\n* çay,kahve,kola,alkol,sigara yasak"
+                    ],
+                    "answerId": 0
+                },
+                {
+                    "id": 1,
+                    "questionText": [
+                         "Kurucusu: William Miller\n* cumartesi gününden dolayı isimleri\n* alkol yok ve vejeteryanlar"
+                    ],
+                    "answerId": 1
+                },
+                {
+                    "id": 2,
+                    "questionText": [
+                         "Kurucusu: Charles Taze Russel\n* Kan alıp vermezler\n* Yalnızca cennet varmış, Cehennem yokmuş"
+                    ],
+                    "answerId": 2
+                },
+                {
+                    "id": 3,
+                    "questionText": [
+                         "Kurucusu: Syung Muung M.\n* Bütün dünya tek bir din\n* Toplu nikah törenleri"
+                    ],
+                    "answerId": 3
+                },
+
+                {
+                    "id": 4,
+                    "questionText": [
+                         "* Hindistan kökenli hareket\n* mantraları var\n* uyuşturucudan kaçan gençlerikurtarmaya çalışıyorlar."
+                    ],
+                    "answerId": 4
+                },
+
+                {
+                    "id": 5,
+                    "questionText": [
+                         "Kurucusu: Wallace Muhammed\n* Siyahiler\n* Malcolm X sonra buradan ayrıldı"
+                    ],
+                    "answerId": 5
+                },
+                {
+                    "id": 6,
+                    "questionText": [
+                         "Kurucusu: Lafayette\n* Dianotics\n* Psikanaliz yöntemi\n* Tanrı,Metafizik yok, Tenasuh çemberi"
+                    ],
+                    "answerId": 6
+                }
+            ]
+        },
     ]
 }
