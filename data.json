@@ -1,6 +1,7 @@
 {
     "bilgiKutusu": [
         {
+            "state": false,
             "title": "Destanlar",
             "ders": "KPSS-Tarih",
             "question_type": "ÇoktanSeçmeli",
@@ -97,6 +98,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Bankalar",
             "ders": "KPSS-Tarih",
             "question_type": "ÇoktanSeçmeli",
@@ -197,6 +199,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Kanunlar",
             "ders": "KPSS-Tarih",
             "question_type": "ÇoktanSeçmeli",
@@ -255,6 +258,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Kuruluş Dönemi",
             "ders": "KPSS-Tarih",
             "question_type": "ÇoktanSeçmeli",
@@ -358,6 +362,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Türk Adı ve Anlamı",
             "ders": "KPSS-Tarih",
             "question_type": "ÇoktanSeçmeli",
@@ -458,6 +463,7 @@
             ]
         },
         {
+           "state": true,
             "title": "Kâbe Hizmetleri",
             "ders": "KPSS-OABT",
             "question_type": "ÇoktanSeçmeli",
@@ -547,6 +553,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Yeniçeriler",
             "ders": "KPSS-Tarih",
             "question_type": "Bilgi Kartı",
@@ -625,6 +632,7 @@
             ]
         },
         {
+           "state": false,
             "title": "Deneme Analizi 1",
             "ders": "KPSS-Tarih",
             "question_type": "Bilgi Kartı",
