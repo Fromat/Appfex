@@ -802,7 +802,7 @@
       "title": "Mezhepler - Anahtar Kavramlar",
       "ders": "KPSS-OABT",
       "question_type": "ÇoktanSeçmeli",
-      "question_text_model": "0_Anahtar kavramı hangi mezhebe aittir?",
+      "question_text_model": "0_<b>\nAnahtar kavramı hangi mezhebe aittir?</b>",
       "answers": [
         {
           "id": 0,
