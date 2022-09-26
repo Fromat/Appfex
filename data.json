@@ -799,10 +799,10 @@
     },
     {
       "state": true,
-      "title": "Mezhepler - Anahtar Kavramlar",
+      "title": "Mezhepler \nAnahtar Kavramlar",
       "ders": "KPSS-OABT",
       "question_type": "ÇoktanSeçmeli",
-      "question_text_model": "0_\n Anahtar kavramı hangi mezhebe aittir?",
+      "question_text_model": "0_\nAnahtar kavramı hangi mezhebe aittir?",
       "answers": [
         {
           "id": 0,
@@ -849,70 +849,70 @@
         {
           "id": 0,
           "questionText": [
-            "BÂTIN"
+            "<b>BÂTIN</b>"
           ],
           "answerId": 0
         },
         {
           "id": 1,
           "questionText": [
-            "12 İMAM"
+            "<b>12 İMAM</b>"
           ],
           "answerId": 1
         },
         {
           "id": 2,
           "questionText": [
-            "SIR"
+            "<b>SIR</b>"
           ],
           "answerId": 2
         },
         {
           "id": 3,
           "questionText": [
-            "TAKAMMUS VE HUDUD"
+            "<b>TAKAMMUS VE HUDUD</b>"
           ],
           "answerId": 3
         },
         {
           "id": 4,
           "questionText": [
-            "19(ON DOKUZ) SAYISI"
+            "<b>19(ON DOKUZ) SAYISI</b>"
           ],
           "answerId": 4
         },
         {
           "id": 5,
           "questionText": [
-            "MUHADDES"
+            "<b>MUHADDES</b>"
           ],
           "answerId": 5
         },
         {
           "id": 6,
           "questionText": [
-            "TEVESSÜL"
+            "<b>TEVESSÜL</b>"
           ],
           "answerId": 6
         },
         {
           "id": 7,
           "questionText": [
-            "ŞÜPHECİLER / ERTELEYENLER"
+            "<b>ŞÜPHECİLER / ERTELEYENLER</b>"
           ],
           "answerId": 7
         },
         {
           "id": 8,
           "questionText": [
-            "5 ESAS"
+            "<b>5 ESAS</b>"
           ],
           "answerId": 8
         },
         {
           "id": 9,
           "questionText": [
-            "YORUM YAPMAMAK"
+            "<b>YORUM YAPMAMAK</b>"
           ],
           "answerId": 9
         }
