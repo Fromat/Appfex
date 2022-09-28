@@ -927,35 +927,35 @@
       "answers": [
         {
           "id": 0,
-          "answerText": "Semâ"
+          "answerText": "<b>Semâ</b>"
         },
         {
           "id": 1,
-          "answerText": "Kıraât"
+          "answerText": "<b>Kıraât</b>"
         },
         {
           "id": 2,
-          "answerText": "İcâzet"
+          "answerText": "<b>İcâzet</b>"
         },
         {
           "id": 3,
-          "answerText": "Münâvele"
+          "answerText": "<b>Münâvele</b>"
         },
         {
           "id": 4,
-          "answerText": "Kitâbet(Mükatebe)"
+          "answerText": "<b>Kitâbet(Mükatebe)</b>"
         },
         {
           "id": 5,
-          "answerText": "İ'lam"
+          "answerText": "<b>İ'lam</b>"
         },
         {
           "id": 6,
-          "answerText": "Vasiyyet"
+          "answerText": "<b>Vasiyyet</b>"
         },
         {
           "id": 7,
-          "answerText": "Vicâde"
+          "answerText": "<b>Vicâde</b>"
         }
       ],
       "questions": [
