@@ -962,56 +962,56 @@
         {
           "id": 0,
           "questionText": [
-            "Hocanın, ezberinden veya yazılı bir metinden okuduğu bir rivayeti öğrencinin, hocadan bizzat duyarak almasına"
+            "<b>Hocanın, ezberinden veya yazılı bir metinden okuduğu bir rivayeti öğrencinin, hocadan bizzat duyarak almasına</b>"
           ],
           "answerId": 0
         },
         {
           "id": 1,
           "questionText": [
-            "talebenin bizzat hadis hocasına rivâyetleri okuması veya başkasının okuduğu rivâyetleri dinlemek suretiyle hadisi alması"
+            "<b>Talebenin bizzat hadis hocasına rivâyetleri okuması veya başkasının okuduğu rivâyetleri dinlemek suretiyle hadisi alması</b>"
           ],
           "answerId": 1
         },
         {
           "id": 2,
           "questionText": [
-            "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi"
+            "<b>Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi</b>"
           ],
           "answerId": 2
         },
         {
           "id": 3,
           "questionText": [
-            "Kendisinden rivayet etmesi için hocanın, öğrencisine bir kitap veya yazılı bir metin vermesine"
+            "<b>Kendisinden rivayet etmesi için hocanın, öğrencisine bir kitap veya yazılı bir metin vermesine</b>"
           ],
           "answerId": 3
         },
         {
           "id": 4,
           "questionText": [
-            "Şeyhin kendi işitmiş olduğu hadislerinden bir kısmını talebesine yazıp göndermesi"
+            "<b>Hocanın kendi işitmiş olduğu hadislerinden bir kısmını talebesine yazıp göndermesi</b>"
           ],
           "answerId": 4
         },
         {
           "id": 5,
           "questionText": [
-            "hocanın icazetten söz etmeksizin belli bir hadis veya hadis kitabı için sadece “Benim rivayetim işte budur.” diye açıklamada bulunmasına"
+            "<b>Hocanın icazetten söz etmeksizin belli bir hadis veya hadis kitabı için sadece “Benim rivayetim işte budur.” diye açıklamada bulunmasına</b>"
           ],
           "answerId": 5
         },
         {
           "id": 6,
           "questionText": [
-            "Şeyhin daha önce elde ettiği rivâyetleri veya bir kitabı, ölümünden veya seyahate çıkmadan önce bildirmesi"
+            "<b>Hocanın daha önce elde ettiği rivâyetleri veya bir kitabı, ölümünden veya seyahate çıkmadan önce bildirmesi</b>"
           ],
           "answerId": 6
         },
         {
           "id": 7,
           "questionText": [
-            "Bir râvinin bizzat ulaşamadığı yahut ulaşmış olsa da kendisinden hadis semâ etmediği, ayrıca icâzet vb. yetkiler de almadığı bir hocanın hattıyla yazılmış hadislerin kaydedildiği metinleri bulması veya bunları satın alma gibi yollarla elde etmesi"
+            "<b>Bir râvinin bizzat ulaşamadığı yahut ulaşmış olsa da kendisinden hadis semâ etmediği, ayrıca icâzet vb. yetkiler de almadığı bir hocanın hattıyla yazılmış hadislerin kaydedildiği metinleri bulması veya bunları satın alma gibi yollarla elde etmesi</b>"
           ],
           "answerId": 7
         }
