@@ -917,6 +917,105 @@
           "answerId": 9
         }
       ]
+    },
+    {
+      "state": true,
+      "title": "Hadis alma yolları",
+      "ders": "KPSS-OABT",
+      "question_type": "ÇoktanSeçmeli",
+      "question_text_model": "0_\nAçıklamadaki hadis alma yolu hangisidir?",
+      "answers": [
+        {
+          "id": 0,
+          "answerText": "Semâ"
+        },
+        {
+          "id": 1,
+          "answerText": "Kıraât"
+        },
+        {
+          "id": 2,
+          "answerText": "İcâzet"
+        },
+        {
+          "id": 3,
+          "answerText": "Münâvele"
+        },
+        {
+          "id": 4,
+          "answerText": "Kitâbet(Mükatebe)"
+        },
+        {
+          "id": 5,
+          "answerText": "İ'lam"
+        },
+        {
+          "id": 6,
+          "answerText": "Vasiyyet"
+        },
+        {
+          "id": 7,
+          "answerText": "Vicâde"
+        }
+      ],
+      "questions": [
+        {
+          "id": 0,
+          "questionText": [
+            "Hocanın, ezberinden veya yazılı bir metinden okuduğu bir rivayeti öğrencinin, hocadan bizzat duyarak almasına"
+          ],
+          "answerId": 0
+        },
+        {
+          "id": 1,
+          "questionText": [
+            "talebenin bizzat hadis hocasına rivâyetleri okuması veya başkasının okuduğu rivâyetleri dinlemek suretiyle hadisi alması"
+          ],
+          "answerId": 1
+        },
+        {
+          "id": 2,
+          "questionText": [
+            "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi"
+          ],
+          "answerId": 2
+        },
+        {
+          "id": 3,
+          "questionText": [
+            "Kendisinden rivayet etmesi için hocanın, öğrencisine bir kitap veya yazılı bir metin vermesine"
+          ],
+          "answerId": 3
+        },
+        {
+          "id": 4,
+          "questionText": [
+            "Şeyhin kendi işitmiş olduğu hadislerinden bir kısmını talebesine yazıp göndermesi"
+          ],
+          "answerId": 4
+        },
+        {
+          "id": 5,
+          "questionText": [
+            "hocanın icazetten söz etmeksizin belli bir hadis veya hadis kitabı için sadece “Benim rivayetim işte budur.” diye açıklamada bulunmasına"
+          ],
+          "answerId": 5
+        },
+        {
+          "id": 6,
+          "questionText": [
+            "Şeyhin daha önce elde ettiği rivâyetleri veya bir kitabı, ölümünden veya seyahate çıkmadan önce bildirmesi"
+          ],
+          "answerId": 6
+        },
+        {
+          "id": 7,
+          "questionText": [
+            "Bir râvinin bizzat ulaşamadığı yahut ulaşmış olsa da kendisinden hadis semâ etmediği, ayrıca icâzet vb. yetkiler de almadığı bir hocanın hattıyla yazılmış hadislerin kaydedildiği metinleri bulması veya bunları satın alma gibi yollarla elde etmesi"
+          ],
+          "answerId": 7
+        }
+      ]
     }
   ]
 }
