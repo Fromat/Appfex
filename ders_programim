@@ -2,108 +2,108 @@
   "Lessons": [
     {
       "day":1,
-      "class": "10.sınıf Metal",
+      "className": "10.sınıf Metal",
       "hour": [
         3,
         4
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 1,
-      "class": "11.sınıf Bilişim",
+      "className": "11.sınıf Bilişim",
       "hour": [
         5,
         6
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 2,
-      "class": "12.sınıf Çocuk Gelişim",
+      "className": "12.sınıf Çocuk Gelişim",
       "hour": [
         1,
         2
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 2,
-      "class": "11.sınıf Bilişim",
+      "className": "11.sınıf Bilişim",
       "hour": [
         4
       ],
-      "lesson": "Temel Dini Bilgiler"
+      "lessonName": "Temel Dini Bilgiler"
     },
     {
       "day": 2,
-      "class": "12.sınıf Bilişim",
+      "className": "12.sınıf Bilişim",
       "hour": [
         5,
         6
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 2,
-      "class": "11.sınıf Elektrik",
+      "className": "11.sınıf Elektrik",
       "hour": [
         7
       ],
-      "lesson": "Temel Dini Bilgiler"
+      "lessonName": "Temel Dini Bilgiler"
     },
     {
       "day": 3,
-      "class": "9.sınıf Bilişim",
+      "className": "9.sınıf Bilişim",
       "hour": [
         1,
         2
       ],
-      "lesson": "Peygamberimizin Hayatı"
+      "lessonName": "Peygamberimizin Hayatı"
     },
     {
       "day": 3,
-      "class": "9.sınıf Elektrik",
+      "className": "9.sınıf Elektrik",
       "hour": [
         5,
         6
       ],
-      "lesson": "Peygamberimizin Hayatı"
+      "lessonName": "Peygamberimizin Hayatı"
     },
     {
       "day": 3,
-      "class": "9.sınıf Metal",
+      "className": "9.sınıf Metal",
       "hour": [
         8,
         9
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 5,
-      "class": "11.sınıf Muhasebe",
+      "className": "11.sınıf Muhasebe",
       "hour": [
         3
       ],
-      "lesson": "Temel Dini Bilgiler"
+      "lessonName": "Temel Dini Bilgiler"
     },
     {
       "day": 5,
-      "class": "11.sınıf Mobilya",
+      "className": "11.sınıf Mobilya",
       "hour": [
         5,
         6
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     },
     {
       "day": 5,
-      "class": "9.sınıf Çocuk Gelişim",
+      "className": "9.sınıf Çocuk Gelişim",
       "hour": [
         7,
         8
       ],
-      "lesson": "Din Kültürü ve Ahlâk Bilgisi"
+      "lessonName": "Din Kültürü ve Ahlâk Bilgisi"
     }
   ]
 }
