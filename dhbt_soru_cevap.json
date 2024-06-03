@@ -1,13 +1,13 @@
 {
   "bilgiKutusu": [
     {
-      "soru_id": 1001
+      "soru_id": 1001,
       "ders_adi": "Hadis",
       "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
       "cevap": "Kıraat"
     },
     {
-      "soru_id": 1002
+      "soru_id": 1002,
       "ders_adi": "Hadis",
       "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
       "cevap": "İcazet"
