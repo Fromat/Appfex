@@ -17,6 +17,12 @@
       "ders_adi": "Hadis",
       "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
       "cevap": "İl'am"
+    },
+    {
+      "soru_id": 1004,
+      "ders_adi": "Tefsir",
+      "soru": " Bunlar benim rivayetimdir.” demesi,",
+      "cevap": "Tefsir"
     }
   ]
 }
