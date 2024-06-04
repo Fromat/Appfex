@@ -20,14 +20,33 @@
     },
     {
       "soru_id": 1004,
-      "ders_adi": "Tefsir",
+      "ders_adi": "Hadis",
       "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
       "cevap": "Müsnedler"
-    },{
+    },
+    {
       "soru_id": 1005,
       "ders_adi": "Tefsir",
       "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
       "cevap": "Hizip"
+    },
+    {
+      "soru_id": 1006,
+      "ders_adi": "Tefsir",
+      "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
+      "cevap": "Siyak"
+    },
+    {
+      "soru_id": 1007,
+      "ders_adi": "Kelam",
+      "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
+      "cevap": "Temanu"
+    },
+    {
+      "soru_id": 1008,
+      "ders_adi": "Fıkıh",
+      "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
+      "cevap": "İstihsan"
     }
     
   ]
