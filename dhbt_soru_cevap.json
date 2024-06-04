@@ -47,7 +47,26 @@
       "ders_adi": "Fıkıh",
       "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
       "cevap": "İstihsan"
-    }
+    },
+    {
+      "soru_id": 1009,
+      "ders_adi": "Kelam",
+      "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
+      "cevap": "Tenzih"
+    },
+    {
+      "soru_id": 1010,
+      "ders_adi": "İslam Hukuku",
+      "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
+      "cevap": "Beraet-i asliyye"
+    },
+    {
+      "soru_id": 1011,
+      "ders_adi": "Hadis",
+      "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
+      "cevap": "Sahih"
+    },
+    
     
   ]
 }
