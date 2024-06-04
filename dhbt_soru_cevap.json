@@ -21,8 +21,14 @@
     {
       "soru_id": 1004,
       "ders_adi": "Tefsir",
-      "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
-      "cevap": "Tefsir"
+      "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
+      "cevap": "Müsnedler"
+    },{
+      "soru_id": 1005,
+      "ders_adi": "Tefsir",
+      "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
+      "cevap": "Hizip"
     }
+    
   ]
 }
