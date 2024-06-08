@@ -65,6 +65,25 @@
       "ders_adi": "Hadis",
       "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
       "cevap": "Sahih"
+    },
+    {
+      "soru_id": 1012,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
+      "cevap": "Remel"
+    },
+    {
+      "soru_id": 1013,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
+      "cevap": "Hervele"
+    },
+    {
+      "soru_id": 1014,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
+      "cevap": "Izdıba"
     }
+    
   ]
 }
