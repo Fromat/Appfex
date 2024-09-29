@@ -1,0 +1,28 @@
+{
+  "sinavlar": [
+    {
+      "id": 1,
+      "ad": "LGS"
+    },
+    {
+      "id": 2,
+      "ad": "TYT"
+    },
+    {
+      "id": 3,
+      "ad": "AYT"
+    },
+    {
+      "id": 4,
+      "ad": "YDT"
+    },
+    {
+      "id": 5,
+      "ad": "KPSS"
+    },
+    {
+      "id": 6,
+      "ad": "Eğitim Bilimleri"
+    }
+  ]
+}
