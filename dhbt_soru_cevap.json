@@ -3,6 +3,8 @@
     {
       "soru_type":1,
       "soru_id": 1001,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
       "cevap": "Kıraat"
@@ -10,6 +12,8 @@
     {
       "soru_type":1,
       "soru_id": 1002,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
       "cevap": "İcazet"
@@ -17,6 +21,8 @@
     {
       "soru_type":1,
       "soru_id": 1003,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
       "cevap": "İl'am"
@@ -24,6 +30,8 @@
     {
       "soru_type":1,
       "soru_id": 1004,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
       "cevap": "Müsnedler"
@@ -31,6 +39,8 @@
     {
       "soru_type":1,
       "soru_id": 1005,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Tefsir",
       "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
       "cevap": "Hizip"
@@ -38,6 +48,8 @@
     {
       "soru_type":1,
       "soru_id": 1006,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Tefsir",
       "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
       "cevap": "Siyak"
@@ -45,6 +57,8 @@
     {
       "soru_type":1,
       "soru_id": 1007,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Kelam",
       "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
       "cevap": "Temanu"
@@ -52,6 +66,8 @@
     {
       "soru_type":1,
       "soru_id": 1008,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Fıkıh",
       "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
       "cevap": "İstihsan"
@@ -59,6 +75,8 @@
     { 
       "soru_type":1,
       "soru_id": 1009,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Kelam",
       "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
       "cevap": "Tenzih"
@@ -66,6 +84,8 @@
     {
       "soru_type":1,
       "soru_id": 1010,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "İslam Hukuku",
       "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
       "cevap": "Beraet-i asliyye"
@@ -73,6 +93,8 @@
     {
       "soru_type":1,
       "soru_id": 1011,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
       "cevap": "Sahih"
@@ -80,6 +102,8 @@
     {
       "soru_type":1,
       "soru_id": 1012,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
       "cevap": "Remel"
@@ -87,6 +111,8 @@
     {
       "soru_type":1,
       "soru_id": 1013,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
       "cevap": "Hervele"
@@ -94,6 +120,8 @@
     {
       "soru_type":1,
       "soru_id": 1014,
+      "category_name":"DKAB-İHL",
+      "category_subtext":"2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
       "cevap": "Izdıba"
@@ -101,6 +129,8 @@
     {
       "soru_type":2,
       "soru_id": 1015,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
       "ders_adi": "İslam Tarihi (MBSTS 2025)",
       "soru": "Müslümanların Hevazinlilerle yaptığı savaş sırasında zor duruma düştüğünü gören Mekkelilerden\n* Ebu Süfyan 'Bu bozgunun sonu denize kadar ulaşır.'\n* Kelede b. Hanbel 'Artık büyü bozuldu.'\n* Safvan b. Ümeyye ise 'Hevazin'den birinin yerine Kurayş'ten bir adamın beni terbiye etmesi benim için daha hayırlıdır.'\nşeklinde ifadeler kullanmıştır.\n<b>Bu ifadeler aşağıdaki savaşların hangisiyle ilgilidir?</b>",
       "cevap": "\nA) Hendek\nB) Hayber\nC) Mute\nD) Uhud\nE) Huneyn",
@@ -109,6 +139,8 @@
     {
       "soru_type":2,
       "soru_id": 1016,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
       "ders_adi": "İslam Tarihi (MBSTS 2025)",
       "soru": "Bir grup müşriğin Medine'ye saldıracağı haberi üzerine Hz. Muhammed (a.s), hicretin sekizinci yılında Amr b. As komutasındaki bir birliği düşman üzerine gönderdi.Sefer dönüşünde sahabenin bir kısmı, tercihleri dolayısıyla onu Hz. Muhammed'e (a.s) şikayet etti. Amr b. As, yerlerinin ve sayılarının açığa çıkmasını engellemek amacıyla ateş yaktırmadığını ve Müslümanlara pusu kurulmuş olabileceği endişesiyle düşmanı takibe izin vermediğini belirterek kendini savundu. Hz. Muhammed(a.s), onun bu ifadelerine karşılık herhangi bir şey söylemeyerek kararlarını onayladığını gösterdi.\n<b>Bu parçada bahsedilen seriyye aşağıdakilerden hangisidir?</b> ",
       "cevap": "\nA) Rabiğ\nB) Katan\nC) Gamre\nD) Sifülbahr\nE) Zatüsselasil",
@@ -117,6 +149,8 @@
     {
       "soru_type":2,
       "soru_id": 1017,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
       "ders_adi": "İslam Tarihi (MBSTS 2025)",
       "soru":"<b>Aşağıdakilerden hangisi Yahudilerin Medine Vesikası'nı ihlal ettiği hususlardan biri değildir?</b>",
       "cevap": "\nA) Hendek Savaşı esnasında Müslümanlara ihanet etmeleri\nB) Mustalikoğulları Gazvesi sonrasında Hz. Aişe'ye iftira atmaları\nC) Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri\nD) Paylarına düşen diyet miktarını ödemekten kaçınmaları\nE) Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları",
