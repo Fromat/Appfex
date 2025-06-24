@@ -195,6 +195,26 @@
       "soru":"Emevi Devleti yöneticilerinden\n* Hz. Osman’ın devlet yönetiminde önemli kararlara imza atan,\n* Hz. Osman’a yapılan eleştirilerin merkezinde yer alan,\n* Emevi yönetiminde Süfyaniler Dönemi’ni sonlandıran\n<b>kişi aşağıdakilerden hangisidir?</b>",
       "cevap": "\nA) Yezid b. Muaviye\nB) Mervanb.Hakem\nC) Hişam b. Abdülmelik \nD) Ömer b. Abdülaziz\nE) İbrahimb.Velid",
       "dogru_cevap": "B"
+},
+    {
+      "soru_type":2,
+      "soru_id": 1022,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
+      "ders_adi": "İslam Tarihi (MBSTS 2024)",
+      "soru": "İlk Müslümanlar arasında;\n• Haşimoğulları'na mensup olan,\n• Habeşistan'a hicret eden Müslümanların başkanlığını yapan,\n• Mute Savaşı'nda komutanlık yaparak şehit düşen\n<b>sahabe aşağıdakilerden hangisidir?</b>",
+  "cevap": "\nA) Osman b. Affan\nB) Ebu Huzeyfe b. Utbe\nC) Cafer b. Ebu Talib\nD) Hamza b. Abdülmuttalip\nE) Abdurrahman b. Avf",
+  "dogru_cevap": "C"
+},
+    {
+      "soru_type":2,
+      "soru_id": 1023,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
+      "ders_adi": "İslam Tarihi (MBSTS 2024)",
+      "soru": "Hz. Muhammed'in (s.a.v) beşinci göbekten dedesi Kusay b. Kilab, Huzaalıların elinde bulunan Mekke yönetimini ele geçirdi. Daha sonra Mekke çevresinde dağınık bir şekilde bulunan Kureyş kabilesini Kâbe'nin çevresine yerleştirdi. Ayrıca o, Kâbe'nin ve şehrin yönetimiyle ilgili bazı yenilikler yaptı. Bu kapsamda yeni görevler ihdas ederek bunları Kureyş kabilesinin farklı kolları arasında taksim etti.\n\n<b>Bu görevlerle ilgili olarak aşağıdaki açıklamalardan hangisi <u>yanlıştır?</u></b>",
+  "cevap": "A) Rifade: Mekkelilerden para toplayıp fakir hacılara yemek verilmesi\nB) Sikaye: Hac için gelenlerin su ihtiyacının karşılanması\nC) Nedve: Önemli işlerin görüşüldüğü toplantıya başkanlık yapılması\nD) Hicabe: Kureyş'in yabancı elçiler nezdinde temsil edilmesi\nE) Liva: Savaşlarda Kureyş'in bayrağını taşıma imtiyazı",
+  "dogru_cevap": "D"
 }
     
   ]
