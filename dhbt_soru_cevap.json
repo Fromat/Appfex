@@ -175,6 +175,16 @@
       "soru":"\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
       "cevap": "\nA) IV - II - III - I\nB) IV - I - II - III\nC) I - IV - III - II\nD) I - II - -III - IV\nE) II - IV - III - I",
       "dogru_cevap": "B"
+},
+    {
+      "soru_type":2,
+      "soru_id": 1020,
+      "category_name":"MBSTS",
+      "category_subtext":"2018-2025 sorularından",
+      "ders_adi": "İslam Tarihi (MBSTS 2025)",
+      "soru":"Hz. Osman’ın şehit edilmesi üzerine Hz. Ali, İslam toplumunun geleceğini de düşünerek sahabelerin ısrarı ile halifeliği kabul etmişti. Hz. Aişe, Talha, Zübeyr gibi sahabeler ve Şam Valisi Muaviye, öncelikle ondan Hz. Osman’ın katillerinin hemen cezalandırılmasını istemiş ve ancak bundan sonra biat edeceklerini belirtmişti. Bu sırada Hz. Osman’ın katilleri henüz Medine’den ayrılmamıştı. Böyle bir ortamda halife olan Hz. Ali, isyancıları hemen cezalandırma yoluna gitmemiş ve onların cezalandırılmasını talep eden bu kişilerden bir süre sabretmelerini istemişti.\n<b>Hz. Ali’nin bu isteğinde aşağıdakilerden hangisinin belirleyici olduğu söylenebilir?</b>",
+      "cevap": "\nA) İsyancıları cezalandıracak güce henüz ulaşamamış olması\nB) İsyancıların Hz. Osman’ı öldürmekte haklı olduklarını düşünmesi\nC) İsyancıları fetihlerde görevlendirerek onlardan istifade etme düşüncesi \nD) İsyancıların içinde önde gelen sahabelerin çocuklarının olduğunu düşünmesi\nE) İsyancıları affederek onların desteğini almak istemesi",
+      "dogru_cevap": "A"
 }
     
   ]
