@@ -7,7 +7,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
-      "cevap": "Kıraat"
+      "cevap": "Kıraat",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -16,7 +17,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
-      "cevap": "İcazet"
+      "cevap": "İcazet",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -25,7 +27,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
-      "cevap": "İl'am"
+      "cevap": "İl'am",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -34,7 +37,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
-      "cevap": "Müsnedler"
+      "cevap": "Müsnedler",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -43,7 +47,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Tefsir",
       "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
-      "cevap": "Hizip"
+      "cevap": "Hizip",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -52,7 +57,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Tefsir",
       "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
-      "cevap": "Siyak"
+      "cevap": "Siyak",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -61,7 +67,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Kelam",
       "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
-      "cevap": "Temanu"
+      "cevap": "Temanu",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -70,7 +77,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Fıkıh",
       "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
-      "cevap": "İstihsan"
+      "cevap": "İstihsan",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -79,7 +87,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Kelam",
       "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
-      "cevap": "Tenzih"
+      "cevap": "Tenzih",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -88,7 +97,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "İslam Hukuku",
       "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
-      "cevap": "Beraet-i asliyye"
+      "cevap": "Beraet-i asliyye",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -97,7 +107,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Hadis",
       "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
-      "cevap": "Sahih"
+      "cevap": "Sahih",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -106,7 +117,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
-      "cevap": "Remel"
+      "cevap": "Remel",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -115,7 +127,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
-      "cevap": "Hervele"
+      "cevap": "Hervele",
+      "exam_year": 0
     },
     {
       "soru_type": 1,
@@ -124,7 +137,8 @@
       "category_subtext": "2013-2024 sorularından",
       "ders_adi": "Fıkıh (Hac)",
       "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
-      "cevap": "Izdıba"
+      "cevap": "Izdıba",
+      "exam_year": 0
     },
     {
       "soru_type": 2,
