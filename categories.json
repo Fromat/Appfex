@@ -7,6 +7,11 @@
     },
     {
       "category_id": 2,
+      "category_name": "DKAB/İHL",
+      "category_subtext": "2013-2024 sorularından"
+    },
+    {
+      "category_id": 3,
       "category_name": "SİZDEN GELENLER",
       "category_subtext": "Tecrübeli hocalarımızdan",
       "ogretmenler": [
@@ -35,11 +40,6 @@
           "iletisim_url": "https://linkedin.com/in/elifaksoy"
         }
       ]
-    },
-     {
-      "category_id": 3,
-      "category_name": "DKAB/İHL",
-      "category_subtext": "2013-2024 sorularından"
-    },   
+    }
   ]
 }
