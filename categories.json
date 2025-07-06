@@ -18,25 +18,21 @@
         {
           "id": 1,
           "isim": "Ahmet Yılmaz",
-          "kurum": "İstanbul İmam Hatip Lisesi",
           "iletisim_url": "https://okulsite.com/ahmet-yilmaz"
         },
         {
           "id": 2,
           "isim": "Zeynep Kara",
-          "kurum": "Ankara Anadolu İHL",
           "iletisim_url": "https://zeynepkara.com"
         },
         {
           "id": 3,
           "isim": "Mehmet Demir",
-          "kurum": "İzmir Kız İmam Hatip Lisesi",
           "iletisim_url": "https://instagram.com/mehmetdemir_ihl"
         },
         {
           "id": 4,
           "isim": "Elif Aksoy",
-          "kurum": "Konya Meram Anadolu İHL",
           "iletisim_url": "https://linkedin.com/in/elifaksoy"
         }
       ]
