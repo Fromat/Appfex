@@ -195,12 +195,13 @@
     {
       "soru_type": 2,
       "soru_id": 1023,
-      "category_id": 1,
+      "category_id": 3,
       "ders_adi": "İslam Tarihi",
       "soru": "Hz. Muhammed'in (s.a.v) beşinci göbekten dedesi Kusay b. Kilab, Huzaalıların elinde bulunan Mekke yönetimini ele geçirdi. Daha sonra Mekke çevresinde dağınık bir şekilde bulunan Kureyş kabilesini Kâbe'nin çevresine yerleştirdi. Ayrıca o, Kâbe'nin ve şehrin yönetimiyle ilgili bazı yenilikler yaptı. Bu kapsamda yeni görevler ihdas ederek bunları Kureyş kabilesinin farklı kolları arasında taksim etti.\n\n<b>Bu görevlerle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?</b>",
       "cevap": "\nA) Rifade: Mekkelilerden para toplayıp fakir hacılara yemek verilmesi\nB) Sikaye: Hac için gelenlerin su ihtiyacının karşılanması\nC) Nedve: Önemli işlerin görüşüldüğü toplantıya başkanlık yapılması\nD) Hicabe: Kureyş'in yabancı elçiler nezdinde temsil edilmesi\nE) Liva: Savaşlarda Kureyş'in bayrağını taşıma imtiyazı",
       "dogru_cevap": "D",
-      "exam_year": 2024
+      "exam_year": 2024,
+      "ogretmen_id":4
     }
   ]
 }
