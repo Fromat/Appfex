@@ -149,7 +149,8 @@
       "ders_adi": "İslam Tarihi",
       "soru": "<b>Aşağıdakilerden hangisi Yahudilerin Medine Vesikası'nı ihlal ettiği hususlardan biri değildir?</b>",
       "cevap": "\nA) Hendek Savaşı esnasında Müslümanlara ihanet etmeleri\nB) Mustalikoğulları Gazvesi sonrasında Hz. Aişe'ye iftira atmaları\nC) Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri\nD) Paylarına düşen diyet miktarını ödemekten kaçınmaları\nE) Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları",
-      "dogru_cevap": "B"
+      "dogru_cevap": "B",
+      "ogretmen_id":2
     },
     {
       "soru_type": 2,
