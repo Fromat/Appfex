@@ -14,23 +14,35 @@
       "category_id": 3,
       "category_name": "SİZDEN GELENLER",
       "category_subtext": "Tecrübeli hocalarımızdan",
-      "ogretmenler": [
-        {
-          "id": 1,
-          "isim": "Salih KÖKLÜ",
-          "iletisim_url": "https://www.instagram.com/koklu2519/"
-        },
-        {
-          "id": 2,
-          "isim": "Handan HOCA",
-          "iletisim_url": "https://zeynepkara.com"
-        },
-        {
-          "id": 3,
-          "isim": "Ahmet ŞENOL",
-          "iletisim_url": "https://instagram.com/mehmetdemir_ihl"
-        }
-      ]
+     "ogretmenler": [
+    {
+      "id": 1,
+      "isim": "Ahmet ŞENOL",
+      "socialmedia_url": {
+        "instagram": "https://www.instagram.com/ahmetsenol_dkab/",
+        "youtube": "",
+        "telegram": ""
+      }
+    },
+    {
+      "id": 2,
+      "isim": "Handan BULUT",
+      "socialmedia_url": {
+        "instagram": "https://www.instagram.com/handanhocayladkab_nokta_atisi/",
+        "youtube": "",
+        "telegram": ""
+      }
+    },
+    {
+      "id": 3,
+      "isim": "Salih KÖKLÜ",
+      "socialmedia_url": {
+        "instagram": "https://www.instagram.com/koklu2519/",
+        "youtube": "",
+        "telegram": ""
+      }
+    }
+  ]
     }
   ]
 }
