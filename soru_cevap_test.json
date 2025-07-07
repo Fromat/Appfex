@@ -144,16 +144,6 @@
     },
     {
       "soru_type": 2,
-      "soru_id": 1018,
-      "category_id": 3,
-      "ders_adi": "İslam Tarihi",
-      "soru": "<b>Aşağıdakilerden hangisi Yahudilerin Medine Vesikası'nı ihlal ettiği hususlardan biri değildir?</b>",
-      "cevap": "\nA) Hendek Savaşı esnasında Müslümanlara ihanet etmeleri\nB) Mustalikoğulları Gazvesi sonrasında Hz. Aişe'ye iftira atmaları\nC) Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri\nD) Paylarına düşen diyet miktarını ödemekten kaçınmaları\nE) Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları",
-      "dogru_cevap": "B",
-      "ogretmen_id":2
-    },
-    {
-      "soru_type": 2,
       "soru_id": 1019,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
@@ -196,11 +186,21 @@
       "soru_type": 2,
       "soru_id": 1023,
       "category_id": 3,
+      "ders_adi": "İslam Mezhepleri Tarihi",
+      "soru": "Bu fırka Sıffın Savaşı sonunda, Ali ve Muaviye tarafları arasında ortaya çıkan ihtilafın, Kur'an hükümlerine göre çözülmesini isterken, iki tarafın seçtiği hakemlere havale edilmesine karşı çıkarak “Hüküm Allah'ındır” diye Ali'ye muhalefet eden ilk harici gruptur. Hz. Ali'nin ordusu Kufe'ye dönünce, bu grup da Harura'ya çekilmiş, aralarında teşkilatlanarak Abdullah b. Vehb er-Rasidi'yi halife seçerek, mü'minlerin emiri diye isimlendirmişlerdir. Bu grup yerleştikleri yerin ismi Harura olması sebebiyle Haruriyye diye de anılmıştır.\n\n<b>Bu parçada hakkında bilgi verilen Harici grup aşağıdakilerden hangisidir?</b>",
+      "cevap": "\nA) el-Muhakkimetü'l-Ula\nB) Ezarıka\nC) Necedat\nD) Sufriye\nE) Acaride",
+      "dogru_cevap": "A",
+      "ogretmen_id":1
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1023,
+      "category_id": 3,
       "ders_adi": "İslam Tarihi",
-      "soru": "Hz. Muhammed'in (s.a.v) beşinci göbekten dedesi Kusay b. Kilab, Huzaalıların elinde bulunan Mekke yönetimini ele geçirdi. Daha sonra Mekke çevresinde dağınık bir şekilde bulunan Kureyş kabilesini Kâbe'nin çevresine yerleştirdi. Ayrıca o, Kâbe'nin ve şehrin yönetimiyle ilgili bazı yenilikler yaptı. Bu kapsamda yeni görevler ihdas ederek bunları Kureyş kabilesinin farklı kolları arasında taksim etti.\n\n<b>Bu görevlerle ilgili olarak aşağıdaki açıklamalardan hangisi yanlıştır?</b>",
-      "cevap": "\nA) Rifade: Mekkelilerden para toplayıp fakir hacılara yemek verilmesi\nB) Sikaye: Hac için gelenlerin su ihtiyacının karşılanması\nC) Nedve: Önemli işlerin görüşüldüğü toplantıya başkanlık yapılması\nD) Hicabe: Kureyş'in yabancı elçiler nezdinde temsil edilmesi\nE) Liva: Savaşlarda Kureyş'in bayrağını taşıma imtiyazı",
-      "dogru_cevap": "D",
-      "ogretmen_id":4
+      "soru": "Bu seriyye;\n• Hz. Peygamber'in Zeyd b. Harise kumandasında Beni Sa'lebe üzerine gönderdiği seriyyedir.\n• Bu seriyye Ebu Ubeyde'nin yarım kalan görevini tamamlama amacını taşımaktadır.\n• Seriyye 6. yılın Cemaziyelâhir ayında sevk edilmiştir.\n• 15 kişilik bir birliğin başında Beni Sa'lebe üzerine gidilmiştir.\n• Beni Sa'lebe kabilesi on beş kişilik kuvveti büyük bir ordunun öncü birliği zannetmiş ve Hz. Peygamber'in büyük bir orduyla üzerlerine geldiğini düşünerek yurtlarını bırakıp kaçmışlardır.\n\nYukarıda hakkında bilgiler verilen seriyye aşağıdakilerden hangisidir?",
+      "cevap": "\nA) Zülcedr\nB) Taref\nC) Kedid\nD) Meyfaa\nE) Rabiğ",
+      "dogru_cevap": "B",
+      "ogretmen_id":1
     }
   ]
 }
