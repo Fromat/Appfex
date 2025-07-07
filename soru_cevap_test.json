@@ -194,12 +194,22 @@
     },
     {
       "soru_type": 2,
-      "soru_id": 1023,
+      "soru_id": 1024,
       "category_id": 3,
       "ders_adi": "İslam Tarihi",
-      "soru": "Bu seriyye;\n• Hz. Peygamber'in Zeyd b. Harise kumandasında Beni Sa'lebe üzerine gönderdiği seriyyedir.\n• Bu seriyye Ebu Ubeyde'nin yarım kalan görevini tamamlama amacını taşımaktadır.\n• Seriyye 6. yılın Cemaziyelâhir ayında sevk edilmiştir.\n• 15 kişilik bir birliğin başında Beni Sa'lebe üzerine gidilmiştir.\n• Beni Sa'lebe kabilesi on beş kişilik kuvveti büyük bir ordunun öncü birliği zannetmiş ve Hz. Peygamber'in büyük bir orduyla üzerlerine geldiğini düşünerek yurtlarını bırakıp kaçmışlardır.\n\nYukarıda hakkında bilgiler verilen seriyye aşağıdakilerden hangisidir?",
+      "soru": "Bu seriyye;\n• Hz. Peygamber'in Zeyd b. Harise kumandasında Beni Sa'lebe üzerine gönderdiği seriyyedir.\n• Bu seriyye Ebu Ubeyde'nin yarım kalan görevini tamamlama amacını taşımaktadır.\n• Seriyye 6. yılın Cemaziyelâhir ayında sevk edilmiştir.\n• 15 kişilik bir birliğin başında Beni Sa'lebe üzerine gidilmiştir.\n• Beni Sa'lebe kabilesi on beş kişilik kuvveti büyük bir ordunun öncü birliği zannetmiş ve Hz. Peygamber'in büyük bir orduyla üzerlerine geldiğini düşünerek yurtlarını bırakıp kaçmışlardır.\n\n<b>Yukarıda hakkında bilgiler verilen seriyye aşağıdakilerden hangisidir?</b>",
       "cevap": "\nA) Zülcedr\nB) Taref\nC) Kedid\nD) Meyfaa\nE) Rabiğ",
       "dogru_cevap": "B",
+      "ogretmen_id":1
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1025,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+      "soru": "İnsanlık tarihi bize göstermektedir ki, yeryüzünde, ırkları, memleketleri, görüş, din ve mezhepleri farklı olmasına rağmen bütün milletler, bu âlemde hikmet sahibi bir yaratıcının eserlerini müşahede ettiklerinden şüphe etmemişlerdir. Ezeli ve kadim bir yaratıcının varlığını kabullenmişler ve O'na tapınmışlardır. Nereye gidilirse gidilsin bir din ve tanrı fikrine rastlanılmıştır. Tarih boyunca çeşitli dönemlerde insanda tanrı fikri daima mevcut olmuştur. Hatta inkârın en aşırı noktasına ulaşmış olan kimseler bile, büyük bir felaketle karşılaştıkları zaman, taşa, toprağa, ağaca sığınma yerine, kendinden üstün bir yüce kudrete sığınmayı tercih etmişlerdir. İşte dönemleri, memleketleri ve kültürleri birbirinden farklı olan milletlerde görülen bu ilah fikri ve din duygusu, Allah'ın varlığına delalet etmektedir.\n\n<b>Bu parçada Allah'ın varlığını ispat eden delillerden hangisi hakkında bilgi verilmiştir?</b>",
+      "cevap": "\nA) İhtira\nB) İmkan\nC) Kabul-i Amme\nD) Gaye ve Nizam\nE) Kemal",
+      "dogru_cevap": "C",
       "ogretmen_id":1
     }
   ]
