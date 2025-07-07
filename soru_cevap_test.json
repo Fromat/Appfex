@@ -211,6 +211,26 @@
       "cevap": "\nA) İhtira\nB) İmkan\nC) Kabul-i Amme\nD) Gaye ve Nizam\nE) Kemal",
       "dogru_cevap": "C",
       "ogretmen_id":1
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1026,
+      "category_id": 3,
+      "ders_adi": "Tefsir",
+      "soru": "Bu mezhep akımının temsilcilerinden birisi Fransız asıllı bilgin Roger Garaudy'dir. Garaudy, Kur'an'ın tarihsel okunuşunu esas almaktadır. Çünkü ona göre ancak bu yaklaşım tarzı ile Kur'an'ın hakiki anlamını tespit mümkün olabilir. Ona göre Kur'an'ın adete ve örfe bina edilen ahkâm ve muâmelata dair bütün hükümleri, özellikle zaman ve coğrafya farkları söz konusu ise değişebilir. Mesela, Kur'an'ın ilk muhatapları Araplar değil de \"zihar\" uygulamısının bulunmadığı bir toplum olsaydı, doğal olarak Kur'an metninde \"zihar\" yer almazdı.\n\n<b>Bu parçada görüşleri verilen Roger Garaudy aşağıdaki tefsir akımlarından hangisinin temsilcisidir?</b>",
+      "cevap": "\nA) İşari Tefsir\nB) Mezhebi Tefsir\nC) Modrenist Tefsir\nD) Fıkhi Tefsir\nE) İlhadî Tefsir",
+      "dogru_cevap": "C",
+      "ogretmen_id":1
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1027,
+      "category_id": 3,
+      "ders_adi": "Din Eğitimi",
+      "soru": "Tanzimat dönemine ait olan bu medrese:\n• 6 Şubat 1912 tarihinde yayımlanan bir nizamname ile “İslam tebliğcileri” yetiştirmek amacıyla kurulmuştur.\n• Dersler dini yoğunlukta olmasına rağmen edebiyat, tarih, coğrafya, matematik, geometri, hukuk bilgisi, sağlık bilgisi, felsefe, astronomi, sosyoloji, iktisat gibi gerek fen bilimleri ve gerekse sosyal bilimler de bu medreselerde önemli bir yekûn tutmuştur.\n• Buradan mezun olanlar Askeri birliklerin din hizmetlerine atanabiliyordu.\n\n<b>Yukarıda hakkında bilgi verilen medrese aşağıdakilerden hangisidir?</b>",
+      "cevap": "\nA) Darü'l-Hilafeti'l-Aliyye\nB) Medresetü'l-Eimme ve'l-Huteba\nC) Medresetü'l-İrşad\nD) Sahn-ı Seman\nE) Medresetü'l-Vaizin",
+      "dogru_cevap": "E",
+      "ogretmen_id":1
     }
   ]
 }
