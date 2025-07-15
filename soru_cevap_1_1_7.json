@@ -310,14 +310,14 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "Kelam ilminde ilk tartışılan konulardan biri mürtekib-i kebire meselesidir. Mürtekib-i kebirenin durumuyla ilgili\nI. Tövbe etmediği takdirde dünyada ve ahirette kâfir olarak muamele görür.\nII. İmandan çıkar fakat küfre girmeyip imanla küfür arasında bir yerde bulunur.\nIII. Günaha girse de amel imanın bir parçası olmadığından dinden çıkmaz.\nşeklinde üç görüş öne çıkmıştır.\nBu görüşleri savunan mezhepler aşağıdakilerin hangisinde sırasıyla verilmiştir?",
-  "optionList": [
-    "Haricilik – Mutezile – Eş'arilik",
-    "Mürcie – Eş'arilik – Haricilik",
-    "Mutezile – Haricilik – Mürcie",
-    "Haricilik – Eş'arilik – Mürcie",
-    "Mürcie – Mutezile – Eş'arilik"
-  ],
-  "dogru_cevap":"A",
+      "optionList": [
+        "Haricilik – Mutezile – Eş'arilik",
+        "Mürcie – Eş'arilik – Haricilik",
+        "Mutezile – Haricilik – Mürcie",
+        "Haricilik – Eş'arilik – Mürcie",
+        "Mürcie – Mutezile – Eş'arilik"
+      ],
+      "dogru_cevap": "A",
       "exam_year": 2025
     },
     {
@@ -326,14 +326,14 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "Hüsün ve kubuh, fiillerde bulunan nesnel bir niteliktir. Güzel olan zatı itibariyle güzel, çirkin olan da zatı itibariyle çirkindir. Bundan dolayı bir fiilin güzel ve çirkin oluşu vahye değil akla bilinir, aklın kötü olduğuna hükmettiği fiil, ilahi hükme göre cezayı gerektirdiği gibi aklın iyi gördüğü bir fiil de ilahi hükme göre ödülü hak edecektir.\nBu parçadaki görüşü aşağıdaki mezheplerden hangisinin savunması beklenmez?",
-  "optionList": [
-    "Mutezile",
-    "Eş'ariyye",
-    "Cehmiyye",
-    "Kerramiyye",
-    "Şia"
-  ],
-  "dogru_cevap":"B",
+      "optionList": [
+        "Mutezile",
+        "Eş'ariyye",
+        "Cehmiyye",
+        "Kerramiyye",
+        "Şia"
+      ],
+      "dogru_cevap": "B",
       "exam_year": 2025
     },
     {
@@ -342,127 +342,15 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "Aşağıdakilerden hangisi Maturidiliğin insan iradesinin fiildeki rolü konusunda kabul ettiği görüşlerden biri değildir?",
-  "optionList": [
-    "İnsan, yaptığı eylemlerden sorumlu tutulacak bir iradeye sahiptir.",
-    "İnsan, fiillerini doğuştan kendisinde bulunan yaratma kudretiyle meydana getirir.",
-    "İnsan, eylemlerini gerçekleştireceği güç, eylemden önce insana verilmiştir.",
-    "Cüzi irade, insanın fiili yerine getirme veya terk etme ihtimallerinden birine yönelmesidir.",
-    "Külli irade, Allah tarafından insana verilmiş olan yapma ve yapmamayı tercih etme yeteneğidir."
-  ],
-  "dogru_cevap":"B",
+      "optionList": [
+        "İnsan, yaptığı eylemlerden sorumlu tutulacak bir iradeye sahiptir.",
+        "İnsan, fiillerini doğuştan kendisinde bulunan yaratma kudretiyle meydana getirir.",
+        "İnsan, eylemlerini gerçekleştireceği güç, eylemden önce insana verilmiştir.",
+        "Cüzi irade, insanın fiili yerine getirme veya terk etme ihtimallerinden birine yönelmesidir.",
+        "Külli irade, Allah tarafından insana verilmiş olan yapma ve yapmamayı tercih etme yeteneğidir."
+      ],
+      "dogru_cevap": "B",
       "exam_year": 2025
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1001,
-      "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
-      "cevap": "Kıraat"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1002,
-      "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
-      "cevap": "İcazet"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1003,
-      "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
-      "cevap": "İl'am"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1004,
-      "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
-      "cevap": "Müsnedler"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1005,
-      "category_id": 2,
-      "ders_adi": "Tefsir",
-      "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
-      "cevap": "Hizip"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1006,
-      "category_id": 2,
-      "ders_adi": "Tefsir",
-      "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
-      "cevap": "Siyak"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1007,
-      "category_id": 2,
-      "ders_adi": "Kelam",
-      "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
-      "cevap": "Temanu"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1008,
-      "category_id": 2,
-      "ders_adi": "Fıkıh",
-      "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
-      "cevap": "İstihsan"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1009,
-      "category_id": 2,
-      "ders_adi": "Kelam",
-      "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
-      "cevap": "Tenzih"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1010,
-      "category_id": 2,
-      "ders_adi": "İslam Hukuku",
-      "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
-      "cevap": "Beraet-i asliyye"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1011,
-      "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
-      "cevap": "Sahih"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1012,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
-      "cevap": "Remel"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1013,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
-      "cevap": "Hervele"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1014,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
-      "cevap": "Izdıba"
     },
     {
       "soru_type": 2,
