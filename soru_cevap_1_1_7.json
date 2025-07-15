@@ -309,15 +309,47 @@
       "soru_id": 2524,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "Sultan Alparslan ve oğlu Melikşah dönemlerinde Büyük Selçuklu Devleti'nde vezirlik yapan Nizamülmülk, devlet adamlığının yanında eğitime verdiği önemle bilinmektedir. Bu kapsamda Nizamiye Medreselerini kurmuş ve devlet tecrübelerini aktardığı Siyasetnâme adlı bir eser yazmıştır. Nizamülmülk; İslam kültür ve medeniyeti, devlet teşkilatı, devlet başkanı seçimi ve devlet adamında olması gereken nitelikleri konu ettiği bu eserini herkesin okuması gerektiğini söylemiştir.\nBu eser aşağıdaki İslam hukuku kaynaklarından hangisi kapsamında değerlendirilir?",
-      "optionList": [
-        "Ahkamü's-sultaniyye",
-        "Fetava ve nevazil",
-        "Harac ve emval",
-        "Tahricü'l-furu",
-        "Tabakatü'l-fukaha"
-      ],
-      "dogru_cevap": "A",
+      "soru": "Kelam ilminde ilk tartışılan konulardan biri mürtekib-i kebire meselesidir. Mürtekib-i kebirenin durumuyla ilgili\nI. Tövbe etmediği takdirde dünyada ve ahirette kâfir olarak muamele görür.\nII. İmandan çıkar fakat küfre girmeyip imanla küfür arasında bir yerde bulunur.\nIII. Günaha girse de amel imanın bir parçası olmadığından dinden çıkmaz.\nşeklinde üç görüş öne çıkmıştır.\nBu görüşleri savunan mezhepler aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+  "optionList": [
+    "Haricilik – Mutezile – Eş'arilik",
+    "Mürcie – Eş'arilik – Haricilik",
+    "Mutezile – Haricilik – Mürcie",
+    "Haricilik – Eş'arilik – Mürcie",
+    "Mürcie – Mutezile – Eş'arilik"
+  ],
+  "dogru_cevap":"A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2525,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Hüsün ve kubuh, fiillerde bulunan nesnel bir niteliktir. Güzel olan zatı itibariyle güzel, çirkin olan da zatı itibariyle çirkindir. Bundan dolayı bir fiilin güzel ve çirkin oluşu vahye değil akla bilinir, aklın kötü olduğuna hükmettiği fiil, ilahi hükme göre cezayı gerektirdiği gibi aklın iyi gördüğü bir fiil de ilahi hükme göre ödülü hak edecektir.\nBu parçadaki görüşü aşağıdaki mezheplerden hangisinin savunması beklenmez?",
+  "optionList": [
+    "Mutezile",
+    "Eş'ariyye",
+    "Cehmiyye",
+    "Kerramiyye",
+    "Şia"
+  ],
+  "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2526,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Aşağıdakilerden hangisi Maturidiliğin insan iradesinin fiildeki rolü konusunda kabul ettiği görüşlerden biri değildir?",
+  "optionList": [
+    "İnsan, yaptığı eylemlerden sorumlu tutulacak bir iradeye sahiptir.",
+    "İnsan, fiillerini doğuştan kendisinde bulunan yaratma kudretiyle meydana getirir.",
+    "İnsan, eylemlerini gerçekleştireceği güç, eylemden önce insana verilmiştir.",
+    "Cüzi irade, insanın fiili yerine getirme veya terk etme ihtimallerinden birine yönelmesidir.",
+    "Külli irade, Allah tarafından insana verilmiş olan yapma ve yapmamayı tercih etme yeteneğidir."
+  ],
+  "dogru_cevap":"B",
       "exam_year": 2025
     },
     {
