@@ -1,21 +1,6 @@
 {
   "bilgiKutusu": [
-    {
-      "soru_type": 2,
-      "soru_id": 1019,
-      "category_id": 1,
-      "ders_adi": "İslam Tarihi",
-      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
-      "optionList": [
-        "IV - II - III - I",
-        "IV - I - II - III",
-        "I - IV - III - II",
-        "I - II - -III - IV",
-        "II - IV - III - I"
-      ],
-      "dogru_cevap": "B",
-      "exam_year": 2025
-    },
+    
     {
       "soru_type": 2,
       "soru_id": 2505,
@@ -412,6 +397,22 @@
         "Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri",
         "Paylarına düşen diyet miktarını ödemekten kaçınmaları",
         "Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları"
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1019,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
+      "optionList": [
+        "IV - II - III - I",
+        "IV - I - II - III",
+        "I - IV - III - II",
+        "I - II - -III - IV",
+        "II - IV - III - I"
       ],
       "dogru_cevap": "B",
       "exam_year": 2025
