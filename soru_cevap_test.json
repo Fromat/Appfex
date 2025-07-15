@@ -2,7 +2,7 @@
   "bilgiKutusu": [
     {
       "soru_type": 2,
-      "soru_id": 1000,
+      "soru_id": 2505,
       "category_id": 2,
       "ders_adi": "Tefsir Tarihi vu Usulü",
       "soru": "\"Kur'an'ı düşünüp anlamaya çalışmıyorlar mı? Eğer o, Allah'tan başkası tarafından (indirilmiş) olsaydı, mutlaka onda birçok çelişki bulurlardı.\" (Nisa, 4:82)\n\n<b>Bu ayet aşağıdakilerden hangisinin Kur'an'da yer almadığına delil olarak öne sürülmektedir?</b>",
@@ -14,6 +14,22 @@
       "Müphem"
     ],
       "dogru_cevap":"D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2506,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Kur'an-ı Kerim mealini okuyan Ahmet, bir ayete geldiğinde fitnenin öldürmekten daha şiddetli bir şey olduğunu okumuştur. Başka bir ayette ise malların ve çocukların insanlar için fitne olarak ifade edildiğini görünce \"Fitne öldürmekten daha şiddetlidir, mallar ve çocuklar fitnedir. O hâlde çocuklarımız savaştan daha kötü bir şeydir.\" şeklinde yanlış bir sonuca ulaşmıştır.\nAhmet'in böyle bir sonuca ulaşması aşağıdaki Kur'an ilimlerinden hangisini bilmediğini göstermektedir?",
+  "optionList": [
+    "İcazü'l-Kur'an",
+    "Mübhematü'l-Kur'an",
+    "Garibü'l-Kur'an",
+    "Fezailü'l-Kur'an",
+    "Vücuh ve Nezair"
+  ],
+  "dogru_cevap":"E",
       "exam_year": 2025
     },
     {
