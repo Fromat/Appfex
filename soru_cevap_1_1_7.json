@@ -33,6 +33,70 @@
       "exam_year": 2025
     },
     {
+      "soru_type": 2,
+      "soru_id": 2507,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Necmettin öğretmen tefsir dersinde öğrencilerinin her birine proje ödevi vermiştir. Bir öğrencisinden Kehf Suresi'nin 9-26. ayetlerinde yer alan Ashab-ı Kehf Kıssası ile ilgili rivayetleri detaylı bir şekilde araştırıp derste sunmasını istemiştir. Bu kıssayla ilgili bilgilerin israiliyyattan ve farklı rivayetlerden elde edilebileceğini söylemiştir. Bu çerçevede öğrencisine rivayet yönü öne çıkan bazı tefsir eserlerinin isimlerini de vermiştir.\nBuna göre Necmettin Öğretmen'in aşağıdaki eserlerden hangisini önermesi beklenmez?",
+  "optionList": [
+    "Taberi'nin Camiu'l-Beyan an Te'vili'l-Kur'an'ını",
+    "Sa'lebi'nin el-Keşf ve'l-Beyan an Te'vili'l-Kur'an'ını",
+    "Begavi'nin Meali-mu't-Tenzil'ini",
+    "Suyuti'nin ed-Dürrü'l-Mensur'unu",
+    "Ebussuud'un İrşadü'l-Akli's-Selim'ini"
+  ],
+  "dogru_cevap":"E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2508,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Toshihiko İzutsu, Türkçeye Kur'an'da Allah ve İnsan adı ile çevrilen eserinde Kur'an'da geçen bazı anahtar kavramları incelemiştir. Bu kavramların yapısını, anlamını, tarihsel gelişimini, insan düşünce ve davranışlarıyla olan ilişkilerini araştırmıştır. Bu incelemesinde kelimelerin anlamını esas ve izafi mana olmak üzere ikiye ayırmıştır. Kelimelerin nüzul öncesi ve sonrasında kazandığı manaları zıt kavramlarla inceleyerek bir değerlendirme yapmıştır. İzutsu'nun Kur'an'a uyguladığı bu anlam bilim yöntemi çağdaş dönem tefsir çalışmalarında kullanılmaya başlanmıştır.\nBu parçada bahsedilen husus aşağıdakilerden hangisi ifade edilmektedir?",
+  "optionList": [
+    "Hermonetik",
+    "Semantik",
+    "Antropomorfik",
+    "Sembolojik",
+    "Tarihselcilik"
+  ],
+  "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2509,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Müfessirlerin ayetleri yorumlarken kendi yetkinliğinin yanı sıra zamana ve mekâna bağlı olarak farklı yorumlarda bulunmaları doğaldır. Bu anlamda onların herhangi bir ayeti anlama ve yorumlama konusunda çeşitli bilimlerden ve yöntemlerden yararlanmasında herhangi bir mahzur yoktur. Ne var ki bu durum müfessirlerin ayetleri yorumlarken tamamen özgür olması anlamına da gelmemektedir. Onun kendisini sınırlayan ve bağlayan bazı kurallara uygun davranması bir gereklilik olup bu durum keyfi ve temelsiz yorumlardan uzak durmasını sağlamaktadır.\nAşağıdakilerden hangisi bu parçada bahsedilen kurallardan biri olamaz?",
+  "optionList": [
+    "Ayet hakkında yeterli dil incelemesinde bulunması",
+    "Ayeti nüzul sebebine uygun olan olayın bulunup bulunmadığını araştırması",
+    "Ayetin metinsel ve tarihsel bağlamını göz önüne alması",
+    "Belli bir mezhebin görüşünü merkeze alması",
+    "Rivayet malzemesini ve önceki yorumları dikkate alması"
+  ],
+  "dogru_cevap":"D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2510,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "I. İbn Hacer el-Askalani - Fethü'l-Bari\nII. Bedruddin el-Ayni - Umdetü'l-Kari\nIII. Tahavi - Şerhu Meani'l-Asar\nYukarıda numaralanmış yazar - eser eşleştirmelerinden hangileri şerh ve yorum döneminin ürünleri arasında yer almaz?",
+  "optionList": [
+    "Yalnız I",
+    "Yalnız II",
+    "Yalnız III",
+    "I ve II",
+    "II ve III"
+  ],
+  "dogru_cevap":"C",
+      "exam_year": 2025
+    },
+    {
       "soru_type": 1,
       "soru_id": 1001,
       "category_id": 2,
