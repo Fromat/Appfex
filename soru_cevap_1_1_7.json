@@ -1,0 +1,500 @@
+{
+  "bilgiKutusu": [
+    {
+      "soru_type": 2,
+      "soru_id": 2505,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "\"Kur'an'ı düşünüp anlamaya çalışmıyorlar mı? Eğer o, Allah'tan başkası tarafından (indirilmiş) olsaydı, mutlaka onda birçok çelişki bulurlardı.\" (Nisa, 4:82)\n\n<b>Bu ayet aşağıdakilerden hangisinin Kur'an'da yer almadığına delil olarak öne sürülmektedir?</b>",
+      "optionList": [
+      "Garib",
+      "Vucûh",
+      "Mecaz",
+      "Müşkil",
+      "Müphem"
+    ],
+      "dogru_cevap":"D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2506,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Kur'an-ı Kerim mealini okuyan Ahmet, bir ayete geldiğinde fitnenin öldürmekten daha şiddetli bir şey olduğunu okumuştur. Başka bir ayette ise malların ve çocukların insanlar için fitne olarak ifade edildiğini görünce \"Fitne öldürmekten daha şiddetlidir, mallar ve çocuklar fitnedir. O hâlde çocuklarımız savaştan daha kötü bir şeydir.\" şeklinde yanlış bir sonuca ulaşmıştır.\nAhmet'in böyle bir sonuca ulaşması aşağıdaki Kur'an ilimlerinden hangisini bilmediğini göstermektedir?",
+  "optionList": [
+    "İcazü'l-Kur'an",
+    "Mübhematü'l-Kur'an",
+    "Garibü'l-Kur'an",
+    "Fezailü'l-Kur'an",
+    "Vücuh ve Nezair"
+  ],
+  "dogru_cevap":"E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1001,
+      "category_id": 2,
+      "ders_adi": "Hadis",
+      "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
+      "cevap": "Kıraat"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1002,
+      "category_id": 2,
+      "ders_adi": "Hadis",
+      "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
+      "cevap": "İcazet"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1003,
+      "category_id": 2,
+      "ders_adi": "Hadis",
+      "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
+      "cevap": "İl'am"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1004,
+      "category_id": 2,
+      "ders_adi": "Hadis",
+      "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
+      "cevap": "Müsnedler"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1005,
+      "category_id": 2,
+      "ders_adi": "Tefsir",
+      "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
+      "cevap": "Hizip"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1006,
+      "category_id": 2,
+      "ders_adi": "Tefsir",
+      "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
+      "cevap": "Siyak"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1007,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
+      "cevap": "Temanu"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1008,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
+      "cevap": "İstihsan"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1009,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
+      "cevap": "Tenzih"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1010,
+      "category_id": 2,
+      "ders_adi": "İslam Hukuku",
+      "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
+      "cevap": "Beraet-i asliyye"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1011,
+      "category_id": 2,
+      "ders_adi": "Hadis",
+      "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
+      "cevap": "Sahih"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1012,
+      "category_id": 2,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
+      "cevap": "Remel"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1013,
+      "category_id": 2,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
+      "cevap": "Hervele"
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1014,
+      "category_id": 2,
+      "ders_adi": "Fıkıh (Hac)",
+      "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
+      "cevap": "Izdıba"
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1015,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Müslümanların Hevazinlilerle yaptığı savaş sırasında zor duruma düştüğünü gören Mekkelilerden\n* Ebu Süfyan 'Bu bozgunun sonu denize kadar ulaşır.'\n* Kelede b. Hanbel 'Artık büyü bozuldu.'\n* Safvan b. Ümeyye ise 'Hevazin'den birinin yerine Kurayş'ten bir adamın beni terbiye etmesi benim için daha hayırlıdır.'\nşeklinde ifadeler kullanmıştır.\n<b>Bu ifadeler aşağıdaki savaşların hangisiyle ilgilidir?</b>",
+      "optionList": [
+        "Hendek",
+        "Hayber",
+        "Mute",
+        "Uhud",
+        "Huneyn"
+      ],
+      "dogru_cevap":"E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1016,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Bir grup müşriğin Medine'ye saldıracağı haberi üzerine Hz. Muhammed (a.s), hicretin sekizinci yılında Amr b. As komutasındaki bir birliği düşman üzerine gönderdi.Sefer dönüşünde sahabenin bir kısmı, tercihleri dolayısıyla onu Hz. Muhammed'e (a.s) şikayet etti. Amr b. As, yerlerinin ve sayılarının açığa çıkmasını engellemek amacıyla ateş yaktırmadığını ve Müslümanlara pusu kurulmuş olabileceği endişesiyle düşmanı takibe izin vermediğini belirterek kendini savundu. Hz. Muhammed(a.s), onun bu ifadelerine karşılık herhangi bir şey söylemeyerek kararlarını onayladığını gösterdi.\n<b>Bu parçada bahsedilen seriyye aşağıdakilerden hangisidir?</b> ",
+      "optionList": [
+        "Rabiğ",
+        "Katan",
+        "Gamre",
+        "Sifülbahr",
+        "Zatüsselasil"
+      ],
+      "dogru_cevap":"E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1017,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "<b>Aşağıdakilerden hangisi Yahudilerin Medine Vesikası'nı ihlal ettiği hususlardan biri değildir?</b>",
+      "optionList": [
+        "Hendek Savaşı esnasında Müslümanlara ihanet etmeleri",
+        "Mustalikoğulları Gazvesi sonrasında Hz. Aişe'ye iftira atmaları",
+        "Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri",
+        "Paylarına düşen diyet miktarını ödemekten kaçınmaları",
+        "Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları"
+      ],
+      "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1019,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
+      "optionList": [
+        "IV - II - III - I",
+        "IV - I - II - III",
+        "I - IV - III - II",
+        "I - II - -III - IV",
+        "II - IV - III - I"
+      ],
+      "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1020,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Hz. Osman’ın şehit edilmesi üzerine Hz. Ali, İslam toplumunun geleceğini de düşünerek sahabelerin ısrarı ile halifeliği kabul etmişti. Hz. Aişe, Talha, Zübeyr gibi sahabeler ve Şam Valisi Muaviye, öncelikle ondan Hz. Osman’ın katillerinin hemen cezalandırılmasını istemiş ve ancak bundan sonra biat edeceklerini belirtmişti. Bu sırada Hz. Osman’ın katilleri henüz Medine’den ayrılmamıştı. Böyle bir ortamda halife olan Hz. Ali, isyancıları hemen cezalandırma yoluna gitmemiş ve onların cezalandırılmasını talep eden bu kişilerden bir süre sabretmelerini istemişti.\n<b>Hz. Ali’nin bu isteğinde aşağıdakilerden hangisinin belirleyici olduğu söylenebilir?</b>",
+      "optionList": [
+        "İsyancıları cezalandıracak güce henüz ulaşamamış olması",
+        "İsyancıların Hz. Osman’ı öldürmekte haklı olduklarını düşünmesi",
+        "İsyancıları fetihlerde görevlendirerek onlardan istifade etme düşüncesi",
+        "İsyancıların içinde önde gelen sahabelerin çocuklarının olduğunu düşünmesi",
+        "İsyancıları affederek onların desteğini almak istemesi"
+      ],
+      "dogru_cevap":"A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1021,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Emevi Devleti yöneticilerinden\n• Hz. Osman’ın devlet yönetiminde önemli kararlara imza atan,\n• Hz. Osman’a yapılan eleştirilerin merkezinde yer alan,\n• Emevi yönetiminde Süfyaniler Dönemi’ni sonlandıran\n<b>kişi aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Yezid b. Muaviye",
+        "Mervanb.Hakem",
+        "Hişam b. Abdülmelik",
+        "Ömer b. Abdülaziz",
+        "İbrahimb.Velid"
+      ],
+      "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1022,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "İlk Müslümanlar arasında;\n• Haşimoğulları'na mensup olan,\n• Habeşistan'a hicret eden Müslümanların başkanlığını yapan,\n• Mute Savaşı'nda komutanlık yaparak şehit düşen\n<b>sahabe aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Osman b. Affan",
+        "Ebu Huzeyfe b. Utbe",
+        "Cafer b. Ebu Talib",
+        "Hamza b. Abdülmuttalip",
+        "Abdurrahman b. Avf"
+      ],
+      "dogru_cevap":"C",
+      "exam_year": 2024
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1023,
+      "category_id": 3,
+      "ders_adi": "İslam Mezhepler Tarihi",
+      "soru": "Bu fırka Sıffın Savaşı sonunda, Ali ve Muaviye tarafları arasında ortaya çıkan ihtilafın, Kur'an hükümlerine göre çözülmesini isterken, iki tarafın seçtiği hakemlere havale edilmesine karşı çıkarak “Hüküm Allah'ındır” diye Ali'ye muhalefet eden ilk harici gruptur. Hz. Ali'nin ordusu Kufe'ye dönünce, bu grup da Harura'ya çekilmiş, aralarında teşkilatlanarak Abdullah b. Vehb er-Rasidi'yi halife seçerek, mü'minlerin emiri diye isimlendirmişlerdir. Bu grup yerleştikleri yerin ismi Harura olması sebebiyle Haruriyye diye de anılmıştır.\n\n<b>Bu parçada hakkında bilgi verilen Harici grup aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "el-Muhakkimetü'l-Ula",
+        "Ezarıka",
+        "Necedat",
+        "Sufriye",
+        "Acaride"
+      ],
+      "dogru_cevap":"A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1024,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Bu seriyye;\n• Hz. Peygamber'in Zeyd b. Harise kumandasında Beni Sa'lebe üzerine gönderdiği seriyyedir.\n• Bu seriyye Ebu Ubeyde'nin yarım kalan görevini tamamlama amacını taşımaktadır.\n• Seriyye 6. yılın Cemaziyelâhir ayında sevk edilmiştir.\n• 15 kişilik bir birliğin başında Beni Sa'lebe üzerine gidilmiştir.\n• Beni Sa'lebe kabilesi on beş kişilik kuvveti büyük bir ordunun öncü birliği zannetmiş ve Hz. Peygamber'in büyük bir orduyla üzerlerine geldiğini düşünerek yurtlarını bırakıp kaçmışlardır.\n\n<b>Yukarıda hakkında bilgiler verilen seriyye aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Zülcedr",
+        "Taref",
+        "Kedid",
+        "Meyfaa",
+        "Rabiğ"
+      ],
+      "dogru_cevap":"B",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1025,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+      "soru": "İnsanlık tarihi bize göstermektedir ki, yeryüzünde, ırkları, memleketleri, görüş, din ve mezhepleri farklı olmasına rağmen bütün milletler, bu âlemde hikmet sahibi bir yaratıcının eserlerini müşahede ettiklerinden şüphe etmemişlerdir. Ezeli ve kadim bir yaratıcının varlığını kabullenmişler ve O'na tapınmışlardır. Nereye gidilirse gidilsin bir din ve tanrı fikrine rastlanılmıştır. Tarih boyunca çeşitli dönemlerde insanda tanrı fikri daima mevcut olmuştur. Hatta inkârın en aşırı noktasına ulaşmış olan kimseler bile, büyük bir felaketle karşılaştıkları zaman, taşa, toprağa, ağaca sığınma yerine, kendinden üstün bir yüce kudrete sığınmayı tercih etmişlerdir. İşte dönemleri, memleketleri ve kültürleri birbirinden farklı olan milletlerde görülen bu ilah fikri ve din duygusu, Allah'ın varlığına delalet etmektedir.\n\n<b>Bu parçada Allah'ın varlığını ispat eden delillerden hangisi hakkında bilgi verilmiştir?</b>",
+      "optionList": [
+        "İhtira",
+        "İmkan",
+        "Kabul-i Amme",
+        "Gaye ve Nizam",
+        "Kemal"
+      ],
+      "dogru_cevap":"C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1026,
+      "category_id": 3,
+      "ders_adi": "Tefsir",
+      "soru": "Bu mezhep akımının temsilcilerinden birisi Fransız asıllı bilgin Roger Garaudy'dir. Garaudy, Kur'an'ın tarihsel okunuşunu esas almaktadır. Çünkü ona göre ancak bu yaklaşım tarzı ile Kur'an'ın hakiki anlamını tespit mümkün olabilir. Ona göre Kur'an'ın adete ve örfe bina edilen ahkâm ve muâmelata dair bütün hükümleri, özellikle zaman ve coğrafya farkları söz konusu ise değişebilir. Mesela, Kur'an'ın ilk muhatapları Araplar değil de \"zihar\" uygulamısının bulunmadığı bir toplum olsaydı, doğal olarak Kur'an metninde \"zihar\" yer almazdı.\n\n<b>Bu parçada görüşleri verilen Roger Garaudy aşağıdaki tefsir akımlarından hangisinin temsilcisidir?</b>",
+      "optionList": [
+        "İşari Tefsir",
+        "Mezhebi Tefsir",
+        "Modrenist Tefsir",
+        "Fıkhi Tefsir",
+        "İlhadî Tefsir"
+      ],
+      "dogru_cevap":"C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1027,
+      "category_id": 3,
+      "ders_adi": "Din Eğitimi",
+      "soru": "Tanzimat dönemine ait olan bu medrese:\n• 6 Şubat 1912 tarihinde yayımlanan bir nizamname ile “İslam tebliğcileri” yetiştirmek amacıyla kurulmuştur.\n• Dersler dini yoğunlukta olmasına rağmen edebiyat, tarih, coğrafya, matematik, geometri, hukuk bilgisi, sağlık bilgisi, felsefe, astronomi, sosyoloji, iktisat gibi gerek fen bilimleri ve gerekse sosyal bilimler de bu medreselerde önemli bir yekûn tutmuştur.\n• Buradan mezun olanlar Askeri birliklerin din hizmetlerine atanabiliyordu.\n\n<b>Yukarıda hakkında bilgi verilen medrese aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Darü'l-Hilafeti'l-Aliyye",
+        "Medresetü'l-Eimme ve'l-Huteba",
+        "Medresetü'l-İrşad",
+        "Sahn-ı Seman",
+        "Medresetü'l-Vaizin"
+      ],
+      "dogru_cevap":"E",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1028,
+      "category_id": 3,
+      "ders_adi": "Din Felsefesi",
+      "soru": "Bu tanrı tasavvuru;\n• Çift kutuplu uluhiyet anlayışı olarak da adlandırılmaktadır.\n• Kökleri 12. yüzyıl Hint düşünürü Ramanuja'da bulunan, 20. yüzyılda ise daha ziyade süreç filozofları tarafından temsil edilen bir Tanrı tasavvurudur.\n• Bu anlayışa göre \"her şey Tanrı'dadır\", ancak Tanrı ile âlem bir ve aynı değildir.\n• Bu tanrı tasavvuru terimini 19. yüzyıl başlarında ilk kez Kral Krause adında bir Alman düşünürü kullanmıştır.\n\n<b>Yukarıda hakkında bilgi verilen tanrı tasavvuru aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Ateizm",
+        "Panenteizm",
+        "Teizm",
+        "Panteizm",
+        "Naturalizm"
+      ],
+      "dogru_cevap":"B",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1029,
+      "category_id": 3,
+      "ders_adi": "Din Psikolojisi",
+      "soru": "Çocukların bilişsel gelişimi üzerine yoğun araştırmalar yaptım. Yıllarca süren dikkatli gözlemlerim sonucunda, çocukların dünya üzerine düşünme ve akıl yürütme yeteneklerinin, çocuklar olgunlaştıkça nasıl farklı bir evreler dizesinden geçtiği üzerine bir kuram geliştirdim. Geliştirdiğim bu karımın evreleri sırasıyla şu şekilde gerçekleşmektedir: \"Duyusal Motor Evre (0-2 Yaş), İşlem Öncesi Evre (2-7 Yaş), Somut İşlemsel Evre (7-12 Yaş) ve Formal İşlemsel Evre (12 ve üzeri yaş)\n\n<b>Canlandırma yoluyla hakkında bilgi verilen psikolog aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Jean Piaget",
+        "Lawrence Kohlberg",
+        "Erich Fromm",
+        "Alfred Adler",
+        "Carl Gustav Jung"
+      ],
+      "dogru_cevap":"A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1030,
+      "category_id": 3,
+      "ders_adi": "Din Sosyolojisi",
+      "soru": "Bu sosyal değişim kuramı hakkında şunlar söylenebilir:\n• Kendi kendine değişen, geriye dönüşü olmayan, doğrusal, sürekli yenilik ve farklılık oluşturan bir yön çizmektedir.\n• Auguste Comte, Herbert Spencer, Emile Durkheim, Gordon Childe, Morgan, Smelser, Moore, Levy, Steward, Sahlins, White, Service gibi sosyologlar, toplumsal değişim fenomenine bu kurumla yaklaşırlar.\n\n<b>Yukarıda hakkında bilgi verilen sosyal değişim kuramı aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Organizmacı",
+        "Modernleşmeci",
+        "Diyalektik",
+        "Yapısal-İşlevsel",
+        "Evrimci"
+      ],
+      "dogru_cevap":"E",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1031,
+      "category_id": 3,
+      "ders_adi": "Dinler Tarihi",
+      "soru": "\n• Çin'de hayatın her alanını biçimlendirmiş iki büyük yerel dini-felsefi sistemden biridir.\n• Tabiatla uyum halinde olmayı, müdahaleden kaçınmayı, basitliği ve sadeliği savunan bir düşünce ve inanç sistemidir.\n• Bu dinin başlangıcı milattan önce VI. yüzyılda yaşayan Lao Tzu'ya dayanmaktadır.\n• Temel kavram ve ilkeleri sırasıyla Lao Tzu ve Zhuangzi'ye atfedilen Tao-te Çing ve Zhuangzi adlı klasik metinlerde yer alır.\n\n<b>Yukarıda özellikleri verilen inanç sistemi aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Şintoizm",
+        "Konfüçyanizm",
+        "Taoizm",
+        "Budizm",
+        "Sihizm"
+      ],
+      "dogru_cevap":"C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1032,
+      "category_id": 3,
+      "ders_adi": "Hadis",
+      "soru": "Bu hadis türü;\n• Ravisindeki kusur sebebiyle zayıf olan hadislerden biridir.\n• Görünürde sahih olmakla beraber, bu sıhhati yok edebilecek gizli bir illet taşıyan hadislerdir.\n• Mürsel veya munkatı hadisi mevsul olarak rivayet etmek, bir hadisi bir başka hadis içine katmak, mevsul olanı mürsel, merfu'u mevquf olarak rivayet etmek şeklinde ortaya çıkan hatalar bu hadis kapsamında değerlendirilmektedir.\n• Bu tür hadislerdeki illeti tespit etmek, senedlerdeki ricali, metinlerdeki farklılıkları iyiden iyiye ve bütünüyle bilebilen çok nadir kişilerce yapılabilir.\n\n<b>Yukarıda hakkında verilen bilgiler aşağıdaki hadis türlerinden hangisine aittir?</b>",
+      "optionList": [
+        "Muallel Hadis",
+        "Muzdarib Hadis",
+        "Münken Hadis",
+        "Şaz Hadis",
+        "Müdrec Hadis"
+      ],
+      "dogru_cevap":"A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1033,
+      "category_id": 3,
+      "ders_adi": "İslam Felsefesi",
+      "soru": "Bu felsefesi ekolün;\n• Kurucusu Ebu Bekr Zekeriyya er-Razi'dir.\n• Naturalist ekol olarak da bilinmektedir.\n• Deney ve tümevarım (istikra) metodunun ilk kullanan ve bilginin duyumlardan ibaret olduğunu savunan, İslam dünyasındaki ilk felsefi cereyandır.\n• Maddi dünyanın dışında ruh ve Allah'ı kabul ederler, Allah'ın hikmetinin, onun yarattığı eşyada tecelli ettiğini söylemektedirler.\n\n<b>Yukarıda hakkında bilgi verilen felsefi ekol aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Dehriyyun",
+        "Meşşaiyye",
+        "İhvan-ı Safa",
+        "Tabiiyyun",
+        "İşrakiyye"
+      ],
+      "dogru_cevap":"D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1034,
+      "category_id": 3,
+      "ders_adi": "Fıkıh",
+      "soru": "\"Allah müminin kanını, ırzını ve onun için iyi zandan başkasını haram kılmıştır.\" Bu hadisten mümin için iyi zandan başkasının yasaklandığı anlaşılıyor. Kıyas yoluyla mümin hakkında iyi olmayan bir söz söylemenin de yasak olduğu anlaşılır. Çünkü mümine iyi olmayan bir zanna sahip olmak yasak edilince onun hakkında iyi olmayan bir söz söylemek de elbette yasaklanmış demektir.\n\n<b>Bu parçada verilen örnek aşağıdaki kıyasın kısımlarından hangisiyle ilgilidir?</b>",
+      "optionList": [
+        "Kıyas-ı Müsavi",
+        "Kıyas-ı Evlâ",
+        "Kıyas-ı Ednâ",
+        "Kıyas-ı Sâni",
+        "Kıyas-ı Menat"
+      ],
+      "dogru_cevap":"B",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1035,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "\n• Resul-i Ekrem döneminde düşmanı yerinde etkisiz hale getirerek Medine üzerine saldırma planından vazgeçirmek için düzenlenen seriyyelerden biridir.\n• Hicri 8 yılının Cemaziyelahirinde (Ekim 629) tarihinde vuku bulmuştur.\n• Kudaa, Beli, Uzre, Belkayn, Amile Lahm, Cüzam, Kelb ve Gassani gibi kabilelerin bir araya gelip Medine’ye saldırmak için hazırlık yaptıkları haberi üzerine gerçekleşen seriyyedir.\n• Bu seriyyeye komutan olarak Amr b. As tayin edilmiştir.\n\n<b>Yukarıda hakkında bilgi verilen seriyye aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Taref",
+        "Rabiğ",
+        "Zatüsselasil",
+        "Mürre",
+        "Siy"
+      ],
+      "dogru_cevap":"C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1036,
+      "category_id": 3,
+      "ders_adi": "İslam Mezhepler Tarihi",
+      "soru": "İmamiyye fırkası “öbür Müslüman mezheplerinin inandıkları gibi Allah Sübhanehu ve Teâlâ’nın, halkı yeniden ve ölümünden sonra kıyamet gününde dirilteceğine inanır. Şahıs aynıyle, cesediyle ve ruhuyla dirilecektir; o kadar ki, birisi onu görse filandır der. Bu tekrar dirilişin keyfiyetini münakaşaya lüzum yoktur; yok olanı tekrar varlığa getirmek suretiyle mi, yoksa varlığın bir daha zuhuru suretiyle mi, yahut da başka bir tarzda mı olacaktır; bunu inceleyemeyiz.” şeklinde görüşe sahiptirler.\n\n<b>Bu parçada geçen ifadeler aşağıdaki kavramlardan hangisiyle ilişkilidir?</b>",
+      "optionList": [
+        "Rec’at",
+        "Tenasüh",
+        "Tevelli-Teberri",
+        "Mead",
+        "Nüvvab"
+      ],
+      "dogru_cevap":"D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1037,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+      "soru": "\n• Sizi gökten ve yerden rızıklandıracak Allah’tan gayrı bir yaratan var mı? O’ndan başka hiçbir ilah yoktur. O halde nasıl (olup da tevhidden küfre) çevriliyorsunuz? (Fatır, 3)\n• Sen, o ölümsüz ve daima diri olana (Allah’a) tevekkül et. O’nu her türlü övgüyle yücelterek tesbih et. (Furkan 58)\n\n<b>Bu ayetler sırasıyla aşağıdaki Allah’ın sıfatlarından hangisine aittir?</b>",
+      "optionList": [
+        "Vahdaniyet–Hayat",
+        "Kıyam Binefsihi–İlim",
+        "Beka–Semi",
+        "Kıdem–Basar",
+        "Vücud–Tekvin"
+      ],
+      "dogru_cevap":"A",
+      "ogretmen_id": 3
+    }
+  ]
+}
