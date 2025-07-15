@@ -97,6 +97,68 @@
       "exam_year": 2025
     },
     {
+      "soru_type": 2,
+      "soru_id": 2511,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\nBu parçayla ilgili aşağıdakilerden hangisi söylenemez?",
+  "optionList": [
+    "Kaynağı Hz. Muhammed olduğu için merfudur.",
+    "Senedi itibarıyla mürsel bir hadistir.",
+    "Hadis, Kütüb-i Sitte'de yer almaktadır.",
+    "Hz. Muhammed'e beş ravi ile ulaştığı için senedi humasidir.",
+    "Hz. Muhammed'in sözünü ifade ettiği için kavli bir hadistir."
+  ],
+  "dogru_cevap":"B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2512,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Meşhur hadis kitaplarının yazılmasından sonraki süreçte önceki dönemlerde yazılan eserler merkeze alınarak farklı tasnif türlerinde pek çok eser telif edilmiştir. Örneğin kimi müellifler herhangi bir hadis kitabındaki hadisleri başka senetlerle yeniden bir araya getirmiş, kimi müellifler ise belirli kitaplardaki hadisleri farklı bir sistemle yeniden derleyip toplamışlardır. Ayrıca farklı eserlerdeki hadisleri harf sırasına koyarak geçtikleri yerleri gösteren kitaplar telif edildiği gibi bir kitapta bulunup da diğerinde bulunmayan hadisleri toplayan kitaplar da kaleme alınmıştır.\nBu parçada aşağıdaki tasnif türlerinin hangisinden bahsedilmemiştir?",
+  "optionList": [
+    "Etraf",
+    "Müstahrec",
+    "Müstedrek",
+    "Cem",
+    "Zevaid"
+  ],
+  "dogru_cevap":"C",
+      "exam_year": 2025
+    },{
+      "soru_type": 2,
+      "soru_id": 2513,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Hadislerin sened ve metinlerindeki sıhhati zedeleyici bazı kusurlar ancak uzmanlar tarafından fark edilebilir. Örneğin Abdullah b. Mesud, Allah Resulü'nün \"Uğursuzluk anlayışı bir tür şirktir. Bizden ona bulaşmamış hiçbir kimse yoktur. Ancak Allah bunu tevekkülle giderir.\" dediğini nakletmiştir. Hadisle ilgili yapılan araştırmalar, metindeki \"Bizden ona bulaşmamış hiçbir kimse yoktur.\" kısmının Abdullah b. Mesud'a ait bir söz olduğunu ortaya çıkarmıştır.\nBu parçada bahsedilen hadisin türü aşağıdakilerden hangisidir?",
+  "optionList": [
+    "Muallak",
+    "Muallal",
+    "Müdelles",
+    "Maklub",
+    "Münker"
+  ],
+  "dogru_cevap":"B",
+      "exam_year": 2025
+    },{
+      "soru_type": 2,
+      "soru_id": 2514,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Hicri ikinci asrın başlarında hadisle ilgili çalışmalar yoğunlaşmıştır. Bu dönemde özellikle o güne kadar alimler tarafından ezberlenmiş veya unutmamak için kağıtlara not olarak yazılmış rivayetlerin bir araya getirilmesi ihtiyacı ortaya çıkmıştır. Emeviler tarafından da desteklenen bu faaliyetler sayesinde hadisler derlenip toplanmış ve belli usuller çerçevesinde hadislerin bir araya getirileceği sistemli hadis kitaplarının yazılmasına zemin hazırlanmıştır.\nBu parçada bahsedilen faaliyet aşağıdakilerden hangisidir?",
+  "optionList": [
+    "Kitabet",
+    "Tesbit",
+    "Tedvin",
+    "Tasnif",
+    "Hıfz"
+  ],
+  "dogru_cevap":"C",
+      "exam_year": 2025
+    },
+    {
       "soru_type": 1,
       "soru_id": 1001,
       "category_id": 2,
