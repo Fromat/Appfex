@@ -117,13 +117,13 @@
       "soru_id": 2511,
       "category_id": 2,
       "ders_adi": "Hadis Tarihi vu Usulü",
-      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\n\<b>Bu parçayla ilgili aşağıdakilerden hangisi söylenemez?</b>",
+      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\n<b>Bu parçayla ilgili aşağıdakilerden hangisi söylenemez?</b>",
       "optionList": [
-        "Kaynağı Hz. Muhammed olduğu için merfudur.",
+        "Kaynağı Hz. Muhammed (s.a.v) olduğu için merfudur.",
         "Senedi itibarıyla mürsel bir hadistir.",
         "Hadis, Kütüb-i Sitte'de yer almaktadır.",
-        "Hz. Muhammed'e beş ravi ile ulaştığı için senedi humasidir.",
-        "Hz. Muhammed'in sözünü ifade ettiği için kavli bir hadistir."
+        "Hz. Muhammed'e (s.a.v) beş ravi ile ulaştığı için senedi humasidir.",
+        "Hz. Muhammed'in (s.a.v) sözünü ifade ettiği için kavli bir hadistir."
       ],
       "dogru_cevap": "B",
       "exam_year": 2025
@@ -416,7 +416,6 @@
       "dogru_cevap": "B",
       "exam_year": 2025
     },
-    
     {
       "soru_type": 2,
       "soru_id": 1020,
