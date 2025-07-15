@@ -7,13 +7,13 @@
       "ders_adi": "Tefsir Tarihi vu Usulü",
       "soru": "\"Kur'an'ı düşünüp anlamaya çalışmıyorlar mı? Eğer o, Allah'tan başkası tarafından (indirilmiş) olsaydı, mutlaka onda birçok çelişki bulurlardı.\" (Nisa, 4:82)\n\n<b>Bu ayet aşağıdakilerden hangisinin Kur'an'da yer almadığına delil olarak öne sürülmektedir?</b>",
       "optionList": [
-      "Garib",
-      "Vucûh",
-      "Mecaz",
-      "Müşkil",
-      "Müphem"
-    ],
-      "dogru_cevap":"D",
+        "Garib",
+        "Vucûh",
+        "Mecaz",
+        "Müşkil",
+        "Müphem"
+      ],
+      "dogru_cevap": "D",
       "exam_year": 2025
     },
     {
@@ -21,128 +21,336 @@
       "soru_id": 2506,
       "category_id": 2,
       "ders_adi": "Tefsir Tarihi vu Usulü",
-      "soru": "Kur'an-ı Kerim mealini okuyan Ahmet, bir ayete geldiğinde fitnenin öldürmekten daha şiddetli bir şey olduğunu okumuştur. Başka bir ayette ise malların ve çocukların insanlar için fitne olarak ifade edildiğini görünce \"Fitne öldürmekten daha şiddetlidir, mallar ve çocuklar fitnedir. O hâlde çocuklarımız savaştan daha kötü bir şeydir.\" şeklinde yanlış bir sonuca ulaşmıştır.\nAhmet'in böyle bir sonuca ulaşması aşağıdaki Kur'an ilimlerinden hangisini bilmediğini göstermektedir?",
-  "optionList": [
-    "İcazü'l-Kur'an",
-    "Mübhematü'l-Kur'an",
-    "Garibü'l-Kur'an",
-    "Fezailü'l-Kur'an",
-    "Vücuh ve Nezair"
-  ],
-  "dogru_cevap":"E",
+      "soru": "Kur'an-ı Kerim mealini okuyan Ahmet, bir ayete geldiğinde fitnenin öldürmekten daha şiddetli bir şey olduğunu okumuştur. Başka bir ayette ise malların ve çocukların insanlar için fitne olarak ifade edildiğini görünce \"Fitne öldürmekten daha şiddetlidir, mallar ve çocuklar fitnedir. O hâlde çocuklarımız savaştan daha kötü bir şeydir.\" şeklinde yanlış bir sonuca ulaşmıştır.\n\n<b>Ahmet'in böyle bir sonuca ulaşması aşağıdaki Kur'an ilimlerinden hangisini bilmediğini göstermektedir?</b>",
+      "optionList": [
+        "İcazü'l-Kur'an",
+        "Mübhematü'l-Kur'an",
+        "Garibü'l-Kur'an",
+        "Fezailü'l-Kur'an",
+        "Vücuh ve Nezair"
+      ],
+      "dogru_cevap": "E",
       "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1001,
+      "soru_type": 2,
+      "soru_id": 2507,
       "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Öğrencinin hocanın huzurunda ezberden ya da bir kitaptan hadis okuması, hocanın onu dinlemesi,",
-      "cevap": "Kıraat"
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Necmettin öğretmen tefsir dersinde öğrencilerinin her birine proje ödevi vermiştir. Bir öğrencisinden Kehf Suresi'nin 9-26. ayetlerinde yer alan Ashab-ı Kehf Kıssası ile ilgili rivayetleri detaylı bir şekilde araştırıp derste sunmasını istemiştir. Bu kıssayla ilgili bilgilerin israiliyyattan ve farklı rivayetlerden elde edilebileceğini söylemiştir. Bu çerçevede öğrencisine rivayet yönü öne çıkan bazı tefsir eserlerinin isimlerini de vermiştir.\n\n<b>Buna göre Necmettin Öğretmen'in aşağıdaki eserlerden hangisini önermesi beklenmez?</b>",
+      "optionList": [
+        "Taberi'nin Camiu'l-Beyan an Te'vili'l-Kur'an'ını",
+        "Sa'lebi'nin el-Keşf ve'l-Beyan an Te'vili'l-Kur'an'ını",
+        "Begavi'nin Meali-mu't-Tenzil'ini",
+        "Suyuti'nin ed-Dürrü'l-Mensur'unu",
+        "Ebussuud'un İrşadü'l-Akli's-Selim'ini"
+      ],
+      "dogru_cevap": "E",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1002,
+      "soru_type": 2,
+      "soru_id": 2508,
       "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hocanın, öğrencisine işittiği rivayetleri veya kitaplarını rivayete izin vermesi",
-      "cevap": "İcazet"
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Toshihiko İzutsu, Türkçeye Kur'an'da Allah ve İnsan adı ile çevrilen eserinde Kur'an'da geçen bazı anahtar kavramları incelemiştir. Bu kavramların yapısını, anlamını, tarihsel gelişimini, insan düşünce ve davranışlarıyla olan ilişkilerini araştırmıştır. Bu incelemesinde kelimelerin anlamını esas ve izafi mana olmak üzere ikiye ayırmıştır. Kelimelerin nüzul öncesi ve sonrasında kazandığı manaları zıt kavramlarla inceleyerek bir değerlendirme yapmıştır. İzutsu'nun Kur'an'a uyguladığı bu anlam bilim yöntemi çağdaş dönem tefsir çalışmalarında kullanılmaya başlanmıştır.\n\n<b>Bu parçada bahsedilen husus aşağıdakilerden hangisi ifade edilmektedir?</b>",
+      "optionList": [
+        "Hermonetik",
+        "Semantik",
+        "Antropomorfik",
+        "Sembolojik",
+        "Tarihselcilik"
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1003,
+      "soru_type": 2,
+      "soru_id": 2509,
       "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hocanın icazetten bahsetmeksizin bir hadisi veya hadis kitabını öğrencisine göstererek “Bunlar benim rivayetimdir.” demesi,",
-      "cevap": "İl'am"
+      "ders_adi": "Tefsir Tarihi vu Usulü",
+      "soru": "Müfessirlerin ayetleri yorumlarken kendi yetkinliğinin yanı sıra zamana ve mekâna bağlı olarak farklı yorumlarda bulunmaları doğaldır. Bu anlamda onların herhangi bir ayeti anlama ve yorumlama konusunda çeşitli bilimlerden ve yöntemlerden yararlanmasında herhangi bir mahzur yoktur. Ne var ki bu durum müfessirlerin ayetleri yorumlarken tamamen özgür olması anlamına da gelmemektedir. Onun kendisini sınırlayan ve bağlayan bazı kurallara uygun davranması bir gereklilik olup bu durum keyfi ve temelsiz yorumlardan uzak durmasını sağlamaktadır.\n\n<b>Aşağıdakilerden hangisi bu parçada bahsedilen kurallardan biri olamaz?</b>",
+      "optionList": [
+        "Ayet hakkında yeterli dil incelemesinde bulunması",
+        "Ayeti nüzul sebebine uygun olan olayın bulunup bulunmadığını araştırması",
+        "Ayetin metinsel ve tarihsel bağlamını göz önüne alması",
+        "Belli bir mezhebin görüşünü merkeze alması",
+        "Rivayet malzemesini ve önceki yorumları dikkate alması"
+      ],
+      "dogru_cevap": "D",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1004,
+      "soru_type": 2,
+      "soru_id": 2510,
       "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hadislerin, sahabi adları altında sıralanması suretiyle oluşturulan eserler",
-      "cevap": "Müsnedler"
+      "ders_adi": "Hadis Tarihi vu Usulü",
+      "soru": "\nI. İbn Hacer el-Askalani - Fethü'l-Bari\nII. Bedruddin el-Ayni - Umdetü'l-Kari\nIII. Tahavi - Şerhu Meani'l-Asar\n\n<b>Yukarıda numaralanmış yazar - eser eşleştirmelerinden hangileri şerh ve yorum döneminin ürünleri arasında yer almaz?</b>",
+      "optionList": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+      ],
+      "dogru_cevap": "C",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1005,
+      "soru_type": 2,
+      "soru_id": 2511,
       "category_id": 2,
-      "ders_adi": "Tefsir",
-      "soru": "Kur’an-ı Kerim'in bir cüzünün dörtte birini oluşturan beş sayfalık bölüm",
-      "cevap": "Hizip"
+      "ders_adi": "Hadis Tarihi vu Usulü",
+      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\nBu parçayla ilgili aşağıdakilerden hangisi söylenemez?",
+      "optionList": [
+        "Kaynağı Hz. Muhammed olduğu için merfudur.",
+        "Senedi itibarıyla mürsel bir hadistir.",
+        "Hadis, Kütüb-i Sitte'de yer almaktadır.",
+        "Hz. Muhammed'e beş ravi ile ulaştığı için senedi humasidir.",
+        "Hz. Muhammed'in sözünü ifade ettiği için kavli bir hadistir."
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1006,
+      "soru_type": 2,
+      "soru_id": 2512,
       "category_id": 2,
-      "ders_adi": "Tefsir",
-      "soru": "Bir ayetin, kendisinden önceki veya sonraki ayetlerle oluşturduğu anlam bütünlüğü",
-      "cevap": "Siyak"
+      "ders_adi": "Hadis Tarihi vu Usulü",
+      "soru": "Meşhur hadis kitaplarının yazılmasından sonraki süreçte önceki dönemlerde yazılan eserler merkeze alınarak farklı tasnif türlerinde pek çok eser telif edilmiştir. Örneğin kimi müellifler herhangi bir hadis kitabındaki hadisleri başka senetlerle yeniden bir araya getirmiş, kimi müellifler ise belirli kitaplardaki hadisleri farklı bir sistemle yeniden derleyip toplamışlardır. Ayrıca farklı eserlerdeki hadisleri harf sırasına koyarak geçtikleri yerleri gösteren kitaplar telif edildiği gibi bir kitapta bulunup da diğerinde bulunmayan hadisleri toplayan kitaplar da kaleme alınmıştır.\n\n<b>Bu parçada aşağıdaki tasnif türlerinin hangisinden bahsedilmemiştir?</b>",
+      "optionList": [
+        "Etraf",
+        "Müstahrec",
+        "Müstedrek",
+        "Cem",
+        "Zevaid"
+      ],
+      "dogru_cevap": "C",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1007,
+      "soru_type": 2,
+      "soru_id": 2513,
       "category_id": 2,
-      "ders_adi": "Kelam",
-      "soru": "İki tanrı varsayımına dayanarak Allah’ın birliğini temellendirmeye çalışan ve İslam kelamcıları tarafından Kur’an’dan hareketle geliştirilen delil",
-      "cevap": "Temanu"
+      "ders_adi": "Hadis Tarihi vu Usulü",
+      "soru": "Hadislerin sened ve metinlerindeki sıhhati zedeleyici bazı kusurlar ancak uzmanlar tarafından fark edilebilir. Örneğin Abdullah b. Mesud, Allah Resulü'nün \"Uğursuzluk anlayışı bir tür şirktir. Bizden ona bulaşmamış hiçbir kimse yoktur. Ancak Allah bunu tevekkülle giderir.\" dediğini nakletmiştir. Hadisle ilgili yapılan araştırmalar, metindeki \"Bizden ona bulaşmamış hiçbir kimse yoktur.\" kısmının Abdullah b. Mesud'a ait bir söz olduğunu ortaya çıkarmıştır.\n\n<b>Bu parçada bahsedilen hadisin türü aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Muallak",
+        "Muallal",
+        "Müdelles",
+        "Maklub",
+        "Münker"
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1008,
+      "soru_type": 2,
+      "soru_id": 2514,
+      "category_id": 2,
+      "ders_adi": "Hadis Tarihi vu Usulü",
+      "soru": "Hicri ikinci asrın başlarında hadisle ilgili çalışmalar yoğunlaşmıştır. Bu dönemde özellikle o güne kadar alimler tarafından ezberlenmiş veya unutmamak için kağıtlara not olarak yazılmış rivayetlerin bir araya getirilmesi ihtiyacı ortaya çıkmıştır. Emeviler tarafından da desteklenen bu faaliyetler sayesinde hadisler derlenip toplanmış ve belli usuller çerçevesinde hadislerin bir araya getirileceği sistemli hadis kitaplarının yazılmasına zemin hazırlanmıştır.\n\n<b>Bu parçada bahsedilen faaliyet aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Kitabet",
+        "Tesbit",
+        "Tedvin",
+        "Tasnif",
+        "Hıfz"
+      ],
+      "dogru_cevap": "C",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2515,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "Hanefi fıkhında, müçtehidin; bir meselede, özel bir delil sebebiyle, o meselenin benzerlerinde verdiği hükümden vazgeçip başka bir çözümü benimsemesi",
-      "cevap": "İstihsan"
+      "soru": "Oruçlu iken bir şey yeme ve içme orucu bozar. Bu konuda Din İşleri Yüksek Kurulu, doğrudan sindirim sistemine giren fakat besleyici veya keyif verici olmayan ya da az miktarda olduğu için mazur görülen bazı şeylerin orucu bozmayacağını açıklamıştır.\n\n<b>Buna göre aşağıdakilerden hangisinin orucu bozacağı söylenebilir?</b>",
+      "optionList": [
+        "Astım spreyi kullanmak",
+        "Endoskopi ve kolonoskopiyi susuz olarak yaptırmak",
+        "Ağrı kesici hap yutmak",
+        "Dilaltı hapı kullanmak",
+        "Göz damlası kullanmak"
+      ],
+      "dogru_cevap": "C",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1009,
+      "soru_type": 2,
+      "soru_id": 2516,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Ali Amca, evinin ve sığırlarının bulunduğu Erzurum'un bir dağ köyünde soğuktan korunmak amacıyla sabah namazı için abdestini alır ve mestini giyer. Öğle namazı vaktinde hayvanlarıyla ilgilenirken onlardan birinin idrarının pantolonunun yarısını ıslattığını görür. Bu hâlde namaz kılıp kılamayacağı ve mestinin devamlılığı konusunda şüpheye düşer ve bu durumu köyün imamına sorar.\n\n<b>Bu durumda Hanefi mezhebine göre imamın aşağıdakilerden hangisini söylemesi beklenir?</b>",
+      "optionList": [
+        "Pantolonundaki necaset namaza engel değil ancak mest için tekrar abdest almalısın.",
+        "Pantolonundaki necaseti giderirsen mest için tekrar abdest almana gerek yok.",
+        "Pantolonundaki necaset namaza engel olmadığı gibi mest için tekrar abdest almana gerek yok.",
+        "Pantolonundaki necaseti giderirsen ve mest için tekrar abdest alırsan namaz kılabilirsin.",
+        "Pantolonundaki necaset namaza engel değil ancak mesti çıkarıp tekrar abdest almalısın."
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2517,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Sultan Alparslan ve oğlu Melikşah dönemlerinde Büyük Selçuklu Devleti'nde vezirlik yapan Nizamülmülk, devlet adamlığının yanında eğitime verdiği önemle bilinmektedir. Bu kapsamda Nizamiye Medreselerini kurmuş ve devlet tecrübelerini aktardığı Siyasetnâme adlı bir eser yazmıştır. Nizamülmülk; İslam kültür ve medeniyeti, devlet teşkilatı, devlet başkanı seçimi ve devlet adamında olması gereken nitelikleri konu ettiği bu eserini herkesin okuması gerektiğini söylemiştir.\n\n<b>Bu eser aşağıdaki İslam hukuku kaynaklarından hangisi kapsamında değerlendirilir?</b>",
+      "optionList": [
+        "Ahkamü's-sultaniyye",
+        "Fetava ve nevazil",
+        "Harac ve emval",
+        "Tahricü'l-furu",
+        "Tabakatü'l-fukaha"
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2518,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "İslam hukukunda kişinin dini ve hukuki hükme konu olma elverişliliğini ifade etmek üzere ehliyet kavramı kullanılmaktadır. Ehliyet açısından insan yaşamını anne karnından ölüme kadar inceleyen fakihler bunu çeşitli evrelere ayırmışlardır.\n\n<b>Buna göre</b> “Kişinin tek başına yaptığı lehine olan akitlerin geçerli olduğu; kâr ve zarar ihtimali olanların ise velisinin onayıyla geçerli olabildiği ve ibadetlerle mükellef olmadığı” <b>dönem aşağıdakilerden hangisidir?</b>",
+      "optionList": [
+        "Cenin",
+        "Buluğ",
+        "Rüşd",
+        "Temyiz",
+        "Gayr-i mümeyyiz çocukluk"
+      ],
+      "dogru_cevap": "D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2519,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "<b>Hanefilere göre İslam eşya hukukunda</b>\n\nI. domuz eti,\nII. denizdeki balık,\nIII. kiraya verilmek üzere satın alınan ev,\nIV. kafeste bulunan kuş\n<b>örneklerinden hangileri</b> “Müslümanların istifadesine uygun olup üzerinde hukuki işlem yapılabilecek (mütekavvim) mallar” <b>arasında yer alır?</b>",
+      "optionList": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "dogru_cevap": "E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2520,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Bir insanı haksız yere ve kasten öldürmenin dünyevi cezası kısastır. (Bakara, 2:178) Kısas yerine diyet istenmesi durumunda katil, bu diyeti tek başına ödeyecektir. Ancak hataen bir insanın ölümüne sebebiyet verilmesi hâlinde kısas cezası düşmekte, sadece diyet gündeme gelmektedir. Hz. Muhammed'in uygulamasına göre bu diyet, katil ve yakın erkek akrabası (asabe) beraberce ödemek durumundadır.\nDaha sonraki dönemlerde asabenin yanı sıra kişinin üyesi olduğu divan/lonca teşkilatı, bu ödemeye iştirak etmeye başlamıştır.\n\n<b>Bu parçada bahsedilen husus aşağıdakilerden hangisiyle ifade edilmektedir?</b>",
+      "optionList": [
+        "Akile",
+        "İare",
+        "Müahede",
+        "Kasame",
+        "Vesayet"
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2521,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\nHanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?\nİddet süresi\nMehir",
+      "optionList": [
+        "Beklemez. Yarısını alır.",
+        "3 ay bekler. Tamamını alır.",
+        "3 ay bekler. Yarısını alır.",
+        "Beklemez. Tamamını alır.",
+        "3 ay bekler. Alamaz."
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2522,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+      "soru": "Kur'an'da birçok yerde Allah'ın fiilleri ve sıfatları hakkında bilgilere yer verilir. Allah'ın sıfatları hakkındaki bilgileri âlimler temelde ikiye ayırarak incelenmiştir. Bunlardan biri Allah'ta kemal özelliklerin bir arada birlikte kısmen de olsa başka varlıklarda da bulunabilen ve Allah-insan, Allah-kâinat ilişkisini yansıtan sıfatlardır.\nBu sıfatlara verilen isim aşağıdakilerden hangisidir?",
+      "optionList": [
+        "Nefsi",
+        "Selbi",
+        "Tenzih",
+        "Subuti",
+        "Haberi"
+      ],
+      "dogru_cevap": "D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2523,
+      "category_id": 2,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Hz. Muhammed hayattayken meydana gelen bazı tartışmalar onun otoritesi sayesinde kısa sürede çözülmüştür. Vefatından hemen sonra ortaya çıkan kimi ihtilaflar da sahabenin ferasetleriyle giderilmiştir. Ancak söz konusu tartışmaların bazıları sonradan tekrar gündeme getirilerek farklı biçimde değerlendirilmiş hatta ileriki süreçte ortaya çıkan siyasi ve itikadi ihtilafların önemli gerekçeleri arasında yer almıştır.\nBu türden ihtilaf gerekçelerine\nI. Üsame ordusunun sefere çıkışı,\nII. Kırtas hadisesi,\nIII. Halife seçimi,\nIV. Hz. Muhammed'in defnedileceği yer\nolaylarından hangileri örnek verilebilir?",
+      "optionList": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "II ve IV",
+        "III ve IV"
+      ],
+      "dogru_cevap": "C",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2524,
       "category_id": 2,
       "ders_adi": "Kelam",
-      "soru": "Allah’ın her türlü eksikliklerden ve noksanlıklardan uzak olduğunu ifade etmek için kullanılan terim",
-      "cevap": "Tenzih"
+      "soru": "Kelam ilminde ilk tartışılan konulardan biri mürtekib-i kebire meselesidir. Mürtekib-i kebirenin durumuyla ilgili\nI. Tövbe etmediği takdirde dünyada ve ahirette kâfir olarak muamele görür.\nII. İmandan çıkar fakat küfre girmeyip imanla küfür arasında bir yerde bulunur.\nIII. Günaha girse de amel imanın bir parçası olmadığından dinden çıkmaz.\nşeklinde üç görüş öne çıkmıştır.\nBu görüşleri savunan mezhepler aşağıdakilerin hangisinde sırasıyla verilmiştir?",
+      "optionList": [
+        "Haricilik – Mutezile – Eş'arilik",
+        "Mürcie – Eş'arilik – Haricilik",
+        "Mutezile – Haricilik – Mürcie",
+        "Haricilik – Eş'arilik – Mürcie",
+        "Mürcie – Mutezile – Eş'arilik"
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1010,
+      "soru_type": 2,
+      "soru_id": 2525,
       "category_id": 2,
-      "ders_adi": "İslam Hukuku",
-      "soru": "İslam hukukunda, aksine bir hüküm veya delil bulunmadığı sürece kişinin hukuki ve cezai açıdan sorumlu tutulamayacağı esastır. Hangi Kavram?",
-      "cevap": "Beraet-i asliyye"
+      "ders_adi": "Kelam",
+      "soru": "Hüsün ve kubuh, fiillerde bulunan nesnel bir niteliktir. Güzel olan zatı itibariyle güzel, çirkin olan da zatı itibariyle çirkindir. Bundan dolayı bir fiilin güzel ve çirkin oluşu vahye değil akla bilinir, aklın kötü olduğuna hükmettiği fiil, ilahi hükme göre cezayı gerektirdiği gibi aklın iyi gördüğü bir fiil de ilahi hükme göre ödülü hak edecektir.\nBu parçadaki görüşü aşağıdaki mezheplerden hangisinin savunması beklenmez?",
+      "optionList": [
+        "Mutezile",
+        "Eş'ariyye",
+        "Cehmiyye",
+        "Kerramiyye",
+        "Şia"
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
     },
     {
-      "soru_type": 1,
-      "soru_id": 1011,
+      "soru_type": 2,
+      "soru_id": 2526,
       "category_id": 2,
-      "ders_adi": "Hadis",
-      "soru": "Hz. Peygamber’e nispet edilen ve senedinin başından sonuna kadar sika raviler tarafından muttasıl olarak rivayet edilen hadis türü",
-      "cevap": "Sahih"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1012,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "Tavafın, ilk üç şavtında kısa adımlarla koşarak ve omuzları hafifçe silkeleyerek yürüme",
-      "cevap": "Remel"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1013,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "Sa’y sırasında kısa adımlarla koşarak canlı ve çalımlı yürüme",
-      "cevap": "Hervele"
-    },
-    {
-      "soru_type": 1,
-      "soru_id": 1014,
-      "category_id": 2,
-      "ders_adi": "Fıkıh (Hac)",
-      "soru": "İhram kıyafetinde sağ kolu ve omuzu ridânın dışında bırakma",
-      "cevap": "Izdıba"
+      "ders_adi": "Kelam",
+      "soru": "Aşağıdakilerden hangisi Maturidiliğin insan iradesinin fiildeki rolü konusunda kabul ettiği görüşlerden biri değildir?",
+      "optionList": [
+        "İnsan, yaptığı eylemlerden sorumlu tutulacak bir iradeye sahiptir.",
+        "İnsan, fiillerini doğuştan kendisinde bulunan yaratma kudretiyle meydana getirir.",
+        "İnsan, eylemlerini gerçekleştireceği güç, eylemden önce insana verilmiştir.",
+        "Cüzi irade, insanın fiili yerine getirme veya terk etme ihtimallerinden birine yönelmesidir.",
+        "Külli irade, Allah tarafından insana verilmiş olan yapma ve yapmamayı tercih etme yeteneğidir."
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
     },
     {
       "soru_type": 2,
@@ -157,7 +365,7 @@
         "Uhud",
         "Huneyn"
       ],
-      "dogru_cevap":"E",
+      "dogru_cevap": "E",
       "exam_year": 2025
     },
     {
@@ -173,7 +381,7 @@
         "Sifülbahr",
         "Zatüsselasil"
       ],
-      "dogru_cevap":"E",
+      "dogru_cevap": "E",
       "exam_year": 2025
     },
     {
@@ -189,7 +397,7 @@
         "Paylarına düşen diyet miktarını ödemekten kaçınmaları",
         "Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "exam_year": 2025
     },
     {
@@ -205,7 +413,7 @@
         "I - II - -III - IV",
         "II - IV - III - I"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "exam_year": 2025
     },
     {
@@ -221,7 +429,7 @@
         "İsyancıların içinde önde gelen sahabelerin çocuklarının olduğunu düşünmesi",
         "İsyancıları affederek onların desteğini almak istemesi"
       ],
-      "dogru_cevap":"A",
+      "dogru_cevap": "A",
       "exam_year": 2025
     },
     {
@@ -237,7 +445,7 @@
         "Ömer b. Abdülaziz",
         "İbrahimb.Velid"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "exam_year": 2025
     },
     {
@@ -253,7 +461,7 @@
         "Hamza b. Abdülmuttalip",
         "Abdurrahman b. Avf"
       ],
-      "dogru_cevap":"C",
+      "dogru_cevap": "C",
       "exam_year": 2024
     },
     {
@@ -269,7 +477,7 @@
         "Sufriye",
         "Acaride"
       ],
-      "dogru_cevap":"A",
+      "dogru_cevap": "A",
       "ogretmen_id": 3
     },
     {
@@ -285,7 +493,7 @@
         "Meyfaa",
         "Rabiğ"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "ogretmen_id": 3
     },
     {
@@ -301,7 +509,7 @@
         "Gaye ve Nizam",
         "Kemal"
       ],
-      "dogru_cevap":"C",
+      "dogru_cevap": "C",
       "ogretmen_id": 3
     },
     {
@@ -317,7 +525,7 @@
         "Fıkhi Tefsir",
         "İlhadî Tefsir"
       ],
-      "dogru_cevap":"C",
+      "dogru_cevap": "C",
       "ogretmen_id": 3
     },
     {
@@ -333,7 +541,7 @@
         "Sahn-ı Seman",
         "Medresetü'l-Vaizin"
       ],
-      "dogru_cevap":"E",
+      "dogru_cevap": "E",
       "ogretmen_id": 3
     },
     {
@@ -349,7 +557,7 @@
         "Panteizm",
         "Naturalizm"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "ogretmen_id": 3
     },
     {
@@ -365,7 +573,7 @@
         "Alfred Adler",
         "Carl Gustav Jung"
       ],
-      "dogru_cevap":"A",
+      "dogru_cevap": "A",
       "ogretmen_id": 3
     },
     {
@@ -381,7 +589,7 @@
         "Yapısal-İşlevsel",
         "Evrimci"
       ],
-      "dogru_cevap":"E",
+      "dogru_cevap": "E",
       "ogretmen_id": 3
     },
     {
@@ -397,7 +605,7 @@
         "Budizm",
         "Sihizm"
       ],
-      "dogru_cevap":"C",
+      "dogru_cevap": "C",
       "ogretmen_id": 3
     },
     {
@@ -413,7 +621,7 @@
         "Şaz Hadis",
         "Müdrec Hadis"
       ],
-      "dogru_cevap":"A",
+      "dogru_cevap": "A",
       "ogretmen_id": 3
     },
     {
@@ -429,7 +637,7 @@
         "Tabiiyyun",
         "İşrakiyye"
       ],
-      "dogru_cevap":"D",
+      "dogru_cevap": "D",
       "ogretmen_id": 3
     },
     {
@@ -445,7 +653,7 @@
         "Kıyas-ı Sâni",
         "Kıyas-ı Menat"
       ],
-      "dogru_cevap":"B",
+      "dogru_cevap": "B",
       "ogretmen_id": 3
     },
     {
@@ -461,7 +669,7 @@
         "Mürre",
         "Siy"
       ],
-      "dogru_cevap":"C",
+      "dogru_cevap": "C",
       "ogretmen_id": 3
     },
     {
@@ -477,7 +685,7 @@
         "Mead",
         "Nüvvab"
       ],
-      "dogru_cevap":"D",
+      "dogru_cevap": "D",
       "ogretmen_id": 3
     },
     {
@@ -493,7 +701,7 @@
         "Kıdem–Basar",
         "Vücud–Tekvin"
       ],
-      "dogru_cevap":"A",
+      "dogru_cevap": "A",
       "ogretmen_id": 3
     }
   ]
