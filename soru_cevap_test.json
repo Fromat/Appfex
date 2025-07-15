@@ -2,6 +2,22 @@
   "bilgiKutusu": [
     {
       "soru_type": 2,
+      "soru_id": 1019,
+      "category_id": 1,
+      "ders_adi": "İslam Tarihi",
+      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
+      "optionList": [
+        "IV - II - III - I",
+        "IV - I - II - III",
+        "I - IV - III - II",
+        "I - II - -III - IV",
+        "II - IV - III - I"
+      ],
+      "dogru_cevap": "B",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
       "soru_id": 2505,
       "category_id": 2,
       "ders_adi": "Tefsir Tarihi vu Usulü",
@@ -101,7 +117,7 @@
       "soru_id": 2511,
       "category_id": 2,
       "ders_adi": "Hadis Tarihi vu Usulü",
-      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\nBu parçayla ilgili aşağıdakilerden hangisi söylenemez?",
+      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\n\<b>Bu parçayla ilgili aşağıdakilerden hangisi söylenemez?</b>",
       "optionList": [
         "Kaynağı Hz. Muhammed olduğu için merfudur.",
         "Senedi itibarıyla mürsel bir hadistir.",
@@ -213,7 +229,7 @@
       "soru_id": 2518,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "İslam hukukunda kişinin dini ve hukuki hükme konu olma elverişliliğini ifade etmek üzere ehliyet kavramı kullanılmaktadır. Ehliyet açısından insan yaşamını anne karnından ölüme kadar inceleyen fakihler bunu çeşitli evrelere ayırmışlardır.\n\n<b>Buna göre</b> “Kişinin tek başına yaptığı lehine olan akitlerin geçerli olduğu; kâr ve zarar ihtimali olanların ise velisinin onayıyla geçerli olabildiği ve ibadetlerle mükellef olmadığı” <b>dönem aşağıdakilerden hangisidir?</b>",
+      "soru": "İslam hukukunda kişinin dini ve hukuki hükme konu olma elverişliliğini ifade etmek üzere ehliyet kavramı kullanılmaktadır. Ehliyet açısından insan yaşamını anne karnından ölüme kadar inceleyen fakihler bunu çeşitli evrelere ayırmışlardır.\n<b>Buna göre</b> “Kişinin tek başına yaptığı lehine olan akitlerin geçerli olduğu; kâr ve zarar ihtimali olanların ise velisinin onayıyla geçerli olabildiği ve ibadetlerle mükellef olmadığı” <b>dönem aşağıdakilerden hangisidir?</b>",
       "optionList": [
         "Cenin",
         "Buluğ",
@@ -229,7 +245,7 @@
       "soru_id": 2519,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "<b>Hanefilere göre İslam eşya hukukunda</b>\n\nI. domuz eti,\nII. denizdeki balık,\nIII. kiraya verilmek üzere satın alınan ev,\nIV. kafeste bulunan kuş\n<b>örneklerinden hangileri</b> “Müslümanların istifadesine uygun olup üzerinde hukuki işlem yapılabilecek (mütekavvim) mallar” <b>arasında yer alır?</b>",
+      "soru": "<b>Hanefilere göre İslam eşya hukukunda</b>\nI. domuz eti,\nII. denizdeki balık,\nIII. kiraya verilmek üzere satın alınan ev,\nIV. kafeste bulunan kuş\n<b>örneklerinden hangileri</b> “Müslümanların istifadesine uygun olup üzerinde hukuki işlem yapılabilecek (mütekavvim) mallar” <b>arasında yer alır?</b>",
       "optionList": [
         "I ve II",
         "I ve III",
@@ -261,7 +277,7 @@
       "soru_id": 2521,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\nHanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?\nİddet süresi\nMehir",
+      "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\n\n<b>Hanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?</b>\nİddet süresi\nMehir",
       "optionList": [
         "Beklemez. Yarısını alır.",
         "3 ay bekler. Tamamını alır.",
@@ -293,7 +309,7 @@
       "soru_id": 2523,
       "category_id": 2,
       "ders_adi": "İslam Tarihi",
-      "soru": "Hz. Muhammed hayattayken meydana gelen bazı tartışmalar onun otoritesi sayesinde kısa sürede çözülmüştür. Vefatından hemen sonra ortaya çıkan kimi ihtilaflar da sahabenin ferasetleriyle giderilmiştir. Ancak söz konusu tartışmaların bazıları sonradan tekrar gündeme getirilerek farklı biçimde değerlendirilmiş hatta ileriki süreçte ortaya çıkan siyasi ve itikadi ihtilafların önemli gerekçeleri arasında yer almıştır.\nBu türden ihtilaf gerekçelerine\nI. Üsame ordusunun sefere çıkışı,\nII. Kırtas hadisesi,\nIII. Halife seçimi,\nIV. Hz. Muhammed'in defnedileceği yer\nolaylarından hangileri örnek verilebilir?",
+      "soru": "Hz. Muhammed (s.a.v) hayattayken meydana gelen bazı tartışmalar onun otoritesi sayesinde kısa sürede çözülmüştür. Vefatından hemen sonra ortaya çıkan kimi ihtilaflar da sahabenin ferasetleriyle giderilmiştir. Ancak söz konusu tartışmaların bazıları sonradan tekrar gündeme getirilerek farklı biçimde değerlendirilmiş hatta ileriki süreçte ortaya çıkan siyasi ve itikadi ihtilafların önemli gerekçeleri arasında yer almıştır.\nBu türden ihtilaf gerekçelerine\nI. Üsame ordusunun sefere çıkışı,\nII. Kırtas hadisesi,\nIII. Halife seçimi,\nIV. Hz. Muhammed'in (s.a.v) defnedileceği yer\nolaylarından hangileri örnek verilebilir?",
       "optionList": [
         "I ve II",
         "I ve III",
@@ -400,22 +416,7 @@
       "dogru_cevap": "B",
       "exam_year": 2025
     },
-    {
-      "soru_type": 2,
-      "soru_id": 1019,
-      "category_id": 1,
-      "ders_adi": "İslam Tarihi",
-      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
-      "optionList": [
-        "IV - II - III - I",
-        "IV - I - II - III",
-        "I - IV - III - II",
-        "I - II - -III - IV",
-        "II - IV - III - I"
-      ],
-      "dogru_cevap": "B",
-      "exam_year": 2025
-    },
+    
     {
       "soru_type": 2,
       "soru_id": 1020,
