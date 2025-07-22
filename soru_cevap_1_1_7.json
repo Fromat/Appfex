@@ -358,14 +358,14 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "Toptan gıda üzerine holding işleten ve pirinç piyasasına yön veren Semih Bey, çiftçilerden satın aldığı büyük miktarda pirinci depolarında tutarak fiyatların normalin çok üstüne çıkmasını beklemiştir. Piyasada pirinç kıtlığı baş gösterince de elindeki ürünleri fahiş fiyattan pazara sürmüştür. Yaptığı bu işi arkadaşına anlatırken \"Allah'a şükür bu sene azımız bol oldu.\" şeklindeki sözüne karşılık arkadaşı Mehmet Bey \"İslam karaborsacılığı haram kılmıştır. Haram yolla elde ettiğin gelire rızık diyemezsin. Rızık ancak helal ve meşru yolla elde edilen şeydir.\" diyerek tepki göstermiştir.\n<b>Mehmet Bey'in bu sözleri aşağıdaki mezheplerden hangisinin görüşüyle uyuşmaktadır?</b>",
-  "optionList": [
-    "Selefiyye",
-    "Eş'ariyye",
-    "Maturidiyye",
-    "Mutezile",
-    "Cebriyye"
-  ],
-  "dogru_cevap":"D",
+      "optionList": [
+        "Selefiyye",
+        "Eş'ariyye",
+        "Maturidiyye",
+        "Mutezile",
+        "Cebriyye"
+      ],
+      "dogru_cevap": "D",
       "exam_year": 2025
     },
     {
@@ -374,14 +374,14 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "<b>Aşağıdaki itikadi gruplardan hangisinin oluşumunda Arap olmayan Müslümanlar olarak tarif edilen mevalinin belirleyici olduğu söylenebilir?</b>",
-  "optionList": [
-    "Zeydiyye",
-    "Mürcie",
-    "Cebriyye",
-    "İsmailik",
-    "Haricilik"
-  ],
-  "dogru_cevap":"B",
+      "optionList": [
+        "Zeydiyye",
+        "Mürcie",
+        "Cebriyye",
+        "İsmailik",
+        "Haricilik"
+      ],
+      "dogru_cevap": "B",
       "exam_year": 2025
     },
     {
@@ -390,17 +390,112 @@
       "category_id": 2,
       "ders_adi": "Kelam",
       "soru": "Vehhabilere göre Allah'a yakınlaşmak amacıyla Allah dışındaki bir başka kimsenin vasıta kılınması ve dua ederken \"şu kulun hakkı için\" ifadesinin kullanılması, Allah'a ortak koşmak anlamına gelir. Allah ile kul arasına aracı yerleştiren bu gibi inançlar, tevhid anlayışına aykırıdır ve şirktir.\n<b>Bu parçada bahsedilen husus aşağıdaki kavramlardan hangisiyle ifade edilmektedir?</b>",
-  "optionList": [
-    "Tevessül",
-    "İstirak",
-    "İstidrac",
-    "Tevhid",
-    "Tevelli"
-  ],
-  "dogru_cevap":"A",
+      "optionList": [
+        "Tevessül",
+        "İstirak",
+        "İstidrac",
+        "Tevhid",
+        "Tevelli"
+      ],
+      "dogru_cevap": "A",
       "exam_year": 2025
-    }
-    ,
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2530,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Dürziliğin ortaya çıkışı kaynaklarda şu şekilde anlatılır: Fatımi halifesi Hâkim Biemrillah ilahlığını açıklayarak yeni bir devrin başladığını, kurulan yeni dinin imamlığını da Hamza b. Ali'yi getirdiğini ilan eder. Hamza da Allah'ın; Hâkim'in bedenine girdiğini, onunla beşerî bir suret edindiğini savunur. Garip davranışlar sergileyen ve tek başına çöllerde dolaşan Hâkim ise 1021 yılında ortadan kaybolur. Bu kayboluş, Şii kültüründe var olan inancın da etkisiyle onun ölmediği, semaya yükselip gizlendiği, zamanı gelince geri dönüp yeryüzünde adaleti tesis edeceği şeklinde takipçileri tarafından yorumlanır. Ayrıca Dürziler insanların ruhlarının belirli sayıda yaratıldığını, artıp eksilmeyeceğini, ceset ölünce ruhun başka bir insanın bedenine girerek yaşamını sürdüreceğini savunur.\nBu parçada Dürzilere ait aşağıdaki inançların hangisinden bahsedilmemiştir?",
+      "optionList": [
+        "Hudud",
+        "Gaybet",
+        "Recat",
+        "Hulul",
+        "Tekammus"
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2531,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Aşağıdakilerden hangisi İslam öncesi dönemde kurulan ve Araplar için büyük bir öneme sahip olan panayırların fonksiyonları arasında yer almaz?",
+      "optionList": [
+        "Ekonomik faaliyetlerin artması",
+        "Edebi sohbetlerin yapılıp şiirlerin okunması",
+        "Bireyler arasında kültürel ve sosyal ilişkilerin gelişmesi",
+        "Örf ve âdetlerin yaşatılıp aktarılması",
+        "Arap Yarımadası'nda siyasi birliğin sağlanması"
+      ],
+      "dogru_cevap": "E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2532,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Müslümanlara eziyet edenler arasında\n* Kureyş kabilesinin Sehm kolunun reisi olan, yaptığı haksızlıkla Hilfü'l-Fudul'un kurulmasına yol açan.\n* Kevser Suresi'nde \"ebter\" ifadesiyle işaret edilen, hicretten kısa bir süre önce ölen\nmüşrik aşağıdakilerden hangisidir?",
+      "optionList": [
+        "As b. Vail",
+        "Velid b. Mugire",
+        "Ebu Cehil",
+        "Ümeyye b. Halef",
+        "Ebu Leheb"
+      ],
+      "dogru_cevap": "A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2533,
+      "category_id": 2,
+      "ders_adi": "Tefsir",
+      "soru": "\"Kur'an'ı düşünüp anlamaya çalışmıyorlar mı? Eğer o, Allah'tan başkası tarafından (indirilmiş) olsaydı, mutlaka onda birçok çelişki bulurlardı.\" (Nisa, 4:82)\nBu ayet aşağıdakilerden hangisinin Kur'an'da yer almadığına delil olarak öne sürülmektedir?",
+      "optionList": [
+        "Garib",
+        "Vucûh",
+        "Mecaz",
+        "Müşkil",
+        "Müphem"
+      ],
+      "dogru_cevap": "D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2534,
+      "category_id": 2,
+      "ders_adi": "Tefsir",
+      "soru": "Kur'an-ı Kerim mealini okuyan Ahmet, bir ayete geldiğinde fitnenin öldürmekten daha şiddetli bir şey olduğunu okumuştur. Başka bir ayette ise malların ve çocukların insanlar için fitne olarak ifade edildiğini görünce \"Fitne öldürmekten daha şiddetlidir, mallar ve çocuklar fitnedir. O hâlde çocuklarımız savaştan daha kötü bir şeydir.\" şeklinde yanlış bir sonuca ulaşmıştır.\nAhmet'in böyle bir sonuca ulaşması aşağıdaki Kur'an ilimlerinden hangisini bilmediğini göstermektedir?",
+      "optionList": [
+        "İcazü'l-Kur'an",
+        "Mübhematü'l-Kur'an",
+        "Garibü'l-Kur'an",
+        "Fezailü'l-Kur'an",
+        "Vücuh ve Nezair"
+      ],
+      "dogru_cevap": "E",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2535,
+      "category_id": 2,
+      "ders_adi": "Tefsir",
+      "soru": "Necmettin öğretmen tefsir dersinde öğrencilerinin her birine proje ödevi vermiştir. Bir öğrencisinden Kehf Suresi'nin 9-26. ayetlerinde yer alan Ashab-ı Kehf Kıssası ile ilgili rivayetleri detaylı bir şekilde araştırıp derste sunmasını istemiştir. Bu kıssayla ilgili bilgilerin israiliyyattan ve farklı rivayetlerden elde edilebileceğini söylemiştir. Bu çerçevede öğrencisine rivayet yönü öne çıkan bazı tefsir eserlerinin isimlerini de vermiştir.\nBuna göre Necmettin Öğretmen'in aşağıdaki eserlerden hangisini önermesi beklenmez?",
+      "optionList": [
+        "Taberi'nin Camiu'l-Beyan an Te'vili'l-Kur'an'ını",
+        "Sa'lebi'nin el-Keşf ve'l-Beyan an Te'vili'l-Kur'an'ını",
+        "Begavi'nin Meali-mu't-Tenzil'ini",
+        "Suyuti'nin ed-Dürrü'l-Mensur'unu",
+        "Ebussuud'un İrşadü'l-Akli's-Selim'ini"
+      ],
+      "dogru_cevap": "E",
+      "exam_year": 2025
+    },
     {
       "soru_type": 2,
       "soru_id": 1015,
