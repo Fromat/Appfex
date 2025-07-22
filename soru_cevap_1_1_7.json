@@ -263,11 +263,11 @@
       "ders_adi": "Fıkıh",
       "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\nHanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?\n(İddet süresi - Mehir)",
       "optionList": [
-        "Beklemez   -   Yarısını alır.",
-        "3 ay bekler   - Tamamını alır.",
-        "3 ay bekler<indent=25%>Yarısını alır.</indent>",
-        "Beklemez. Tamamını alır.",
-        "3 ay bekler. Alamaz."
+        "Beklemez  -   Yarısını alır.",
+        "3 ay bekler  -  Tamamını alır.",
+        "3 ay bekler  -  Yarısını alır.",
+        "Beklemez  -   Tamamını alır.",
+        "3 ay bekler  -  Alamaz."
       ],
       "dogru_cevap": "A",
       "exam_year": 2025
@@ -341,7 +341,7 @@
       "soru_id": 2526,
       "category_id": 2,
       "ders_adi": "Kelam",
-      "soru": "<b<Aşağıdakilerden hangisi Maturidiliğin insan iradesinin fiildeki rolü konusunda kabul ettiği görüşlerden biri değildir?</b>",
+      "soru": "<b>Aşağıdakilerden hangisi Maturidiliğin insan iradesinin fiildeki rolü konusunda kabul ettiği görüşlerden biri değildir?</b>",
       "optionList": [
         "İnsan, yaptığı eylemlerden sorumlu tutulacak bir iradeye sahiptir.",
         "İnsan, fiillerini doğuştan kendisinde bulunan yaratma kudretiyle meydana getirir.",
