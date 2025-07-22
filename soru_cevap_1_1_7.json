@@ -245,7 +245,7 @@
       "soru_id": 2520,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "Bir insanı haksız yere ve kasten öldürmenin dünyevi cezası kısastır. (Bakara, 2:178) Kısas yerine diyet istenmesi durumunda katil, bu diyeti tek başına ödeyecektir. Ancak hataen bir insanın ölümüne sebebiyet verilmesi hâlinde kısas cezası düşmekte, sadece diyet gündeme gelmektedir. Hz. Muhammed'in uygulamasına göre bu diyet, katil ve yakın erkek akrabası (asabe) beraberce ödemek durumundadır.\nDaha sonraki dönemlerde asabenin yanı sıra kişinin üyesi olduğu divan/lonca teşkilatı, bu ödemeye iştirak etmeye başlamıştır.\n\n<b>Bu parçada bahsedilen husus aşağıdakilerden hangisiyle ifade edilmektedir?</b>",
+      "soru": "Bir insanı haksız yere ve kasten öldürmenin dünyevi cezası kısastır. (Bakara, 2:178) Kısas yerine diyet istenmesi durumunda katil, bu diyeti tek başına ödeyecektir. Ancak hataen bir insanın ölümüne sebebiyet verilmesi hâlinde kısas cezası düşmekte, sadece diyet gündeme gelmektedir. Hz. Muhammed'in (s.a.v) uygulamasına göre bu diyet, katil ve yakın erkek akrabası (asabe) beraberce ödemek durumundadır.Daha sonraki dönemlerde asabenin yanı sıra kişinin üyesi olduğu divan/lonca teşkilatı, bu ödemeye iştirak etmeye başlamıştır.\n<b>Bu parçada bahsedilen husus aşağıdakilerden hangisiyle ifade edilmektedir?</b>",
       "optionList": [
         "Akile",
         "İare",
@@ -261,11 +261,11 @@
       "soru_id": 2521,
       "category_id": 2,
       "ders_adi": "Fıkıh",
-      "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\nHanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?\nİddet süresi\nMehir",
+      "soru": "Üniversitede aynı sınıftaki Hüseyin ile Zeynep atandıktan sonra evlenmeye karar verir. Farklı şehirlere atanan bu kişiler, tayin döneminden önce 80 gr altın mehir belirleyerek nişânlanırlar. İki ay sonra gelmeksizin isahih halvet dahi olmaksızın tayinlerinin çıkmasını bekler. Ancak bu sırada yaşanan bir tartışma sebebiyle Hüseyin, Zeynep'i mahkemeye verir ve tek celsede boşanırlar.\nHanefi mezhebine göre Zeynep'in beklemesi gereken iddet ve alacağı mehir ile ilgili aşağıdakilerden hangisi doğrudur?\n(İddet süresi - Mehir)",
       "optionList": [
-        "Beklemez. Yarısını alır.",
-        "3 ay bekler. Tamamını alır.",
-        "3 ay bekler. Yarısını alır.",
+        "Beklemez   -   Yarısını alır.",
+        "3 ay bekler   - Tamamını alır.",
+        "3 ay bekler<indent=25%>Yarısını alır.</indent>",
         "Beklemez. Tamamını alır.",
         "3 ay bekler. Alamaz."
       ],
