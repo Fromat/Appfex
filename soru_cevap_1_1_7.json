@@ -354,6 +354,55 @@
     },
     {
       "soru_type": 2,
+      "soru_id": 2527,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Toptan gıda üzerine holding işleten ve pirinç piyasasına yön veren Semih Bey, çiftçilerden satın aldığı büyük miktarda pirinci depolarında tutarak fiyatların normalin çok üstüne çıkmasını beklemiştir. Piyasada pirinç kıtlığı baş gösterince de elindeki ürünleri fahiş fiyattan pazara sürmüştür. Yaptığı bu işi arkadaşına anlatırken \"Allah'a şükür bu sene azımız bol oldu.\" şeklindeki sözüne karşılık arkadaşı Mehmet Bey \"İslam karaborsacılığı haram kılmıştır. Haram yolla elde ettiğin gelire rızık diyemezsin. Rızık ancak helal ve meşru yolla elde edilen şeydir.\" diyerek tepki göstermiştir.\n<b>Mehmet Bey'in bu sözleri aşağıdaki mezheplerden hangisinin görüşüyle uyuşmaktadır?</b>",
+  "optionList": [
+    "Selefiyye",
+    "Eş'ariyye",
+    "Maturidiyye",
+    "Mutezile",
+    "Cebriyye"
+  ],
+  "dogru_cevap":"D",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2528,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "<b>Aşağıdaki itikadi gruplardan hangisinin oluşumunda Arap olmayan Müslümanlar olarak tarif edilen mevalinin belirleyici olduğu söylenebilir?</b>",
+  "optionList": [
+    "Zeydiyye",
+    "Mürcie",
+    "Cebriyye",
+    "İsmailik",
+    "Haricilik"
+  ],
+  "dogru_cevap":"A",
+      "exam_year": 2025
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2529,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+      "soru": "Vehhabilere göre Allah'a yakınlaşmak amacıyla Allah dışındaki bir başka kimsenin vasıta kılınması ve dua ederken \"şu kulun hakkı için\" ifadesinin kullanılması, Allah'a ortak koşmak anlamına gelir. Allah ile kul arasına aracı yerleştiren bu gibi inançlar, tevhid anlayışına aykırıdır ve şirktir.\n<b>Bu parçada bahsedilen husus aşağıdaki kavramlardan hangisiyle ifade edilmektedir?</b>",
+  "optionList": [
+    "Tevessül",
+    "İstirak",
+    "İstidrac",
+    "Tevhid",
+    "Tevelli"
+  ],
+  "dogru_cevap":"A",
+      "exam_year": 2025
+    }
+    ,
+    {
+      "soru_type": 2,
       "soru_id": 1015,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
