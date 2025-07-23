@@ -101,13 +101,13 @@
       "soru_id": 2511,
       "category_id": 2,
       "ders_adi": "Hadis Tarihi ve Usulü",
-      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\n<b>Bu parçayla ilgili aşağıdakilerden hangisi söylenemez?</b>",
+      "soru": "Buhari; hocası Müsedded kanalıyla Yahya'dan, Yahya hocası Şu'be'den, O Katade'den, Katade de Enes b. Malik'ten naklen Hz. Muhammed'in (s.a.v) şöyle buyurduğunu aktarmıştır: \"Sizden birisi kendisi için istediği şeyi din kardeşi için de istemedikçe gerçek anlamda iman etmiş olamaz.\"\n<b>Bu parçayla ilgili aşağıdakilerden hangisi söylenemez?</b>",
       "optionList": [
-        "Kaynağı Hz. Muhammed olduğu için merfudur.",
+        "Kaynağı Hz. Muhammed (s.a.v) olduğu için merfudur.",
         "Senedi itibarıyla mürsel bir hadistir.",
         "Hadis, Kütüb-i Sitte'de yer almaktadır.",
-        "Hz. Muhammed'e beş ravi ile ulaştığı için senedi humasidir.",
-        "Hz. Muhammed'in sözünü ifade ettiği için kavli bir hadistir."
+        "Hz. Muhammed'e (s.a.v) beş ravi ile ulaştığı için senedi humasidir.",
+        "Hz. Muhammed'in (s.a.v) sözünü ifade ettiği için kavli bir hadistir."
       ],
       "dogru_cevap": "B",
       "exam_year": 2025
@@ -517,7 +517,7 @@
       "soru_id": 1016,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
-      "soru": "Bir grup müşriğin Medine'ye saldıracağı haberi üzerine Hz. Muhammed (a.s), hicretin sekizinci yılında Amr b. As komutasındaki bir birliği düşman üzerine gönderdi.Sefer dönüşünde sahabenin bir kısmı, tercihleri dolayısıyla onu Hz. Muhammed'e (a.s) şikayet etti. Amr b. As, yerlerinin ve sayılarının açığa çıkmasını engellemek amacıyla ateş yaktırmadığını ve Müslümanlara pusu kurulmuş olabileceği endişesiyle düşmanı takibe izin vermediğini belirterek kendini savundu. Hz. Muhammed(a.s), onun bu ifadelerine karşılık herhangi bir şey söylemeyerek kararlarını onayladığını gösterdi.\n<b>Bu parçada bahsedilen seriyye aşağıdakilerden hangisidir?</b> ",
+      "soru": "Bir grup müşriğin Medine'ye saldıracağı haberi üzerine Hz. Muhammed (s.a.v), hicretin sekizinci yılında Amr b. As komutasındaki bir birliği düşman üzerine gönderdi.Sefer dönüşünde sahabenin bir kısmı, tercihleri dolayısıyla onu Hz. Muhammed'e (s.a.v) şikayet etti. Amr b. As, yerlerinin ve sayılarının açığa çıkmasını engellemek amacıyla ateş yaktırmadığını ve Müslümanlara pusu kurulmuş olabileceği endişesiyle düşmanı takibe izin vermediğini belirterek kendini savundu. Hz. Muhammed(s.a.v), onun bu ifadelerine karşılık herhangi bir şey söylemeyerek kararlarını onayladığını gösterdi.\n<b>Bu parçada bahsedilen seriyye aşağıdakilerden hangisidir?</b> ",
       "optionList": [
         "Rabiğ",
         "Katan",
@@ -539,7 +539,7 @@
         "Mustalikoğulları Gazvesi sonrasında Hz. Aişe'ye iftira atmaları",
         "Müslüman bir kadını rahatsız etmeleri ve yardıma gelen Müslüman'ı da öldürmeleri",
         "Paylarına düşen diyet miktarını ödemekten kaçınmaları",
-        "Hz. Muhammed'e (a.s) suikast girişiminde bulunmaları"
+        "Hz. Muhammed'e (s.a.v) suikast girişiminde bulunmaları"
       ],
       "dogru_cevap": "B",
       "exam_year": 2025
@@ -549,7 +549,7 @@
       "soru_id": 1019,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
-      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(a.s) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
+      "soru": "\nI. Darünnedvenin kurulması\nII. Fil Vakası'nın gerçekleşmesi\nIII. Hz. Muhammed'in(s.a.v) doğumu\nIV. Mekke idaresinin Kureyş kabilesinin eline geçmesi\n<b>Peygamberlik öncesi yaşanan bu olayların kronolojik sıralaması aşağıdakilerin hangisinde doğru verilmiştir?</b>",
       "optionList": [
         "IV - II - III - I",
         "IV - I - II - III",
