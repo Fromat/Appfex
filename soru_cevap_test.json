@@ -856,6 +856,15 @@
       "soru":"<b>Sosyal medya kullanımında ebeveynler nasıl bir yol izlemelidir?</b>",
       "cevap": "\n<b>Olumlu:</b> Ebeveynler, sosyal medyanın eğitim, iletişim ve sosyal etkileşim açısından olumlu yönlerini desteklemeli, çocuklarına rehberlik ederek doğru ve güvenli kullanım alışkanlığı kazandırmalıdır.\n<b>Olumsuz:</b> Ancak aşırı ve kontrolsüz kullanımı çocuklarda bağımlılık, dikkat dağınıklığı ve sosyal izolasyona neden olabilir. Bu yüzden sınırlar koymalı ve takip etmelidirler.",
       "ogretmen_id": 4
+    },
+    {
+      "soru_type": 1,
+      "soru_id": 1039,
+      "category_id": 3,
+      "ders_adi": "Mülakat Soruları",
+      "soru":"<b>Tüketim ve medya unsurları hakkında ne düşünüyorsunuz?</b>",
+      "cevap": "\n<b>Olumlu:</b> Medya, bilgi akışını sağlayabilir. Ancak kaynaklar genellikle medyanın tüketim alışkanlıklarını <b>şekillendiren en güçlü araçlardan biri olduğunu</b> ve bireylerde <b>aşırı tüketimi teşvik ederek doyumsuzluğa ve çevresel sorunlara yol açabileceğini</b> vurgular.",
+"ogretmen_id": 4
     }
   ]
 }
