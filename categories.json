@@ -41,6 +41,15 @@
         "youtube": "",
         "telegram": "https://t.me/mutmainsalih"
       }
+    },
+       {
+      "id": 4,
+      "isim": "Esma ÖZTÜRK",
+      "socialmedia_url": {
+        "instagram": "https://www.instagram.com/dijitalesma",
+        "youtube": "",
+        "telegram": "https://t.me/dijitalesma"
+      }
     }
   ]
     }
