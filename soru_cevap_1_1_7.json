@@ -626,6 +626,232 @@
     },
     {
       "soru_type": 2,
+      "soru_id": 1041,
+      "category_id": 3,
+      "ders_adi": "Hadis",
+      "soru": "Yalancılıkla itham edilmiş bir ravinin rivayetinde yalnız kaldığı hadis türüdür. Hadis rivayetinde beraber, başkasından ya da kendisinden bahsederken yalan konuştuğu bilinen kişinin rivayeti kabul edilmez. Başkasının sözlerinde gevşek davranmaya alışmış olan kimsenin hadis-i nebeviyi naklederken de gevşek davranmasından korkulur. Bu sebeple de böylesi kişilerin hadisi reddedilir.\n\n<b>Bu parçada hakkında bilgi verilen hadis türü aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Mevzu Hadis",
+    "Münker Hadis",
+    "Muallel Hadis",
+    "Müdrec Hadis",
+    "Metruk Hadis"
+  ],
+  "dogru_cevap": "E",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1042,
+      "category_id": 3,
+      "ders_adi": "Din Psikolojisi",
+      "soru": "Bu ekol, 1879'da ilk psikoloji laboratuvarını açan Wilhelm Wundt tarafından kurulmuştur. Bu ekole göre psikolojinin amacı, bilinç denilen bu karmaşık olayı çözümlemek, zihnin en yalın unsurlarını araştırmak ve bunlar arasındaki ilişkileri bulup formüle etmektir. Temel problem olarak \"zihin (beyin) nedir, yapısı nasıldır?\" sorusuna cevap ararlar. Psikolojinin bilinçli davranışı araştırması gerektiğini düşünürler. Düşünmenin, bilincin, duyguların ve diğer zihinsel durum ve aktivitelerin temel unsurları üzerinde yoğunlaşırlar. Zihnin yapısını araştırmak için içgözlem metodunu kullanırlar.\n\n<b>Bu parçada hakkında bilgi verilen ekol aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "İşlevselci",
+    "Gestalt",
+    "Yapısalcı",
+    "Davranışçı",
+    "Bilişselci"
+  ],
+  "dogru_cevap": "C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1043,
+      "category_id": 3,
+      "ders_adi": "Tefsir",
+      "soru": "Bu ilim Kur'an'dan bazı kelime, ayet ve surelerin belli bir tertibe göre okunması veya yazılması halinde niyet ve maksada uygun sonuçlar veren tesir ve özelliklerinden bahsedilen bir disiplindir. Kur'an ilimleri arasında zikredilen bu ilim, Kur'an ayetlerinin taşıdığı birtakım özellikleri ve bu özelliklerin bir kısım hastalıklarda, ruhi durumlarda ve bazı olaylarda müspet faydalar sağladığını konu edinir.\n\n<b>Bu parçada hakkında bilgi verilen tefsir ilmi aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Fezailu'l-Kur'an",
+    "Cedelu'l-Kur'an",
+    "Garibu'l-Kur'an",
+    "Havassu'l-Kur'an",
+    "Uslubu'l-Kur'an"
+  ],
+  "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1044,
+      "category_id": 3,
+      "ders_adi": "İslam Mezhepleri Tarihi",
+      "soru": "Ahmet Bey, mensup olduğu fırka hakkında şu bilgileri vermektedir: \"Mensubu olduğum fırka Harici mezhebine bağlıdır. Bize göre, bizim fırkamıza bağlı olmayan bir kimse Müslüman dahi olsa, sadece kâfir değil, aynı zamanda müşriktir ve onların çocukları dâhil hepsi cehennemliktir. Yine bizimle birlikte düşmanlarımıza karşı savaşmayan ve bulundukları yerde kalan Haricîler de kâfirdir. Bizce muhaliflerin yurtları, \"darü'l-harp\"tır. Darü'l-harp'te caiz olan her şey buralarda da caizdir. Örnek verecek olursam, çocuk ve kadınların öldürülmesi, esir alınması, ayrıca muhaliflerin köleleştirilmesi ve savaşa katılmayanların öldürülmesini caiz kabul ederiz. Bize göre Kur'an'da recm cezası bulunmadığı için, İslam'da böyle bir uygulama kabul görülmez.\n\n<b>Buna göre Ahmet Bey'in mensubu olduğu fırka aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Ezarika",
+    "Necedat",
+    "Sufriye",
+    "Acaride",
+    "Seâlibe"
+  ],
+  "dogru_cevap": "A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1045,
+      "category_id": 3,
+      "ders_adi": "Din Sosyolojisi",
+      "soru": "Bu sosyal değişim kuramına göre toplum bir organizma değil, içinde tearuzların olageldiği bir süreç biçiminde ele almaktadır. Bu kuram, esasen toplumun bir bütün olarak devam etmesinin mekanizmalarını araştırır. Dahrendorf bu kuramı şu beş maddede özetlemektedir:\n  • Tearuzun boyutları iç harpten parlamenter tartışma ve çekişmelere kadar değişiklik arz edebilir.\n  • Tearuz, sosyal hayatın olmazsa olmaz bir özelliğidir.\n  • Tearuz geçici olarak bastırılabilir, kontrol altında tutulabilir veya kanalize edilebilirse de,\n  • Yok edilemez.\n  • Toplumdaki zorlamalar tearuzu, tearuz ise toplumsal değişimi oluşturur.\n\n<b>Bu parçada aşağıdaki sosyal değişim kuramlarından hangisi hakkında bilgi verilmektedir?</b>",
+  "optionList": [
+    "Çatışmacı",
+    "Evrimci",
+    "Yapısal-İşlevsel",
+    "Diyalektik",
+    "Bireysel"
+  ],
+  "dogru_cevap": "A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1046,
+      "category_id": 3,
+      "ders_adi": "Dinler Tarihi",
+      "soru": "Yahudiler bu bayramı Yom Kippur bayramından beş gün sonra “Çardak Bayramı” olarak kutladıkları ve sekiz gün süren bir tarımı olarak kutlamaktadır. Bu bayram Yahudi din geleneğinde Mısır’dan çıkış sırasında çölde geçirilen günlerle ilişkilendirilmektedir. Bu bayramda Yahudi aileleri evlerinin önüne veya balkonlarına atalarının çöldeki yaşamları sırasında kaldıkları çatıları sembolize eden defne yapraklarıyla süslenmiş çardaklar yaparak yedi gün boyunca burada kalmayı yeğlerler. Bu bayramın ilk iki gününde iş yapmak yasaktır. Ortodoks Yahudiler bu yasağa uymakta ve ilk iki ve son iki günde sinagoglarda özel ibadet törenleri düzenlemektedirler.\n\n<b>Bu parçada hakkında bilgi verilen Yahudi bayramı aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Fısıh (Pesah)",
+    "Purim",
+    "Hanuka",
+    "Şavuot",
+    "Sukkot"
+  ],
+  "dogru_cevap": "E",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1047,
+      "category_id": 3,
+      "ders_adi": "Dinler Tarihi",
+      "soru": "Roş Ha-Şana'yı takip eden on günlük tefekkür döneminin son günü yani Tişri ayının onuncu günü kutlanan bir kefaret günüdür. Yahudi geleneğine göre Roş Ha-Şana gününde herkesin günahları ve akıbeti yani kaderiyle ilgili bilgiler, Tanrı katındaki defterlere yazılıp, takip eden on günün sonunda mühürlenmektedir. Bu on günlük tövbe döneminde özellikle de bu günde, kişinin tövbe, dua ve sadaka yoluyla ortaya koyacağı performans söz konusu kader defterlerinde takdir edileni değiştirme fonksiyonuna sahip olmaktadır. Bu öneminden dolayı bu günü bir yıl boyunca işlenen tüm günahların affedilmesi için son fırsat olarak kabul eden erkek veya bayan tüm Yahudiler iki gün batımı arasına denk gelen yirmi beş saat boyunca oruç tutmakta ve günün büyük bir kısmını sinagoglarda ibadetle geçirmektedirler.\n\n<b>Bu parçada hakkında bilgi verilen Yahudi bayramı aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Fısıh (Pesah)",
+    "Yom Kippur",
+    "Hanuka",
+    "Şavuot",
+    "Sukkot"
+  ],
+  "dogru_cevap": "B",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1048,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Hz. Muhammed (s.a.v.) Medine'ye hicret ettikten sonra çeşitli kabilelerle işbirliği yaparak Mekke-Suriye ticaret yolunu kontrol altına almak ve böylece Kureyş'e ekonomik açıdan ağır bir darbe indirmek istiyordu. Ancak bunu gerçekleştirmek için işbirliği yapmak zorunda olduğu kabilelerin can ve mal güvenliklerini Kureyş tehdidine karşı garanti etmesi gerekiyordu. Bu sebeple Hz. Peygamber (s.a.v); Ümeyye b. Halef el-Cumahi emrindeki 100 kişilik bir muhafız birliğinin himayesinde 2500 deveden oluşan Kureyş kervanının savaşın yapılacağı bu bölgeden geçeceğine haber alınca Sa'd b. Muaz'ı (başka bir rivayette Said b. Osman b. Maz'un'u) Medine'de yerine vekil bırakıp 200 kişilik bir kuvvetle ikinci yılın rebîulevvel ayında yola çıktı. Sefer sırasında Resulullah'ın beyaz sancağını Sa'd b. Ebu Vakkas taşıdı. Kervan bölgeden daha önce geçmiş olduğu için Müslümanlar düşmanla karşılaşmadan Medine'ye döndüler.\n\n<b>Bu parçada hakkında bilgi verilen gazve aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Buvat",
+    "Sefevan",
+    "Uşeyre",
+    "Bedir",
+    "Gatafan"
+  ],
+  "dogru_cevap": "A",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1049,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+      "soru": "• İnsan neden yaratıldığına bir baksın! Atılan bir sudan yaratıldı. (O su) sırt ile göğüs kafesi arasından çıkar.” (Târık, 5-7)\n• “(İnsanlar) devenin nasıl yaratıldığına bakmazlar mı? Göğe bakmıyorlar mı nasıl yükseltilmiş? Dağların nasıl dikildiğine bakmazlar mı? Yeryüzünün nasıl yayıldığına bir bakmazlar mı?” (Gâşiye, 17-20) \n\n<b>Yukarıda verilen ayetler aşağıdaki Allah'ın varlığının delillerinden hangisine aittir?</b>",
+  "optionList": [
+    "Fıtrat Delili",
+    "Kemal Delili",
+    "İhtira Delili",
+    "Kabul-i Amme Delili",
+    "İmkân Delili"
+  ],
+  "dogru_cevap": "C",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1050,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Cahiliye döneminde “hac günlerinden Kâbe’yi ziyaret için gelenlerin yemek ihtiyaçlarının karşılanması” görevidir. Cahiliye devri Arapları arasında misafirperverliğin çok yaygın olması, İslamiyet'ten sonra da Mekke ve Medine halkının şehirlerine gelen yabancılara yemek ikram etmeyi sürdürmesi bu görevin köklü geçmişi olduğunu göstermektedir. Cahiliye döneminde önceleri, Kâbe'yi ziyarete gelenler Mekke halkından toplanan yardımlarla ağırlanırken daha sonra bu görevi, onu bir itibar ve şeref vasıtası olarak gören zenginlerle Mekke ve Kâbe yönetiminde etkili olan kabile reisleri üstlenmiştir.\n\n<b>Bu parçada hakkında bilgi verilen Kâbe görevi aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Sikaye",
+    "Hicabe",
+    "Sifaret",
+    "Liva",
+    "Rifade"
+  ],
+  "dogru_cevap": "E",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1051,
+      "category_id": 3,
+      "ders_adi": "Din Felsefesi",
+      "soru": "Leukippos ve Demokritos, varlığın kaynağı, mahiyeti ve nasıl meydana geldiği sorusunu, daha küçük bölünemeyen atomlara dayandırmışlardır. Buna göre madde, ezeli, ebedi, yok olmayan, yaratılmamış, her daim hareket halindeki atomlardan meydana gelmektedir. Var olmak, atomların bir araya gelmesinden, yok olmak da bu atomların ayrışmasından ibarettir. İnsanın ölümü, ruh atomlarıyla birlikte tüm atomların ayrışmasıdır. Bu nedenle ruhun ölümsüzlüğünden ya da kişisel kimliğin devamından bahsetmek söz konusu değildir.\n\n<b>Bu parçada hakkında bilgi verilen tanrı tasavvuru/felsefi görüş aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Spiritualizm",
+    "Agnostisizm",
+    "Panenteizm",
+    "Materyalizm",
+    "Panteizm"
+  ],
+  "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1052,
+      "category_id": 3,
+      "ders_adi": "Tefsir",
+      "soru": "Sureler rastgele değil, birtakım gâyelere matuf olarak bitmektedirler. Mesela, Fatiha Suresi'nin bitişinde aranan maksat, Allah'ın gazabına ve dalalete sebep olan günahtan, imanın korunmasıdır. Bunlar \"en'amte aleyhim\" lafzında toplanmıştır. Âyetle kendilerine nimet verildiği ifade edilenler mü'minlerdir. Allah, bütün nimetleri içermesi için imanı mutlak olarak zikretmiştir. Kendisine iman nimeti verilen kimse, her çeşit nimete kavuşur. Çünkü iman nimeti bütün nimetleri içine almaktadır. Allah bu nimeti ifade ettikten sonra mü'minleri “ğayri'l-ma’dubi aleyhim” ayetiyle nitelendirmiştir. Bu şekliyle mü'minler, iman nimeti olan mutlak nimetle Allah'ın gazabına uğramaktan ve dalaletten kurtulmayı bir arada toplamış olmaktadırlar.\n\n<b>Bu parçada hakkında bilgi verilen ilim/tasavvur aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Havatimu's-Suver",
+    "Sebeb-i Nüzul",
+    "Müşkilu'l-Kur'an",
+    "Garibu'l-Kur'an",
+    "Vücuh ve Nezair"
+  ],
+  "dogru_cevap": "A",
+      "ogretmen_id": 3
+    }
+    ,
+     {
+      "soru_type": 2,
+      "soru_id": 1053,
+      "category_id": 3,
+      "ders_adi": "Fıkıh",
+      "soru": "• Delil bulunmadıkça kişinin yükümlülük ve sorumluluğunun bulunmadığına hükmedilmesine beraat-i asliyye denir.\n• Aksine delil bulunmadıkça bir şeyden faydalanmanın veya bir davranışta bulunmanın mübah olduğuna hükmedilmesine ibahay-i asliyye denir.\n\n<b>Yukarıda verilen fıkıh kaideleri aşağıdaki fer’i delillerden hangisine aittir?</b>",
+  "optionList": [
+    "Mürsel Maslahat",
+    "Örf",
+    "İstihsan",
+    "İstishab",
+    "İstislah"
+  ],
+  "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1054,
+      "category_id": 3,
+      "ders_adi": "Fıkıh",
+      "soru": "İstisna’ (sipariş akdi)’nin caiz olması bu istihsan çeşidine örnektir. İstisna’ akdi, bir kimsenin, bir sanatkâra belirli bir bedel karşılığında kendisine bir şey yapması için sözleşmesi demektir. Akît esnasında, akdin konusu olan şey, iş/eser henüz mevcut olmadığı için, alım-satım konusundaki “mevcut olmayan şey (madum)’un satışı batıldır” kuralına göre bu sözleşmenin geçersiz olması gerekir. Fakat insanlar öteden beri bu tür akdi yapa gelmişler, müçtehitlerden de buna karşı çıkan olmamıştır.\n\n<b>Bu parçada verilen örnek aşağıdaki İstihsan çeşitlerinden hangisine aittir?</b>",
+  "optionList": [
+    "Nas Sebebiyle",
+    "İcma Sebebiyle",
+    "Zaruret Sebebiyle",
+    "Hafi Kıyas Sebebiyle",
+    "Örf Sebebiyle"
+  ],
+  "dogru_cevap": "B",
+      "ogretmen_id": 3
+    }
+    ,
+    {
+      "soru_type": 2,
       "soru_id": 1024,
       "category_id": 3,
       "ders_adi": "İslam Tarihi",
@@ -820,7 +1046,7 @@
       "soru_type": 2,
       "soru_id": 1036,
       "category_id": 3,
-      "ders_adi": "İslam Mezhepler Tarihi",
+      "ders_adi": "İslam Mezhepleri Tarihi",
       "soru": "İmamiyye fırkası “öbür Müslüman mezheplerinin inandıkları gibi Allah Sübhanehu ve Teâlâ’nın, halkı yeniden ve ölümünden sonra kıyamet gününde dirilteceğine inanır. Şahıs aynıyle, cesediyle ve ruhuyla dirilecektir; o kadar ki, birisi onu görse filandır der. Bu tekrar dirilişin keyfiyetini münakaşaya lüzum yoktur; yok olanı tekrar varlığa getirmek suretiyle mi, yoksa varlığın bir daha zuhuru suretiyle mi, yahut da başka bir tarzda mı olacaktır; bunu inceleyemeyiz.” şeklinde görüşe sahiptirler.\n\n<b>Bu parçada geçen ifadeler aşağıdaki kavramlardan hangisiyle ilişkilidir?</b>",
       "optionList": [
         "Rec’at",
