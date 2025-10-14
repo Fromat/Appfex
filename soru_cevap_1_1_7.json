@@ -610,6 +610,164 @@
     },
     {
       "soru_type": 2,
+      "soru_id": 1064,
+      "category_id": 3,
+      "ders_adi": "Hadis",
+       "soru": "Bu eser türü ale’r-rical tasnif sistemi ile yazılmış eser türlerinden biridir. Ravilerin adlarına göre alfabetik olarak düzenlenen eserlerin genel adıdır. Hadis literatüründe ilk ravisine (sahabi) göre tertip edilen müsned türü eserlerin aksine son ravisine göre düzenlenen eserlerdir. Dolayısıyla hadisçiler, rivayetleri, sahabe, şeyuh veya beldelere göre çoğu kere alfabetik olarak sıraladığı eserlerdir. Bu eserin ilk akla gelen örneği Ebu’l-Kasım Süleyman b. Ahmed b. Eyyub et-Taberani’ye ait üç eserdir.\n<b>Bu parçada hakkında bilgi verilen eser türü aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Sünenler",
+      "Camiler",
+      "Müstedrek",
+      "Mu'cemler",
+      "Musannefler"
+    ],
+    "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },{
+      "soru_type": 2,
+      "soru_id": 1063,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+       "soru": "Hicretin 2. yılının Cemaziyelevvel (veya Cemaziyelahir) ayında Medine'ye Mekke'den bir Kureyş ticaret kafilesinin sahil yoluyla Suriye'ye gitmekte olduğu haberi gelmiştir. Bunun üzerine Resul-i Ekrem, Ebu Seleme el-Mahzumi'yi Medine'de vekil bırakarak muhacirlerden oluşan 150 veya 200 kişilik askerî birlikle Ebu Süfyan idaresindeki Kureyş kervanının önünü kesmek için sefere çıktı. Sancağı amcası Hamza b. Abdülmuttalib'e vermişti. Müslümanların sadece bir atı ve otuz devesi vardı, develere nöbetleşe biniyorlardı. Sayıları otuz kırk veya yetmiş olduğu rivayet edilen muhafız ve tüccardan meydana gelen Mekke kervanı, Kureyşliler'in o dönemlerde Suriye'ye gönderdiği en önemli ve en zengin ticaret kafilelerinden biriydi. Hz. Peygamber bölgeye geldiğinde kimseye rastlayamamıştır. Bölgede yaşayan Beni Müdlic ve müttefiki Beni Damre ile antlaşma yaptıktan sonra Medine'ye dönmüştür.\n<b>Yukarıda hakkında bilgi verilen mesele aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Bedir Gazvesi",
+      "Uşeyre Gazvesi",
+      "Sevik Gazvesi",
+      "Bahran Gazvesi",
+      "Sefevean Gazvesi"
+    ],
+    "dogru_cevap": "B",
+      "ogretmen_id": 3
+    },{
+      "soru_type": 2,
+      "soru_id": 1062,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+       "soru": "Kelamın bu meselesi:\n• Nazarî bir mesele olup Ehl-i Sünnet ve Mu'tezile arasındaki problemlerdir.\n• Mu'tezile'ye göre Allah'ın zatına çeşitli sıfatlar isnad edilirse birçok kadim varlığın mevcudiyeti icra etmekte ve sıfatların mahluk olduğunu iddia etmektedir.\n• Ehl-i Sünnet'e göre Allah'ın sıfatları vardır ve Allah'ın sıfatları zatının ne aynıdır ne de gayrıdır. Allah'ın sıfatları Zat'ı ile kaimdir ve bizim için bunun keyfiyeti de meçhuldür.\n<b>Yukarıda hakkında bilgi verilen mesele aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Teceddüd-i Emsal",
+      "Salah-Aslah",
+      "Taaddüd-i Kudema",
+      "Cevher-Araz",
+      "Tevlid ve Tevellüd"
+    ],
+    "dogru_cevap": "C",
+      "ogretmen_id": 3
+    },
+{
+      "soru_type": 2,
+      "soru_id": 1061,
+      "category_id": 3,
+      "ders_adi": "İslam Mezhepleri Tarihi",
+       "soru": "Allah bir şeyi bilmezken bir vesile ile bilir hale gelmesi, yahut bir şeyin iyi veya kötü bir netice vereceğini söylemişken, aksinin ortaya çıkması anlamındaki bu kavram genellikle İslam toplumunda Keysaniyye'nin düşüncesi olarak kabul edilir.\n<b>Bu parçada hakkında bilgi verilen kavram aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Beda",
+      "Takammus",
+      "Rec'at",
+      "Hulul",
+      "Hudud"
+    ],
+    "dogru_cevap": "A",
+      "ogretmen_id": 3
+    },
+{
+      "soru_type": 2,
+      "soru_id": 1060,
+      "category_id": 3,
+      "ders_adi": "Hadis",
+       "soru": "Dinî hükümlerin temel kaynağı niteliğindeki Kur'an ve Sünnet naslarının kendi içlerinde çelişik olması, yani şer'î hükümleri vazeden Allah ve resulünün aynı konuda iki farklı hüküm ortaya koymuş olması hem akla hem de dinin yüklük/teklif ilkelerine aykırı olduğundan, hadisler arasındaki ihtilaflar da teoride öncelikle bu açıdan ele alınmıştır. Hadislerin kendi arasında veya hadislerle diğer şer'î deliller arasında gerçek bir aykırılığın bulunmayacağı hususu büyük ölçüde kabul görür, bu esasla İbn Huzeyme'nin \"Hz. Peygamber'den sahih senetle rivayet edilip de birbirine zıt olan iki hadisin varlığını bilmiyorum. Kimin yanında varsa getirsin, onları uzlaştırayım!\" sözü bu konuda hadis âlimlerinin genel tavrını yansıtması bakımından önem taşır.\n<b>Bu parçada hakkında bilgi verilen ifadeler aşağıdaki hadis ilimlerinden hangisiyle ilgilidir?</b>",
+    "optionList": [
+      "Garîbu'l-Hadîs",
+      "İlelü'l-Hadîs",
+      "Dirayetü'l-Hadîs",
+      "Cerh ve Ta'dîl",
+      "Muhtelifü'l-Hadîs"
+    ],
+    "dogru_cevap": "E",
+      "ogretmen_id": 3
+    },
+{
+      "soru_type": 2,
+      "soru_id": 1059,
+      "category_id": 3,
+      "ders_adi": "İslam Felsefesi",
+      "soru": "Bu felsefi ekol:\n• Karmati, Mezdeki, Ta'limiyye, Melahide, İsmailiyye, Hürremiye ve kırmızı serpuş giydikleri için Muhammire adıyla anılmaktadır.\n• Felsefi kavramlarla, şüphecilik, tasavvuf ve Mu'tezile'nin karışımından doğmuştur.\n• Yahudilik'teki kabbalizm anlayışına benzemektedir.\n• Onlara göre kötü ruhlar bir cesetten diğerine geçer ve azap çekmeye devam eder. İyi ruhlar da semaya yükselir, ilahi varlıkla birleşir.\n• Aristo'nun \"yokluğun tasavvuru mümkün değildir\" fikrinden hareketle, âlem kadimdir, yokluktan çıkmaz derler.\n<b>Bu parçada hakkında bilgi verilen felsefi ekol aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Dehriyye",
+      "Batınilik",
+      "İhvan-ı Safa",
+      "Meşşailik",
+      "Tabiiyyun"
+    ],
+    "dogru_cevap": "B",
+      "ogretmen_id": 3
+    },
+{
+      "soru_type": 2,
+      "soru_id": 1058,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Kasidiye savaşından kaçan İran askerleri Müslümanlara karşı kendilerini savunmak için hendekler ve siperler kazmaya karar vermişlerdir. Ayrıca Medain’i terk ederek Hulvan’a sığınan Yezdicerd buraya asker ve silah takviyesi yapmıştır.\nBu gelişmelerden haberdar olan Sa’d b. Ebu Vakkas, bu bölgedeki gelişmeleri Hz. Ömer’e bildirdi. Hz. Ömer, Haşim b. Utbe komutasında bir birliği buraya göndermesini, onun birliklerinin başında da Ka’ka b. Amr’ın getirilmesini emretti. Bunun üzerine Müslümanlar bu bölgeyi kuşattılar ve Kasidiye’ye benzer şiddetli çarpışmalar meydana geldi. Yapılan şiddetli çatışmalar neticesinde bu bölge Müslümanların hâkimiyetine girmiştir.\n\n<b>Hz. Ömer döneminde gerçekleşen bu savaş aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Nihavend Savaşı",
+    "Büveyh Savaşı",
+    "Köprü Savaşı",
+    "Celula Savaşı",
+    "Fahl Savaşı"
+  ],
+  "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1057,
+      "category_id": 3,
+      "ders_adi": "İslam Tarihi",
+      "soru": "Kasidiye savaşından kaçan İran askerleri Müslümanlara karşı kendilerini savunmak için hendekler ve siperler kazmaya karar vermişlerdir. Ayrıca Medain’i terk ederek Hulvan’a sığınan Yezdicerd buraya asker ve silah takviyesi yapmıştır.\nBu gelişmelerden haberdar olan Sa’d b. Ebu Vakkas, bu bölgedeki gelişmeleri Hz. Ömer’e bildirdi. Hz. Ömer, Haşim b. Utbe komutasında bir birliği buraya göndermesini, onun birliklerinin başında da Ka’ka b. Amr’ın getirilmesini emretti. Bunun üzerine Müslümanlar bu bölgeyi kuşattılar ve Kasidiye’ye benzer şiddetli çarpışmalar meydana geldi. Yapılan şiddetli çatışmalar neticesinde bu bölge Müslümanların hâkimiyetine girmiştir.\n\n<b>Hz. Ömer döneminde gerçekleşen bu savaş aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Nihavend Savaşı",
+    "Büveyh Savaşı",
+    "Köprü Savaşı",
+    "Celula Savaşı",
+    "Fahl Savaşı"
+  ],
+  "dogru_cevap": "D",
+      "ogretmen_id": 3
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 1056,
+      "category_id": 3,
+      "ders_adi": "Kelam",
+      "soru": "\n• Allah Teâlâ müriddir. Allah, her şeyin şöyle olup da böyle olmamasını, şu zamanda ve şu yerde olup da bu zaman ve bu yerde olmamasını tercih ve tayin edendir.\n• Allah Teâlâ diridir ve canlıdır. Her şeye, kuru ve ölü toprağa can veren O’dur. Ezeli ve ebedi bir hayata sahiptir.\n\n<b>Yukarıdaki ayetler sırasıyla aşağıdaki sıfatlardan hangisine aittir?</b>",
+  "optionList": [
+    "İrade-Hayat",
+    "İlim-Kudret",
+    "Tekvin-Basar",
+    "Kelam-Semi",
+    "Beka-Kıdem"
+  ],
+  "dogru_cevap": "A",
+      "ogretmen_id": 3
+    },{
+      "soru_type": 2,
+      "soru_id": 1055,
+      "category_id": 3,
+      "ders_adi": "Tefsir",
+  "soru": "İlim, iman ve İslam’a aykırı düşen fikirlerle ortaya konan tefsir çeşididir. Bu tip tefsirler çoğunlukla şahıslar tarafından yapılmış, fakat fırka ve mezhep görünümüne girmemiştir. Bu tefsire yönelenler genellikle Kur’an’ın modern çağın ihtiyaçlarını karşılamayacağı görüşünden hareketle onun hükümlerini tenkit ederler. Mesela, kadının mirastan az pay alması, çok evlilik, kısasın geçerliliği derecesi, Peygamber mucizeleri, mucizeleri kavramların izahı, zinâ ve hırsıza had cezasının uygulanması gibi pek çok konuda Kur’an hükümleri üzerinde dururlar ve tartıştıkları meselelerdir. Ayrıca bir Arap’a has olduğu ve evrensel olamadığı, bir filozof olan Peygamber Efendimiz’in (s.a.v.) Allah tarafından gönderilmediği, Kur’an’ın kendi sözü olduğu, Hac ibadetinin gereksizliği, dinde reform yapmanın zorunlu olduğu, namaz ve oruç uygulamasının günümüz şartlarına göre değiştirilmesi gerektiği şeklindeki görüşler bu tefsirin ortaya koyduğu düşüncelerdir.\n\n<b>Bu parçada hakkında bilgi verilen tefsir çeşidi aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "İçtimai Tefsir",
+    "İlmi Tefsir",
+    "İlhadi Tefsir",
+    "Modernist Tefsir",
+    "Batıni Tefsir"
+  ],
+  "dogru_cevap": "C",
+      "ogretmen_id": 3
+    }
+    ,
+    {
+      "soru_type": 2,
       "soru_id": 1023,
       "category_id": 3,
       "ders_adi": "İslam Mezhepler Tarihi",
