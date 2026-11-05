@@ -1,0 +1,23 @@
+{
+  "title": "Bize Destek Olun",
+  "message": "Uygulamalarımızı ücretsiz sunmaya devam edebilmemiz için aşağıdaki uygulamalardan birini indirmeniz yeterli.",
+  "footer": "Sadece birini indirmeniz yeterli. Yüklü olduğu sürece bu pencere görünmez.",
+  "apps": [
+    {
+      "packageName": "com.sirket.uygulama1",
+      "displayName": "Uygulama 1",
+      "description": "Kısa açıklama",
+      "iconUrl": "https://siteniz.com/icons/uygulama1_v1.png",
+      "enabled": true,
+      "checkPlayStore": false
+    },
+    {
+      "packageName": "com.appfex.dhbt",
+      "displayName": "DHBT - DKAB Sınava Hazırlık",
+      "description": ".....",
+      "iconUrl": "https://siteniz.com/icons/uygulama2_v1.png",
+      "enabled": true,
+      "checkPlayStore": true
+    }
+  ]
+}
