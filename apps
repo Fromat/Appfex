@@ -15,7 +15,7 @@
       "packageName": "com.fromat.dhbt",
       "displayName": "DHBT - DKAB Sınava Hazırlık",
       "description": "",
-      "iconUrl": "https://github.com/Fromat/Appfex/blob/main/dhbt.png",
+      "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/dhbt.png",
       "enabled": true,
       "checkPlayStore": false
     }
