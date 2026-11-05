@@ -5,7 +5,7 @@
   "apps": [
     {
       "packageName": "com.appfex.wordX",
-      "displayName": "WordX Türkçe Kelime Oyunu",
+      "displayName": "WordX",
       "description": "Kısa açıklama",
       "iconUrl": "https://siteniz.com/icons/uygulama1_v1.png",
       "enabled": true,
