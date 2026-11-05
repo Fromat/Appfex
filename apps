@@ -5,7 +5,7 @@
   "apps": [
     {
       "packageName": "com.appfex.wordX",
-      "displayName": "WordX",
+      "displayName": "WordX (Lingo Kelime Oyunu)",
       "description": "",
       "iconUrl": "",
       "enabled": true,
