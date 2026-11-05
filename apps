@@ -16,7 +16,7 @@
       "displayName": "DHBT - DKAB Sınava Hazırlık",
       "description": ".....",
       "iconUrl": "https://siteniz.com/icons/uygulama2_v1.png",
-      "enabled": true,
+      "enabled": false,
       "checkPlayStore": true
     }
   ]
