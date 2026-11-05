@@ -16,7 +16,7 @@
       "displayName": "DHBT - DKAB Sınava Hazırlık",
       "description": "",
       "iconUrl": "",
-      "enabled": false,
+      "enabled": true,
       "checkPlayStore": false
     }
   ]
