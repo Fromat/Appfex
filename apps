@@ -6,16 +6,16 @@
     {
       "packageName": "com.appfex.wordX",
       "displayName": "WordX",
-      "description": "Kısa açıklama",
-      "iconUrl": "https://siteniz.com/icons/uygulama1_v1.png",
+      "description": "",
+      "iconUrl": "",
       "enabled": true,
       "checkPlayStore": false
     },
     {
       "packageName": "com.fromat.dhbt",
       "displayName": "DHBT - DKAB Sınava Hazırlık",
-      "description": ".....",
-      "iconUrl": "https://siteniz.com/icons/uygulama2_v1.png",
+      "description": "",
+      "iconUrl": "",
       "enabled": true,
       "checkPlayStore": false
     }
