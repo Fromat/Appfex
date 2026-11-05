@@ -17,7 +17,7 @@
       "description": ".....",
       "iconUrl": "https://siteniz.com/icons/uygulama2_v1.png",
       "enabled": true,
-      "checkPlayStore": true
+      "checkPlayStore": false
     }
   ]
 }
