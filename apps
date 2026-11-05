@@ -7,7 +7,7 @@
       "packageName": "com.appfex.wordX",
       "displayName": "WordX (Lingo Kelime Oyunu)",
       "description": "",
-      "iconUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/wordx.png",
       "enabled": true,
       "checkPlayStore": false
     },
