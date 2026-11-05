@@ -4,15 +4,15 @@
   "footer": "Sadece birini indirmeniz yeterli. Yüklü olduğu sürece bu pencere görünmez.",
   "apps": [
     {
-      "packageName": "com.sirket.uygulama1",
-      "displayName": "Uygulama 1",
+      "packageName": "com.appfex.wordX",
+      "displayName": "WordX Türkçe Kelime Oyunu",
       "description": "Kısa açıklama",
       "iconUrl": "https://siteniz.com/icons/uygulama1_v1.png",
       "enabled": true,
       "checkPlayStore": false
     },
     {
-      "packageName": "com.appfex.dhbt",
+      "packageName": "com.fromat.dhbt",
       "displayName": "DHBT - DKAB Sınava Hazırlık",
       "description": ".....",
       "iconUrl": "https://siteniz.com/icons/uygulama2_v1.png",
