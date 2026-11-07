@@ -22,7 +22,7 @@
 {
       "packageName": "com.appfex.odak",
       "displayName": "ODAK",
-      "description": "omodoro ODAK Uygulaması",
+      "description": "Pomodoro ODAK Uygulaması",
       "iconUrl": "",
       "enabled": true,
       "checkPlayStore": false
