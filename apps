@@ -18,6 +18,14 @@
       "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/dhbt.png",
       "enabled": true,
       "checkPlayStore": false
+    },
+{
+      "packageName": "com.appfex.odak",
+      "displayName": "ODAK",
+      "description": "omodoro ODAK Uygulaması",
+      "iconUrl": "",
+      "enabled": true,
+      "checkPlayStore": false
     }
   ]
 }
