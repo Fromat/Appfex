@@ -11,14 +11,6 @@
       "enabled": true,
       "checkPlayStore": false
     },
-    {
-      "packageName": "com.fromat.dhbt",
-      "displayName": "DHBT - DKAB - MBSTS Sınava Hazırlık",
-      "description": "DHBT Çıkmış Sorular 2014-2026",
-      "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/dhbt.png",
-      "enabled": true,
-      "checkPlayStore": false
-    },
 {
       "packageName": "com.appfex.odak",
       "displayName": "ODAK",
@@ -26,6 +18,15 @@
       "iconUrl": "",
       "enabled": true,
       "checkPlayStore": false
+    },
+    {
+      "packageName": "com.fromat.dhbt",
+      "displayName": "DHBT - DKAB - MBSTS Sınava Hazırlık",
+      "description": "DHBT Çıkmış Sorular 2014-2026",
+      "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/dhbt.png",
+      "enabled": true,
+      "checkPlayStore": false
     }
+
   ]
 }
