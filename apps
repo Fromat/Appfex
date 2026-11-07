@@ -17,7 +17,7 @@
       "description": "Pomodoro ODAK Uygulaması",
       "iconUrl": "",
       "enabled": true,
-      "checkPlayStore": true
+      "checkPlayStore": false
     },
     {
       "packageName": "com.fromat.dhbt",
