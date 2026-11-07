@@ -26,6 +26,14 @@
       "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/dhbt.png",
       "enabled": true,
       "checkPlayStore": false
+    },
+{
+      "packageName": "com.ugamePortal.sudoku",
+      "displayName": "Sudoku Master: Challenges",
+      "description": "Orijinal Sudoku Bulmacaları",
+      "iconUrl": "",
+      "enabled": true,
+      "checkPlayStore": false
     }
 
   ]
