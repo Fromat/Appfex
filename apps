@@ -17,7 +17,7 @@
       "description": "Pomodoro ODAK Uygulaması",
       "iconUrl": "",
       "enabled": true,
-      "checkPlayStore": false
+      "checkPlayStore": true
     },
 {
       "packageName": "com.ugamePortal.sudoku",
