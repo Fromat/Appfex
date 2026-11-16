@@ -498,6 +498,22 @@
     },
     {
       "soru_type": 2,
+      "soru_id": 2536,
+      "category_id": 2,
+      "ders_adi": "Kur'an-ı Kerim ve Tecvid",
+     "soru": "Kıraat ilminde muttasıl ve güvenilir bir senetle Hz. Muhammed'e ulaşan, Hz. Osman'ın çoğaltıp büyük şehirlere gönderdiği mushaflardan birine ve Arap diline uygun düşen kıraat sayısı ondur. Kıraat öğrencileri bu on kıraatin tamamını öğrenir ve bunların hepsini cem ederek hatmederdi. Böylece tek bir hatimde on kıraatin tamamını aynı anda uygulamış olurlardı. Ancak hatmederken uygun olmakla birlikte aynı ayetin birden fazla tekrarını içerdiği için bu okuyuş şekli namazda caiz görülmemiştir.\n\n<b>Bu parçada bahsedilen kıraat metodu aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "İndirac",
+    "Takrib",
+    "Tertil",
+    "İnfirad",
+    "Saz"
+  ],
+  "dogru_cevap": "A",
+      "exam_year": 2026
+    },
+    {
+      "soru_type": 2,
       "soru_id": 1015,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
