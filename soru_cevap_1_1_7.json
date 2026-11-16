@@ -544,6 +544,22 @@
   "dogru_cevap": "D",
       "exam_year": 2026
     },
+     {
+      "soru_type": 2,
+      "soru_id": 2539,
+      "category_id": 2,
+      "ders_adi": "Fıkıh",
+    "soru": "Zekât verilmesi Kur'an-ı Kerim'de açık bir şekilde emredilmiş; hangi mallardan ne kadar verileceği gibi hususlar, sünnette beyan edilmiştir. Bunlarda açık bir hüküm bulunmadığı zaman âlimler, içtihat ederek bir hükme ulaşmışlardır. Buna bağlı olarak da zekâtla ilgili birçok hususta ihtilaf ortaya çıkmıştır.\n\n<b>Buna göre aşağıdakilerden hangisi ihtilaflı hususlara örnek <u>verilemez</u>?</b>",
+  "optionList": [
+    "Kadınların ziynet olarak kullandıkları altın ve gümüşün zekâta tabi olması",
+    "Yağmur ve nehir sularıyla sulanan toprak mahsullerinin zekât oranının 1/10 olması",
+    "Toprak ürünlerinin zekâta tabi olması için nisap şartının aranması",
+    "Altın ve gümüş dışındaki madenlerin zekâta tabi olması",
+    "Yıl içerisinde mal varlığı nisabın altına düşen kişinin yıl sonundaki durumunun dikkate alınması"
+  ],
+  "dogru_cevap": "B",
+      "exam_year": 2026
+    },
 
     {
       "soru_type": 2,
