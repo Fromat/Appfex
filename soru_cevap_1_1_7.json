@@ -752,6 +752,518 @@
   "dogru_cevap": "D",
       "exam_year": 2026
     },
+  {
+    "soru_type": 2,
+    "soru_id": 2552,
+    "category_id": 2,
+    "ders_adi": "Hadis Tarihi ve Usulü",
+    "soru": "Hz. Aişe, Hz. Muhammed'in (s.a.v) cuma günü gusül abdesti alınmasını tavsiye etmesiyle ilgili şöyle bir bilgi aktarmaktadır: \"İnsanlar Medine'nin uzak bölgelerinden iş elbiseleriyle cuma namazına geldikleri için terler ve kötü koku yayarlardı. Bunun üzerine Hz. Muhammed 'Keşke bugün için yıkansanız ne iyi olur.' diye buyurdu.\"\n\n<b>Buna göre Hz. Aişe'nin aktardığı bilgiyle ilgili</b>\n  I. Diğer rivayetleri nesh eder.\n  II. Müdrec bir rivayet olarak kabul edilir.\n  III. Esbab-ı vürud kapsamında değerlendirilir.\n<b>yargılarından hangilerine ulaşılabilir?</b>",
+    "optionList": [
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2553,
+    "category_id": 2,
+    "ders_adi": "Hadis Tarihi ve Usulü",
+    "soru": "Sahabeler, Hz. Muhammed'den öğrendiklerinden farklı veya daha önce hiç duymadıkları haberler kendilerine ulaştığında daha hassas davranmıştır. Hadis rivayetinde oldukça ihtiyatlı olan sahabeler, kesin kanaat etmedikçe rivayetleri nakletmemiş ve bu amaçla araştırma yapmışlardır.\n\n<b>Bu parçada bahsedilen durum aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Cerh ve tadil",
+      "Adalet ve zabt",
+      "Tesebbüt ve taharri",
+      "Hıfz ve kitabet",
+      "Sema ve kıraat"
+    ],
+    "dogru_cevap": "C",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2554,
+    "category_id": 2,
+    "ders_adi": "İslam Hukuku",
+    "soru": "Akit türlerinin özellikleri şu şekildedir:\n  I. Malın temliki / İvazlı (Bedelli)\n  II. Menfaatin temliki / İvazlı (Bedelli)\n  III. Malın temliki / İvazsız (Bedelsiz)\n  IV. Menfaatin temliki / İvazsız (Bedelsiz)\n\n<b>Bu tabloda özellikleri ile işaretlenen akitler (I, II, III, IV) aşağıdakilerin hangisinde doğru olarak verilmiştir?</b>",
+    "optionList": [
+      "Bey' - İcare - Hibe - Ariyet",
+      "Hibe - İcare - Bey' - Ariyet",
+      "Hibe - Ariyet - Bey' - İcare",
+      "Bey' - İcare - Ariyet - Hibe",
+      "Bey' - Ariyet - Hibe - İcare"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2555,
+    "category_id": 2,
+    "ders_adi": "İslam Hukuku",
+    "soru": "İslam, cahiliye hukukuna yönelik üç tutum belirlemiştir. Bunlardan biri olan ilga, kural ve kurumların geçersiz sayılıp tümüyle ortadan kaldırılmasıdır.\n\n<b>Buna göre aşağıdakilerden hangisi ilga kapsamında değerlendirilemez?</b>",
+    "optionList": [
+      "Üvey anne ile evlenme",
+      "Evlat edinme",
+      "Hayvanların doğmamış yavrularını alıp satma",
+      "Faizli işlem yapma",
+      "Öldürme ve yaralamalarda diyet ödeme"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2556,
+    "category_id": 2,
+    "ders_adi": "İslam Hukuku",
+    "soru": "Ali, Ahmet'in kendisine bin dinar borçlu olduğunu ve vermediğini iddia ederek kadıya başvurur. Kadı, Ali'ye iddiasını ispatlayacak delilinin olup olmadığını sorar. Sağlam bir delili olmayan Ali, Ahmet'in borcu olmadığına dair yemin etmesini ister. Kadı, Ahmet'ten yemin etmesini talep eder ancak Ahmet yemin etmekten kaçınır. Bunun üzerine kadı Hanefi mezhebini esas alarak Ali'nin lehine hüküm verir.\n\n<b>İslam hukukuna göre bu kadının hüküm verirken dayandığı ispat vasıtası aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Şahitlik",
+      "İkrar",
+      "Karine",
+      "Kasame",
+      "Nükül"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2557,
+    "category_id": 2,
+    "ders_adi": "İslam Hukuku",
+    "soru": "Tanımlar:\n  1. Aksine delil bulunmadıkça bir eşyadan faydalanma veya bir davranışta bulunmanın mubah olduğuna hükmedilmesi\n  2. Aksine delil bulunmadıkça bir kişinin zimmetinin suçtan ve borçtan uzak olması\n  3. Aksine bir delil bulunmadıkça var olan bir durumun varlığının devam ettiğine hükmetme\n\nİstishab Türleri:\n  I. Beraet-i asliyye istishabı\n  II. İbaha-i asliyye istishabı\n  III. Vasıf istishabı\n\n<b>Bu tabloda verilen tanım ve istishab türü eşleşmelerinin doğru olması için istishab türü sıralamasının (1 - 2 - 3) aşağıdakilerden hangisi olması gerekir?</b>",
+    "optionList": [
+      "I - II - III",
+      "II - I - III",
+      "III - II - I",
+      "II - III - I",
+      "I - III - II"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2558,
+    "category_id": 2,
+    "ders_adi": "İslam Hukuku",
+    "soru": "Kaybolmuş veya terk edilmiş hâldeki bir çocuğun içinde bulunduğu durumdan kurtarılması bir insanlık görevidir. Hadiste velisi bulunmayan çocukların velisinin devlet başkanı olduğuna dair genel kuralın delaletiyle bulunan çocuğun velisi prensip olarak devlet başkanıdır. Çocuğu bulan kimse ancak hâkimin karar vermesi hâlinde bu çocuğun velayetini alabilir.\n\n<b>İslam hukukunda bu durumdaki çocuklar aşağıdaki kavramlardan hangisi ile ifade edilir?</b>",
+    "optionList": [
+      "Mefkud",
+      "Matuh",
+      "Gaib",
+      "Lakit",
+      "Sefih"
+    ],
+    "dogru_cevap": "D",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2559,
+    "category_id": 2,
+    "ders_adi": "Kelam ve İslam Akaidi",
+    "soru": "Allah'ın nitelikleri arasında Eşariler tarafından müstakil bir sıfat olarak görülmeyen, Matüridiler tarafından Allah'ın yaratması, rızık vermesi ve öldürmesi gibi fiilî özelliklerinin kaynağı olarak kabul edilen sıfat aşağıdakilerden hangisidir?",
+    "optionList": [
+      "Hayat",
+      "Kelam",
+      "İrade",
+      "Tekvin",
+      "Kudret"
+    ],
+    "dogru_cevap": "D",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2560,
+    "category_id": 2,
+    "ders_adi": "Kelam ve İslam Akaidi",
+    "soru": "Nassa ve lafza bağlılıklarıyla ön plana çıkan Ashabü'l-hadis'in, İslam toplumunda daha çok Mutezile yoluyla giren felsefi konularda mücadele etmesi ve kendilerine yöneltilen eleştirilere cevap vermesi kolay olmamıştır. Salt nassa dayanarak karşı tarafın ikna edilmesi mümkün görülmemiştir. İşte bu dönemde ehli rey ile ehli hadis içerisinde yer almakla birlikte inanç ve düşünceleri akılla temellendirmeye çalışan kişiler ortaya çıkmıştır. Bu kişiler, ileride şekillenecek Ehlisünnet kelamının öncüleri olarak kabul edilmişlerdir.\n\n<b>Aşağıdakilerden hangisi bu kişilerden biri değildir?</b>",
+    "optionList": [
+      "İbn Küllab",
+      "Cüveyni",
+      "Kalanisi",
+      "Haris el-Muhasibi",
+      "Kerabisi"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2561,
+    "category_id": 2,
+    "ders_adi": "Kelam ve İslam Akaidi",
+    "soru": "İtikadi fırkaların doğuşunda siyasi tartışmaların da etkili olduğu bilinmektedir. Örneğin erken dönemde meydana gelen iç savaşlar sonucu birçok Müslüman'ın hayatını kaybetmesi bir anda ilahi takdir meselesini gündeme getirmiştir. Çünkü bu savaşlarda hem ölenler hem de öldürenler Müslüman'dı. Dolayısıyla bu hadiselerde rolü bulunanların eylemlerini kendi özgür iradeleriyle mi yoksa kaderin zorunlu tatbikçileri olarak mı yaptıkları, cevaplanması gereken bir soruydu. Ayrıca büyük bir günahın faili olan bu kimselerin ahiretteki durumlarının ne olacağı da ayrı bir tartışma meselesiydi.\n\n<b>Bu tartışmaların aşağıdaki ekollerden hangisinin ortaya çıkmasında önemli etkisinin olduğundan söz edilemez?</b>",
+    "optionList": [
+      "Cebriyye",
+      "Kaderiyye",
+      "Haricilik",
+      "Mürcie",
+      "Dürzilik"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2562,
+    "category_id": 2,
+    "ders_adi": "Kelam ve İslam Akaidi",
+    "soru": "Beda fikri, ilk olarak Şii çevrede ortaya çıkmıştır. Genellikle kabul edilen görüşe göre Muhtar es-Sekafi, bir savaş öncesinde askerlerine Allah'ın kendilerine zafer vadettiğini söylemiş ve savaştan zaferle çıkınca da \"Allah'tan aldığım bilgilerle işin böyle olacağını size bildirmemiş miydim?\" demiştir. Bir başka seferde yine aynı iddiayı tekrarlamış ancak bu sefer ordusu mağlup olunca \"Allah bana zafer vadetmişti fakat daha sonra kendisinde beda meydana geldi.\" ifadesini kullanmıştır. Bu fikir, inançla ilgili çeşitli problemlere yol açtığı için Ehlisünnet tarafından eleştirilmiştir.\n\n<b>Bu parçada bahsedilen fikrin eleştirilmesinin sebebi aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Allah'ın ilminin ezelî ve mutlak olmasına zarar vermesi",
+      "Kudret sıfatının sınırlı olması sonucunu ortaya çıkarması",
+      "Kur'an-ı Kerim'de neshin varlığını onaylaması",
+      "İmamların ismet sıfatına sahip olduğu düşüncesini meşrulaştırması",
+      "Siyasi gelişmeleri dinî argümanlarla temellendirmesi"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2563,
+    "category_id": 2,
+    "ders_adi": "Kelam ve İslam Akaidi",
+    "soru": "İstidlâl bi'ş-şâhid ale'l-gaib yöntemi, bilinenden hareketle bilinmeyenin elde edilmesi anlamına gelir ve bir tür kıyasa dayanır. Nesneler dünyasından hareketle fizikötesi âlemle ilgili çıkarımlarda bulunmak; algı ve gözlem alanımız (şahid) içindeki bir hususun hükmünü, aralarındaki illet benzerliği sebebiyle algı ve gözlem alanımız dışındaki sahaya (gaib) taşımak anlamına gelir. Kelamcılar yöntemi kullanırken \"gaibin, şahide kıyas edilmesi\" yerine şahide dayanarak gaible ilgili bir hüküm vermeyi tercih etmişlerdir. Ama bu tercih de itikadi ve epistemolojik bir kaygının ortaya çıkmasına neden olmuştur.\n\n<b>Bu parçada bahsedilen kaygı aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Yöntemin günümüzde geçerliğini yitirme düşüncesi",
+      "Nesneler dünyasını algılamakta zorlanılması",
+      "Hüküm vermeyi zorlaştırması",
+      "Yapılan kıyasın teşbihi ortaya çıkarma ihtimali",
+      "Dinî bilgi ile bilimsel bilginin çatışma olasılığı"
+    ],
+    "dogru_cevap": "D",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2564,
+    "category_id": 2,
+    "ders_adi": "İslam Mezhepleri Tarihi",
+    "soru": "İtikadi mezheplerin ortaya çıkışında siyasi gelişmelerin etkili olduğu söylenebilir. Ayrıca bir mezhebin kuruluşunda olduğu gibi gelişmesinde de siyasi ortam oldukça belirleyicidir. Örneğin Ifrikiyye ve Mısır'da üç asra yakın bir zaman diliminde hüküm süren Fatımi Devleti, kendi benimsedikleri mezhebi de bu bölgede desteklemiştir. Bu destek sayesinde söz konusu mezhep hem bu bölgelerde hem de İslam coğrafyasının başka bölgelerinde güç kazanmış ve uzun süre etkisini devam ettirmiştir.\n\n<b>Bu parçada bahsedilen mezhep aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "İsmaililik",
+      "Nusayrilik",
+      "İbazilik",
+      "Zeydilik",
+      "Haricilik"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2565,
+    "category_id": 2,
+    "ders_adi": "İslam Mezhepleri Tarihi",
+    "soru": "İslam mezhepleri tarihi araştırmalarında ana gaye duvardaki resmin hangi şekil ve renklerden meydana geldiğini açıklamaktır. Resmin iyi ya da kötü olduğu hususunda görüş beyan etmek değildir. Dolayısıyla bu bilimin, bir fikrin doğruluğunu veya yanlışlığını ispat etmek gibi bir amacı bulunmamaktadır.\n\n<b>Bu parçada İslam mezhepleri tarihi araştırmalarının aşağıdaki özelliklerinden hangisi vurgulanmaktadır?</b>",
+    "optionList": [
+      "Tarihsel gerçeklikten bağımsız düşünülemeyeceği",
+      "Betimleyici bir yönteminin bulunduğu",
+      "Farklı ilim dallarına bilgi sunduğu",
+      "Geçmişten ibret alınmasına katkı sağladığı",
+      "Kendine ait birtakım kavramlar ürettiği"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2566,
+    "category_id": 2,
+    "ders_adi": "İslam Mezhepleri Tarihi",
+    "soru": "Belli bir fikir ve kişi etrafında toplanma ile başlayan mezhepleşme süreci, zaman içerisinde belirli konularda kendine özgü görüşlerle sistematik bir ekol hâline gelir. Örneğin Mutezile, başlangıçta büyük günah işleyenin durumu hakkında Vasıl b. Ata'nın ileri sürdüğü görüş etrafında oluşsa da bu mezhebi sistemleştiren kişinin Ebü'l-Hüzeyl el-Allaf olduğu kabul edilmektedir.\n\n<b>Bu türden bir sistemleştirmeyi Zeydiyye'de gerçekleştiren kişi aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Kasım er-Ressi",
+      "Hamdan Karmat",
+      "Muhammed b. İsmail ed-Derezi",
+      "Muhammed b. Nusayr en-Nemiri",
+      "Şeyh Saduk"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2567,
+    "category_id": 2,
+    "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "Suriye bölgesinde Müslümanların başarılı askerî faaliyetleri üzerine Bizans İmparatoru Herakleios, 200 bine ulaşan askerî kuvvetle sefere çıkmış ve Şam civarında yaklaşık 50 bin kişilik İslam ordusuyla karşılaşmıştır. Savaş Müslümanların kesin zaferi ile sonuçlanmıştır. Yaşanan mağlubiyet sonrasında karargâh kurduğu Antakya'dan İstanbul'a çekilen Herakleios \"Selam olsun sana ey Suriye! Sen düşman için ne güzel bir ülkesin.\" sözleriyle bu topraklara veda etmiştir.\n\n<b>Bu parçada bahsedilen savaş aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Fihl",
+      "Yermük",
+      "Celula",
+      "Ecnadeyn",
+      "Nihavend"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2568,
+    "category_id": 2,
+    "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "Abbasoğulları, Emevi Devleti'ni yıkınca Ümeyyeoğullarına karşı büyük bir kıyım başlattı ve aile mensuplarının birçoğunu öldürdü. Bu kıyımdan kurtulanlardan biri olan Hisam b. Abdülmelik'in torunu Abdurrahman b. Muaviye, 755 yılında Kuzey Afrika'ya kaçarak bir süre orada saklandı.\n\n<b>Bu olay aşağıdaki gelişmelerin hangisine zemin hazırlamıştır?</b>",
+    "optionList": [
+      "Abbasi fetih hareketlerinin bu bölgeye kaymasına",
+      "Endülüs'ün Müslümanlar tarafından fethedilmesine",
+      "Endülüs Emevi Devleti'nin kurulmasına",
+      "İsmaili bir hilafetin ortaya çıkmasına",
+      "Kuzey Afrika'da isyan hareketlerinin artmasına"
+    ],
+    "dogru_cevap": "C",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2569,
+    "category_id": 2,
+    "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "X. yüzyılda halifelik kurumunu gözlemlemek için seyahat eden bir seyyah\n  I. Fatımiler,\n  II. Abbasiler,\n  III. Endülüs Emevileri\n<b>devletlerinin hangilerinde bu kurumun olduğunu gözlemlemiştir?</b>",
+    "optionList": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2570,
+    "category_id": 2,
+    "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "Abbasilerde Samerra Devri olarak bilinen süreçte Türklerin askerî, siyasi ve idari alanlarda etkinlikleri artmıştır. Bu dönemde yönetime geçen Halife Mütevekkil hem kendi otoritesini korumak hem de Türklerin nüfuzunu kırmak için çeşitli adımlar atmıştır.\n\n<b>Aşağıdakilerden hangisi bu adımlardan biri değildir?</b>",
+    "optionList": [
+      "Devletin başkentini Samerra'dan Dımaşk'a nakletmek istemesi",
+      "Arap ve Fars unsurlardan oluşan yeni askerî birlikler oluşturması",
+      "Türk komutanları bertaraf etmek için Talibilerden yardım istemesi",
+      "Bağdat ve Dımaşk halkı ile ittifak kurmak istemesi",
+      "Türk askerlerini muhafız birliklerinden uzaklaştırarak sayılarını azaltmak istemesi"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2571,
+    "category_id": 2,
+    "ders_adi": "İslam Kültür ve Medeniyeti",
+    "soru": "Emevilerin yıkılıp Abbasilerin iktidara gelmesi İslam medeniyetinin pek çok alanında değişikliklere yol açmıştır. Örneğin başkentin Şam'dan Bağdat'a taşınması, idari olduğu kadar sanat ve kültür alanında da değişiklikleri beraberinde getirmiştir. Bu kapsamda Bağdat ve çevresinde yaşamış olan eski bir medeniyet, bu dönemde İslam kültür ve sanatında kullanılan malzemelerden süslemelere, mimariden yazıya geniş bir alanda etkili olmuştur.\n\n<b>Bu parçada bahsedilen medeniyet aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Sasani",
+      "Kıpti",
+      "Çin",
+      "Hind",
+      "Habeş"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2572,
+    "category_id": 2,
+    "ders_adi": "İslam Felsefesi",
+    "soru": "Şimdi ben felsefecilerin tutarsızlıklarını, görüşlerinin çelişkilerini, aşırılıklarını gösterecek anlaşılır bir eser ortaya koymak istiyorum. Onların görüşlerini tanıtmadan, inançlarını öğretmeden size yardım etme umudu yoktur. Kapsamlı bir şekilde algılama biçimlerini kavramadan görüşlerinin yanlışlığı üzerinde durmak imkânsızdır ve bu bilgisizliğe, yanlışlığa düşmektir.\n\n<b>Gazali'nin bu ifadelere, aşağıdakilerin hangisinin mukaddimesinde yer vermesi beklenir?</b>",
+    "optionList": [
+      "el-Vasıt",
+      "El-Münkız-mine'd-Dalal",
+      "Makasıdu'l-Felasife",
+      "Mi'yaru'l-ilm",
+      "İhyau Ulumi'd-Din"
+    ],
+    "dogru_cevap": "C",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2573,
+    "category_id": 2,
+    "ders_adi": "İslam Felsefesi",
+    "soru": "İbn Tufeyl; Hayy b. Yakzan adlı eserinde kahramanın çocukluk evresinden itibaren duyusal bilgiye sahip olmasını, sonrasında nihai bilgiye geçmesini, bu bilgiyle de dünyayı ve etrafındaki her şeyi kavramasını ele alır. Yetişkinlik döneminde, görebildiğinin ötesinde kendisini neyin beklediği sorusuyla karşı karşıya kalan Hayy, gördüklerinden yola çıkarak iç dünyasında tecrübe ettiği hakikate doğru bir sıçrayış yaşar. Yaşadığı adaya Absal adlı kişinin gelmesiyle ondan toplumsal ve kurumsal dinî hayat hakkında bilgi alır. Dinlediklerinden etkilenen Hayy, Absal'ın yaşadığı adaya gitmeye karar verir. Orada Hayy, kendi hakikat anlayışını ada sakinlerine anlatmaya çalışır. Ancak söylediklerinin karşılık bulmamasından dolayı hakikat deneyimine insanın içsel tecrübesiyle ulaşılacağı sonucuna varır.\n\n<b>Bu parçada Hayy'ın ulaştığı hakikat anlayışıyla ilgili aşağıdakilerden hangisi söylenemez?</b>",
+    "optionList": [
+      "Bireysel olması",
+      "Vehbi olması",
+      "Çıkarımsal olması",
+      "Tecrübi olması",
+      "Sezgisel olması"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2574,
+    "category_id": 2,
+    "ders_adi": "Din Felsefesi",
+    "soru": "Gaunilo, bir varlığın zihindeki tasarımı ile harici gerçekliği arasında bir ayrım olduğunu savunur. Bunu \"Kayıp Ada\" olarak adlandırdığı bir örnekle şöyle anlatır: İnsanların bildiği bütün adalardan zenginlik ve güzellik bakımından daha büyük bir adayı düşünelim. Böyle bir adayla ne anlaşıldığı açıktır. Ancak böyle bir adanın tanımı gereği sadece zihinde değil gerçekte de var olması gerektiği söylenemez.\n\n<b>Gaunilo'nun bu örneği aşağıdaki delillerden hangisine itiraz olarak ifade ettiği söylenebilir?</b>",
+    "optionList": [
+      "İhtira",
+      "Kozmolojik",
+      "Gaye ve nizam",
+      "Ontolojik",
+      "Teleolojik"
+    ],
+    "dogru_cevap": "D",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2575,
+    "category_id": 2,
+    "ders_adi": "Din Felsefesi",
+    "soru": "John Hick; muhtelif dinî inançların, nihai gerçekliğe dair farklı görüşleri ifade etmeleri nedeniyle her bir dinî inancın kurtuluş, özgürleşme, anlamlandırma ve kemale ermeye dair farklı yollar önerdiklerini savunmuştur. Hick dinî inançların farklılığını izah edebilmek maksadıyla geliştirdiği dinî çoğulculuk öğretisi bağlamında, hakikat ve nihai gerçeklik tasavvurunun bütün dinlerde öz olarak aynı olduğunu ve farklılaşmanın betimsel olduğunu savunmuştur. Söz konusu farklı betimlemenin temel nedeninin ise bireyin hakikati; kendi kültürü, geleneği ve bakış açısıyla tecrübe etmesinden kaynaklandığını iddia etmiştir.\n\n<b>Buna göre aşağıdakilerden hangisi Hick'in dinî çoğulculuk öğretisinin gerekçelerinden biri olamaz?</b>",
+    "optionList": [
+      "Birden fazla sayıda ve formda dinin varlığı",
+      "İnsanların çoğunun içinde doğup büyüdüğü dinî inancı benimsemesi",
+      "Tarihsel süreçte vahyin muhtelif peygamberlere farklı formlarda inmesi",
+      "Mutlak hakikatin tek bir dinî inanç tarafından temsil edilemeyecek aşkınlıkta olması",
+      "Dinî inançların nihai gerçeklik tasavvurlarının birbirleriyle çelişecek kadar farklılaşması"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2576,
+    "category_id": 2,
+    "ders_adi": "Din Sosyolojisi",
+    "soru": "<b>Din sosyolojisi araştırmacılarının aşağıdaki sorulardan hangisine cevap bulması beklenmez?</b>",
+    "optionList": [
+      "Dinlerin temel toplumsal işlevleri nelerdir?",
+      "Sekülerleşme süreci dinin geleceği açısından ne tür sorunlara yol açmaktadır?",
+      "Dinî gruplaşmaların oluşumunda hangi faktörler rol oynar?",
+      "Gündelik yaşamda dinin etkisini gösteren parametreler nelerdir?",
+      "Dinin varlığını kanıtlamaya yönelik teorilerin normatif geçerliliği nedir?"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2577,
+    "category_id": 2,
+    "ders_adi": "Din Sosyolojisi",
+    "soru": "Klasik din sosyolojisinin araştırma konularına XX. yüzyılın sonlarında bazı yeni konular eklenmiştir. Dinî davranış kuramları konusu bunlardan biridir. Bu kuramlar insanların bir dine neden bağlanma ihtiyacı hissettiklerini, niçin dindar olduklarını ve belirli dinî davranışları neden sergilediklerini dört farklı şekilde açıklar.\n\n<b>Aşağıdakilerden hangisi bu kuramlar arasında yer almaz?</b>",
+    "optionList": [
+      "Yoksunluk",
+      "Sosyalleşme",
+      "Rasyonel seçim",
+      "Anlam ve aidiyet arayışı",
+      "Sembolik etkileşimcilik"
+    ],
+    "dogru_cevap": "E",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2578,
+    "category_id": 2,
+    "ders_adi": "Din Psikolojisi",
+    "soru": "Bir çocuk, parkta gezerken ayağı takılıp düşmüş ve dizi yaralanmıştır. Yanında bulunan anne babası onunla ilgilenmemiş ve ihtiyacı olduğu hâlde ona yardım etmemiştir. Bu olaydan hareketle çocukta güven duygusunun oluşmadığı dolayısıyla bu durumun ilerleyen yaşlarda tanrı veya diğer tabiatüstü varlıkların her an, her yerde hazır olduğuna inanma sürecine olumsuz etki edeceği sonucuna ulaşılabilir mi? Başka bir ifadeyle bir diz acısının nasıl olup da insanın tüm yaşam felsefesini ve tanrı ile kurduğu ilişkinin niteliğini belirlediği düşünülebilir mi?\n\n<b>Bu parçada eleştirilen kuramın aşağıdakilerden hangisi olduğu söylenebilir?</b>",
+    "optionList": [
+      "Piaget'nin Bilişsel Gelişim Kuramı",
+      "Kohlberg'in Ahlak Gelişimi Kuramı",
+      "Goldman'ın Dinî Düşünce Gelişimi Kuramı",
+      "Kirkpatrick'in Duygusal İlişki ve Bağlanma Kuramı",
+      "Jung'un Analitik Psikoloji Kuramı"
+    ],
+    "dogru_cevap": "D",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2579,
+    "category_id": 2,
+    "ders_adi": "Din Psikolojisi",
+    "soru": "Din kültürü ve ahlak bilgisi öğretmeni, 4. sınıf öğrencilerinin Allah'ı zihinlerinde nasıl anlamlandırdığını öğrenmek ister. Bir öğrenci; Allah'ın kendisini yarattığı için çok minnettar olduğunu, Allah'ı çok sevdiğini, yaşamını güzel şekilde devam ettirebilmesi için Allah'ın yiyecek ve içecek verdiğini ayrıca isteklerini hiçbir zaman geri çevirmediğini dile getirmiştir. Bunun üzerine öğrencisinin söylediklerini tasdik eden öğretmen; Allah'ın her şeye gücünün yettiğini, bütün yarattıklarını gözettiğini, kulları olarak isteklerimiz hemen gerçekleşmese bile O'na olan bağlılığımızı güçlü tutmamız gerektiğini vurgular.\n\n<b>Bu parçaya göre öğretmenin düzeltmeye çalıştığı dinî gelişim özelliği aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Yaratıcıyı insanla özdeşleştirme",
+      "Benmerkezci inanç",
+      "Şüpheci inanma",
+      "Metafizik âleme ilişkin merak",
+      "Dinî pratiklerde taklit"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2580,
+    "category_id": 2,
+    "ders_adi": "Din Eğitimi",
+    "soru": "Din eğitimi süreçlerine rehberlik edecek bir öğretim programındaki bileşenlerin belirlenmesinde felsefi paradigmalar ve eğitimsel anlayışların dikkate alınması gerekir. Örneğin güncel Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'na yön veren Türkiye Yüzyılı Maarif Modeli'nde, öğrencinin bireysel gelişimini beden ve ruh boyutları ile birlikte desteklemeyi hedefleyen bütüncül bir bakış açısı vurgulanır. Buna göre beden, kişinin fizyolojik yapısını; ruh ise onun benliğini meydana getiren entelektüel, ahlaki ve duygusal yetilerin tümünü ifade eder.\n\n<b>Bu parçada DKAB öğretim programlarının geliştirilmesine yönelik vurgulanan anlayış aşağıdakilerin hangisiyle ilişkilidir?</b>",
+    "optionList": [
+      "Devlet ve rejim",
+      "Bilgi",
+      "İnsan",
+      "Din",
+      "Eğitim"
+    ],
+    "dogru_cevap": "C",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2581,
+    "category_id": 2,
+    "ders_adi": "Din Eğitimi",
+    "soru": "Türkiye'de üniversite sistemi içerisinde yüksek din öğretiminin başlangıcı XIX. yüzyılın sonlarına dayanır. Bu dönemden itibaren yüksek din öğretiminde farklı kurumsal yapılanmalar ortaya çıkmıştır. Bu kurumlardan biri 1959 yılında İstanbul'da ilk kez üniversite dışında Millî Eğitim Bakanlığı Müdürler Komisyonu kararıyla açılmıştır. Kurumun amacı, örgün eğitim kurumlarındaki din derslerini okutacak öğretmenlerle yaygın din hizmetleri yapacak imam-hatip, vaiz, müftü gibi nitelikli meslek elemanları yetiştirmektir. Aynı zamanda bu kurum, imam-hatip okullarını bitirenlerin gidebileceği alternatif bir yükseköğretim kurumu olarak da işlev görmüştür.\n\n<b>Bu parçada bahsedilen kurum aşağıdakilerden hangisidir?</b>",
+    "optionList": [
+      "Darülfünun İlahiyat Fakültesi",
+      "Ulum-ı Aliye",
+      "Yüksek İslam Enstitüsü",
+      "İslami İlimler Fakültesi",
+      "İlahiyat Meslek Yüksekokulu"
+    ],
+    "dogru_cevap": "C",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2582,
+    "category_id": 2,
+    "ders_adi": "Dinler Tarihi",
+    "soru": "İlkel kabile dinlerinde\n  I. yüce bir gücün veya varlığın bulunduğu düşüncesi,\n  II. kutsal kitap ve yazılı kaynaklar,\n  III. büyü, sihir vb. inançlar,\n  IV. belli bir peygamber veya din kurucusu\n<b>hususlarından hangileri yaygın olarak bulunmaktadır?</b>",
+    "optionList": [
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "dogru_cevap": "B",
+    "exam_year": 2026
+  },
+  {
+    "soru_type": 2,
+    "soru_id": 2583,
+    "category_id": 2,
+    "ders_adi": "Dinler Tarihi",
+    "soru": "Ey din adamları! Dünyayı terk eden kimsenin bırakması gereken iki aşırılık vardır. Bu aşırılıklar nelerdir? Arzulara adanmış bir hayat yani isteklerin ve şehevi duyguların tatminine vakfedilmiş bir ömür. Diğeri ise riyazet ve mücahedeye adanmış bir hayattır ki bu da acı verici, sıkıntılı ve yararsızdır. Kardeşlerim! Ben bu iki aşırılığı terk ederek Orta Yolun bilgisine ulaştım. Bu yol ki hikmete götürür; kavramayı sağlar; sükûneti, dinginliği ve bilgiyi getirir; kısacası mutlak aydınlanmayı temin eder. (...) İşte bu sekiz dilimli asil yoldur.\n\n<b>Bu vaazı aşağıdaki dinî liderlerden hangisinin yapması beklenir?</b>",
+    "optionList": [
+      "Siddharta Gotama",
+      "Vardhamana",
+      "Zerdüşt",
+      "Guru Nanak",
+      "Konfüçyüs"
+    ],
+    "dogru_cevap": "A",
+    "exam_year": 2026
+  },
     {
       "soru_type": 2,
       "soru_id": 1015,
