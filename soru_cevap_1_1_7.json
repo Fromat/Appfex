@@ -695,11 +695,11 @@
       "ders_adi": "Tefsir Tarihi ve Usulü",
   "soru": "Bir ilahiyat fakültesi öğrencisi gittiği kütüphanede tefsirle ilgili eserlerin, ağırlıklı olarak kullanılan yönteme göre dört ayrı bölüme (İşari, Mezhebi, Rivayet ve Fıkhi) tasnif edildiğini görür.\n\n<b>Her rafa ilgili olduğu tür dikkate alınarak yerleştirme yapılması durumunda aşağıdaki tefsirlerden hangisinin kitaplığa yerleştirilmesi beklenmez?</b>",
   "optionList": [
-    "Abdülkerim el-Kuşeyri'nin Leta'ifü'l-işarat'ı",
-    "Zemahşeri'nin el-Keşşaf'ı",
-    "İbn Kesir'in Tefsirü'l-Kur'ani'l-Azim'i",
-    "Şafi'nin Ahkamü'l-Kur'an'ı",
-    "İbn Kuteybe'nin Te'vilu Müşkili'l-Kur'an'ı"
+    "Abdülkerim el-Kuşeyri'nin <i>Leta'ifü'l-işarat</i>'ı",
+    "Zemahşeri'nin <i>el-Keşşaf'</i>ı",
+    "İbn Kesir'in <i>Tefsirü'l-Kur'ani'l-Azim</i>'i",
+    "Şafi'nin <i>Ahkamü'l-Kur'an</i>'ı",
+    "İbn Kuteybe'nin <i>Te'vilu Müşkili'l-Kur'an</i>'ı"
   ],
   "dogru_cevap": "E",
       "exam_year": 2026
@@ -757,7 +757,7 @@
     "soru_id": 2552,
     "category_id": 2,
     "ders_adi": "Hadis Tarihi ve Usulü",
-    "soru": "Hz. Aişe, Hz. Muhammed'in (s.a.v) cuma günü gusül abdesti alınmasını tavsiye etmesiyle ilgili şöyle bir bilgi aktarmaktadır: \"İnsanlar Medine'nin uzak bölgelerinden iş elbiseleriyle cuma namazına geldikleri için terler ve kötü koku yayarlardı. Bunun üzerine Hz. Muhammed 'Keşke bugün için yıkansanız ne iyi olur.' diye buyurdu.\"\n\n<b>Buna göre Hz. Aişe'nin aktardığı bilgiyle ilgili</b>\n  I. Diğer rivayetleri nesh eder.\n  II. Müdrec bir rivayet olarak kabul edilir.\n  III. Esbab-ı vürud kapsamında değerlendirilir.\n<b>yargılarından hangilerine ulaşılabilir?</b>",
+    "soru": "Hz. Aişe, Hz. Muhammed'in (s.a.v) cuma günü gusül abdesti alınmasını tavsiye etmesiyle ilgili şöyle bir bilgi aktarmaktadır: \"İnsanlar Medine'nin uzak bölgelerinden iş elbiseleriyle cuma namazına geldikleri için terler ve kötü koku yayarlardı. Bunun üzerine Hz. Muhammed (s.a.v) 'Keşke bugün için yıkansanız ne iyi olur.' diye buyurdu.\"\n\n<b>Buna göre Hz. Aişe'nin aktardığı bilgiyle ilgili</b>\n  I. Diğer rivayetleri nesh eder.\n  II. Müdrec bir rivayet olarak kabul edilir.\n  III. Esbab-ı vürud kapsamında değerlendirilir.\n<b>yargılarından hangilerine ulaşılabilir?</b>",
     "optionList": [
       "Yalnız II",
       "Yalnız III",
@@ -773,7 +773,7 @@
     "soru_id": 2553,
     "category_id": 2,
     "ders_adi": "Hadis Tarihi ve Usulü",
-    "soru": "Sahabeler, Hz. Muhammed'den öğrendiklerinden farklı veya daha önce hiç duymadıkları haberler kendilerine ulaştığında daha hassas davranmıştır. Hadis rivayetinde oldukça ihtiyatlı olan sahabeler, kesin kanaat etmedikçe rivayetleri nakletmemiş ve bu amaçla araştırma yapmışlardır.\n\n<b>Bu parçada bahsedilen durum aşağıdakilerden hangisidir?</b>",
+    "soru": "Sahabeler, Hz. Muhammed'den (s.a.v) öğrendiklerinden farklı veya daha önce hiç duymadıkları haberler kendilerine ulaştığında daha hassas davranmıştır. Hadis rivayetinde oldukça ihtiyatlı olan sahabeler, kesin kanaat etmedikçe rivayetleri nakletmemiş ve bu amaçla araştırma yapmışlardır.\n\n<b>Bu parçada bahsedilen durum aşağıdakilerden hangisidir?</b>",
     "optionList": [
       "Cerh ve tadil",
       "Adalet ve zabt",
@@ -788,7 +788,7 @@
     "soru_type": 2,
     "soru_id": 2554,
     "category_id": 2,
-    "ders_adi": "İslam Hukuku",
+    "ders_adi": "Fıkıh",
     "soru": "Akit türlerinin özellikleri şu şekildedir:\n  I. Malın temliki / İvazlı (Bedelli)\n  II. Menfaatin temliki / İvazlı (Bedelli)\n  III. Malın temliki / İvazsız (Bedelsiz)\n  IV. Menfaatin temliki / İvazsız (Bedelsiz)\n\n<b>Bu tabloda özellikleri ile işaretlenen akitler (I, II, III, IV) aşağıdakilerin hangisinde doğru olarak verilmiştir?</b>",
     "optionList": [
       "Bey' - İcare - Hibe - Ariyet",
@@ -804,7 +804,7 @@
     "soru_type": 2,
     "soru_id": 2555,
     "category_id": 2,
-    "ders_adi": "İslam Hukuku",
+    "ders_adi": "Fıkıh",
     "soru": "İslam, cahiliye hukukuna yönelik üç tutum belirlemiştir. Bunlardan biri olan ilga, kural ve kurumların geçersiz sayılıp tümüyle ortadan kaldırılmasıdır.\n\n<b>Buna göre aşağıdakilerden hangisi ilga kapsamında değerlendirilemez?</b>",
     "optionList": [
       "Üvey anne ile evlenme",
@@ -820,14 +820,14 @@
     "soru_type": 2,
     "soru_id": 2556,
     "category_id": 2,
-    "ders_adi": "İslam Hukuku",
+    "ders_adi": "Fıkıh",
     "soru": "Ali, Ahmet'in kendisine bin dinar borçlu olduğunu ve vermediğini iddia ederek kadıya başvurur. Kadı, Ali'ye iddiasını ispatlayacak delilinin olup olmadığını sorar. Sağlam bir delili olmayan Ali, Ahmet'in borcu olmadığına dair yemin etmesini ister. Kadı, Ahmet'ten yemin etmesini talep eder ancak Ahmet yemin etmekten kaçınır. Bunun üzerine kadı Hanefi mezhebini esas alarak Ali'nin lehine hüküm verir.\n\n<b>İslam hukukuna göre bu kadının hüküm verirken dayandığı ispat vasıtası aşağıdakilerden hangisidir?</b>",
     "optionList": [
       "Şahitlik",
       "İkrar",
       "Karine",
       "Kasame",
-      "Nükül"
+      "Nükûl"
     ],
     "dogru_cevap": "E",
     "exam_year": 2026
@@ -836,7 +836,7 @@
     "soru_type": 2,
     "soru_id": 2557,
     "category_id": 2,
-    "ders_adi": "İslam Hukuku",
+    "ders_adi": "Fıkıh",
     "soru": "Tanımlar:\n  1. Aksine delil bulunmadıkça bir eşyadan faydalanma veya bir davranışta bulunmanın mubah olduğuna hükmedilmesi\n  2. Aksine delil bulunmadıkça bir kişinin zimmetinin suçtan ve borçtan uzak olması\n  3. Aksine bir delil bulunmadıkça var olan bir durumun varlığının devam ettiğine hükmetme\n\nİstishab Türleri:\n  I. Beraet-i asliyye istishabı\n  II. İbaha-i asliyye istishabı\n  III. Vasıf istishabı\n\n<b>Bu tabloda verilen tanım ve istishab türü eşleşmelerinin doğru olması için istishab türü sıralamasının (1 - 2 - 3) aşağıdakilerden hangisi olması gerekir?</b>",
     "optionList": [
       "I - II - III",
@@ -852,7 +852,7 @@
     "soru_type": 2,
     "soru_id": 2558,
     "category_id": 2,
-    "ders_adi": "İslam Hukuku",
+    "ders_adi": "Fıkıh",
     "soru": "Kaybolmuş veya terk edilmiş hâldeki bir çocuğun içinde bulunduğu durumdan kurtarılması bir insanlık görevidir. Hadiste velisi bulunmayan çocukların velisinin devlet başkanı olduğuna dair genel kuralın delaletiyle bulunan çocuğun velisi prensip olarak devlet başkanıdır. Çocuğu bulan kimse ancak hâkimin karar vermesi hâlinde bu çocuğun velayetini alabilir.\n\n<b>İslam hukukunda bu durumdaki çocuklar aşağıdaki kavramlardan hangisi ile ifade edilir?</b>",
     "optionList": [
       "Mefkud",
@@ -869,7 +869,7 @@
     "soru_id": 2559,
     "category_id": 2,
     "ders_adi": "Kelam ve İslam Akaidi",
-    "soru": "Allah'ın nitelikleri arasında Eşariler tarafından müstakil bir sıfat olarak görülmeyen, Matüridiler tarafından Allah'ın yaratması, rızık vermesi ve öldürmesi gibi fiilî özelliklerinin kaynağı olarak kabul edilen sıfat aşağıdakilerden hangisidir?",
+    "soru": "<b>Allah'ın nitelikleri arasında</b>\n\n * Eşariler tarafından müstakil bir sıfat olarak görülmeyen,\n* Matüridiler tarafından Allah'ın yaratması, rızık vermesi ve öldürmesi gibi fiilî özelliklerinin kaynağı olarak kabul edilen\n\n<b>sıfat aşağıdakilerden hangisidir?</b>",
     "optionList": [
       "Hayat",
       "Kelam",
@@ -1029,7 +1029,7 @@
     "soru_id": 2569,
     "category_id": 2,
     "ders_adi": "Siyer ve İslam Tarihi",
-    "soru": "X. yüzyılda halifelik kurumunu gözlemlemek için seyahat eden bir seyyah\n  I. Fatımiler,\n  II. Abbasiler,\n  III. Endülüs Emevileri\n<b>devletlerinin hangilerinde bu kurumun olduğunu gözlemlemiştir?</b>",
+    "soru": "<b>X. yüzyılda halifelik kurumunu gözlemlemek için seyahat eden bir seyyah</b>\n  I. Fatımiler,\n  II. Abbasiler,\n  III. Endülüs Emevileri\n<b>devletlerinin hangilerinde bu kurumun olduğunu gözlemlemiştir?</b>",
     "optionList": [
       "Yalnız I",
       "Yalnız II",
@@ -1053,7 +1053,7 @@
       "Bağdat ve Dımaşk halkı ile ittifak kurmak istemesi",
       "Türk askerlerini muhafız birliklerinden uzaklaştırarak sayılarını azaltmak istemesi"
     ],
-    "dogru_cevap": "A",
+    "dogru_cevap": "C",
     "exam_year": 2026
   },
   {
@@ -1079,11 +1079,11 @@
     "ders_adi": "İslam Felsefesi",
     "soru": "Şimdi ben felsefecilerin tutarsızlıklarını, görüşlerinin çelişkilerini, aşırılıklarını gösterecek anlaşılır bir eser ortaya koymak istiyorum. Onların görüşlerini tanıtmadan, inançlarını öğretmeden size yardım etme umudu yoktur. Kapsamlı bir şekilde algılama biçimlerini kavramadan görüşlerinin yanlışlığı üzerinde durmak imkânsızdır ve bu bilgisizliğe, yanlışlığa düşmektir.\n\n<b>Gazali'nin bu ifadelere, aşağıdakilerin hangisinin mukaddimesinde yer vermesi beklenir?</b>",
     "optionList": [
-      "el-Vasıt",
-      "El-Münkız-mine'd-Dalal",
-      "Makasıdu'l-Felasife",
-      "Mi'yaru'l-ilm",
-      "İhyau Ulumi'd-Din"
+      "<i>el-Vasıt</i>",
+      "<i>El-Münkız-mine'd-Dalal</i>",
+      "<i>Makasıdu'l-Felasife</i>",
+      "<i>Mi'yaru'l-ilm</i>",
+      "<i>İhyau Ulumi'd-Din</i>"
     ],
     "dogru_cevap": "C",
     "exam_year": 2026
@@ -1224,7 +1224,7 @@
     "soru": "Türkiye'de üniversite sistemi içerisinde yüksek din öğretiminin başlangıcı XIX. yüzyılın sonlarına dayanır. Bu dönemden itibaren yüksek din öğretiminde farklı kurumsal yapılanmalar ortaya çıkmıştır. Bu kurumlardan biri 1959 yılında İstanbul'da ilk kez üniversite dışında Millî Eğitim Bakanlığı Müdürler Komisyonu kararıyla açılmıştır. Kurumun amacı, örgün eğitim kurumlarındaki din derslerini okutacak öğretmenlerle yaygın din hizmetleri yapacak imam-hatip, vaiz, müftü gibi nitelikli meslek elemanları yetiştirmektir. Aynı zamanda bu kurum, imam-hatip okullarını bitirenlerin gidebileceği alternatif bir yükseköğretim kurumu olarak da işlev görmüştür.\n\n<b>Bu parçada bahsedilen kurum aşağıdakilerden hangisidir?</b>",
     "optionList": [
       "Darülfünun İlahiyat Fakültesi",
-      "Ulum-ı Aliye",
+      "Ulum-ı Âliye",
       "Yüksek İslam Enstitüsü",
       "İslami İlimler Fakültesi",
       "İlahiyat Meslek Yüksekokulu"
@@ -1237,7 +1237,7 @@
     "soru_id": 2582,
     "category_id": 2,
     "ders_adi": "Dinler Tarihi",
-    "soru": "İlkel kabile dinlerinde\n  I. yüce bir gücün veya varlığın bulunduğu düşüncesi,\n  II. kutsal kitap ve yazılı kaynaklar,\n  III. büyü, sihir vb. inançlar,\n  IV. belli bir peygamber veya din kurucusu\n<b>hususlarından hangileri yaygın olarak bulunmaktadır?</b>",
+    "soru": "<b>İlkel kabile dinlerinde</b>\n  I. yüce bir gücün veya varlığın bulunduğu düşüncesi,\n  II. kutsal kitap ve yazılı kaynaklar,\n  III. büyü, sihir vb. inançlar,\n  IV. belli bir peygamber veya din kurucusu\n<b>hususlarından hangileri yaygın olarak bulunmaktadır?</b>",
     "optionList": [
       "I ve II",
       "I ve III",
