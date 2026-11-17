@@ -560,7 +560,54 @@
   "dogru_cevap": "B",
       "exam_year": 2026
     },
-
+    {
+      "soru_type": 2,
+      "soru_id": 2540,
+      "category_id": 2,
+      "ders_adi": "Kelam",
+    "soru": "Mucize dışındaki olağanüstü hâller, peygamber olmayan kişilerde görülür. Bu hâller, olağanüstülük gösteren kişinin Müslüman veya kâfir olması durumuna göre tasnif edilir.\n\n<b>Buna göre aşağıda verilen durumlardan hangisi Müslümanlarda görülür?</b>",
+  "optionList": [
+    "Keramet ve meunet",
+    "Keramet ve ihanet",
+    "İstidrac ve meunet",
+    "İstidrac ve keramet",
+    "İstidrac ve ihanet"
+  ],
+  "dogru_cevap": "A",
+      "exam_year": 2026
+    },
+     {
+      "soru_type": 2,
+      "soru_id": 2541,
+      "category_id": 2,
+      "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "<b>Abdullah b. Mesud hakkında</b>\n  I. Hz. Muhammed'den (s.a.v) sonra Kâbe'de aşikâr bir şekilde Kur'an-ı Kerim'i okuyan ilk kişi olduğu,\n  II. Habeşistan'a hicret eden sahabelerden olduğu,\n  III. bir dönem Kufe'de kadılık görevini yaptığı\n<b>bilgilerinden hangileri doğrudur?</b>",
+  "optionList": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+  ],
+  "dogru_cevap": "E",
+      "exam_year": 2026
+    },
+ {
+      "soru_type": 2,
+      "soru_id": 2542,
+      "category_id": 2,
+      "ders_adi": "Siyer ve İslam Tarihi",
+    "soru": "Müslümanların Mekke'yi fethetmesinin ardından Hz. Muhammed umumi af ilan etmiş ve Mekkelilere, Hz. Yusuf'un kardeşlerine söylediği gibi \"Haydi gidiniz, siz serbestsiniz.\" şeklinde seslenmiştir. Onun \"Siz serbestsiniz.\" sözü daha sonraki dönemde Mekke'nin fethi esnasında Müslüman olanları tanımlamak için kullanılmıştır.\n\n<b>Bu parçada bahsedilen ifade aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Muhadramun",
+    "Tuleka",
+    "Tabiin",
+    "Arrâf",
+    "Mevali"
+  ],
+  "dogru_cevap": "B",
+      "exam_year": 2026
+    },
     {
       "soru_type": 2,
       "soru_id": 1015,
