@@ -610,6 +610,150 @@
     },
     {
       "soru_type": 2,
+      "soru_id": 2543,
+      "category_id": 2,
+      "ders_adi": "Siyer ve İslam Tarihi",
+   "soru": "Haşimoğulları ve Ümeyyeoğulları, İslam öncesi dönemden başlayarak Mekke toplumunun önde gelen kabilelerinden olmuştur. Ancak zaman içerisinde bu iki kabile çeşitli sebeplerden dolayı karşı karşıya gelmiştir.\n<b>Bu durumun yaşanmasında</b>\n  I. Haşimoğullarının Kâbe'ye hac için gelenlerin yeme içme ihtiyacını karşılamasından dolayı elde ettiği saygınlık,\n  II. Haşimoğullarının içinden Hz. Muhammed'e muhalefetin olmaması,\n  III. Peygamber'in Haşimoğulları arasından çıkması\n<b>ifadelerinden hangileri sebep olarak gösterilebilir?</b>",
+  "optionList": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve III",
+    "I ve II",
+    "II ve III"
+  ],
+  "dogru_cevap": "C",
+      "exam_year": 2026
+    },
+     {
+      "soru_type": 2,
+      "soru_id": 2544,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi ve Usulü",
+   "soru": "Fetih hareketleriyle birlikte muhtelif dil ve medeniyetlere sahip insanların Müslüman topluma katılması sonucunda Arap dili, saflığını kaybetmeye başlamıştır. Bunun üzerine Arapça dil kurallarının ve lafızlarının kayıt altına alınması düşünülmüştür. Bu dönemden itibaren Kur'an-ı Kerim'i de dilsel olarak tahlil eden birçok çalışma yapılmış ve bu çalışmalar çeşitli isimlerle adlandırılmıştır.\n\n<b>Aşağıdakilerden hangisi bu çalışmalardan biri <u>değildir</u>?</b>",
+  "optionList": [
+    "Garibü'l-Kur'an",
+    "İrabü'l-Kur'an",
+    "Meani'l-Kur'an",
+    "Kısasu'l-Kur'an",
+    "Mecazü'l-Kur'an"
+  ],
+  "dogru_cevap": "D",
+      "exam_year": 2026
+    },
+     {
+      "soru_type": 2,
+      "soru_id": 2545,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi ve Usulü",
+   "soru": "Fetih hareketleriyle birlikte muhtelif dil ve medeniyetlere sahip insanların Müslüman topluma katılması sonucunda Arap dili, saflığını kaybetmeye başlamıştır. Bunun üzerine Arapça dil kurallarının ve lafızlarının kayıt altına alınması düşünülmüştür. Bu dönemden itibaren Kur'an-ı Kerim'i de dilsel olarak tahlil eden birçok çalışma yapılmış ve bu çalışmalar çeşitli isimlerle adlandırılmıştır.\n\n<b>Aşağıdakilerden hangisi bu çalışmalardan biri <u>değildir</u>?</b>",
+  "optionList": [
+    "Garibü'l-Kur'an",
+    "İrabü'l-Kur'an",
+    "Meani'l-Kur'an",
+    "Kısasu'l-Kur'an",
+    "Mecazü'l-Kur'an"
+  ],
+  "dogru_cevap": "D",
+      "exam_year": 2026
+    },
+     {
+      "soru_type": 2,
+      "soru_id": 2546,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi ve Usulü",
+   "soru": "Cabir b. Abdullah'tan şöyle rivayet edilmiştir: Resulullah hutbe verirken bir kervan gelince insanlar çıktılar. Mescitte sadece on iki kişi kalmıştı. Bunun üzerine \"Onlar bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona giderler ve seni ayakta bırakırlar. De ki: 'Allah'ın yanında bulunan, eğlenceden ve ticaretten daha yararlıdır. Allah, rızık verenlerin en hayırlısıdır.'\" (Cuma, 62:11) ayeti nazil oldu.\n\n<b>Bu parçada bahsedilen Kur'an ilmi aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Münasebatü'l-Kur'an",
+    "Esbabü'n-nüzul",
+    "Kısasu'l-Kur'an",
+    "Müşkilü'l-Kur'an",
+    "İcazü'l-Kur'an"
+  ],
+  "dogru_cevap": "B",
+      "exam_year": 2026
+    },
+     {
+      "soru_type": 2,
+      "soru_id": 2547,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi ve Usulü",
+   "soru": "Tefsir tarihinde Kufe Medresesinin, Mekke ve Medine Medreseleriyle birçok ortak noktası bulunmaktadır. Ancak tefsir metodu açısından onu, diğerlerinden ayıran temel bir fark bulunmaktadır.\n\n<b>Bu fark aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "İsrailiyatı kaynak olarak kabul etmeleri",
+    "Hadislerin senetlerini göz ardı etmeleri",
+    "Rey veya kıyasa ağırlık vermeleri",
+    "Arap şiirine itibar etmeleri",
+    "Ahkâm ayetlerine yoğunlaşmaları"
+  ],
+  "dogru_cevap": "C",
+      "exam_year": 2026
+    },
+      {
+      "soru_type": 2,
+      "soru_id": 2548,
+      "category_id": 2,
+      "ders_adi": "Tefsir Tarihi ve Usulü",
+  "soru": "Bir ilahiyat fakültesi öğrencisi gittiği kütüphanede tefsirle ilgili eserlerin, ağırlıklı olarak kullanılan yönteme göre dört ayrı bölüme (İşari, Mezhebi, Rivayet ve Fıkhi) tasnif edildiğini görür.\n\n<b>Her rafa ilgili olduğu tür dikkate alınarak yerleştirme yapılması durumunda aşağıdaki tefsirlerden hangisinin kitaplığa yerleştirilmesi <u>beklenmez</u>?</b>",
+  "optionList": [
+    "Abdülkerim el-Kuşeyri'nin Leta'ifü'l-işarat'ı",
+    "Zemahşeri'nin el-Keşşaf'ı",
+    "İbn Kesir'in Tefsirü'l-Kur'ani'l-Azim'i",
+    "Şafi'nin Ahkamü'l-Kur'an'ı",
+    "İbn Kuteybe'nin Te'vilu Müşkili'l-Kur'an'ı"
+  ],
+  "dogru_cevap": "E",
+      "exam_year": 2026
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2549,
+      "category_id": 2,
+      "ders_adi": "Hadis Tarihi ve Usulü",
+  "soru": "Yazma eserlerin olduğu bir kütüphanede çalışma yapan bir araştırmacı, <i>Kütüb-i Sitte</i>'ye tahsis edilmiş bölümde kapak kısmı olmayan bir eseri incelemeye başlar. Bu kitabın ilk bölümünde geniş bir mukaddimeden sonra ahkâm hadislerin toplandığını görür.\n\n<b>Buna göre araştırmacının eser hakkında aşağıdaki değerlendirmelerden hangisini yapması <u>beklenmez</u>?</b>",
+  "optionList": [
+    "Ale'l-ebvab tarzda düzenlendiği",
+    "Sünen tarzı eserler kapsamına girdiği",
+    "Hicri II. asırdan sonra telif edildiği",
+    "Tasnif sistemi sebebiyle müsned türü olduğu",
+    "Merfu hadislerin çoğunlukta olduğu"
+  ],
+  "dogru_cevap": "D",
+      "exam_year": 2026
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2550,
+      "category_id": 2,
+      "ders_adi": "Hadis Tarihi ve Usulü",
+  "soru": "Buhari, <i>Sahih</i>'e aldığı hadislerde bazı şartların bulunmasını gözetmiştir. Ravi ve rivayette aradığı özelliklerin tam olması durumunda hadisi, sahih kabul ederek eserine dâhil etmiştir. Ancak \"an\" eda sigası ile rivayet edilen hadislerde ravilerin birbirleriyle doğrudan görüşmüş olmaları şartını ileri sürmüştür.\n\n<b>Bu parçada bahsedilen şart aşağıdakilerden hangisidir?</b>",
+  "optionList": [
+    "Lika",
+    "Hıfz",
+    "Muruet",
+    "Zabtu's-sadr",
+    "Teferrüd"
+  ],
+  "dogru_cevap": "A",
+      "exam_year": 2026
+    },
+    {
+      "soru_type": 2,
+      "soru_id": 2551,
+      "category_id": 2,
+      "ders_adi": "Hadis Tarihi ve Usulü",
+  "soru": "Hadis dersinde bir öğretmen, öğrencilerine senedindeki kopukluk sebebiyle zayıf kabul edilen hadisleri seçmeleri için aşağıdaki tabloyu vermiştir:\n\n(1) Muallel | (2) Mürsel | (3) Müdelles\n(4) Munkatı | (5) Müdrec | (6) Maklub\n(7) Muzdarib | (8) Muallak | (9) Mudal\n\n<b>Aşağıdakilerden hangisini işaretleyen öğrenci bu tür hadislerin tamamını tespit etmiş olur?</b>",
+  "optionList": [
+    "1, 2, 5, 6, 8",
+    "1, 3, 4, 7, 9",
+    "3, 4, 5, 6, 9",
+    "2, 3, 4, 8, 9",
+    "2, 5, 6, 7, 8"
+  ],
+  "dogru_cevap": "D",
+      "exam_year": 2026
+    },
+    {
+      "soru_type": 2,
       "soru_id": 1015,
       "category_id": 1,
       "ders_adi": "İslam Tarihi",
