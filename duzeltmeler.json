@@ -1,1 +1,18 @@
 
+{
+  "surum": 1,
+  "duzeltmeler": [
+    {
+      "id_string": "2419",
+    "question_text": "Müslümanın Müslüman üzerindeki haklarından biri de cenazesine katılmasıdır. Cenazenin arkasından mezara kadar gitmek Hz. Muhammed'in (s.a.v) sünnetidir. Hz. Muhammed (s.a.v) birçok kez ölen Müslümanların tabutunu taşımış ve cenazenin kabre götürülmesine iştirak etmiştir.\n\n<b>Bu parçada aşağıdaki kavramların hangisinden bahsedilmektedir?</b>",
+    "optionList": [
+      "Tezkiye",
+      "Telkin",
+      "Teşyi",
+      "Defin",
+      "Terike"
+    ],
+    "correctAnswerIndex": 2
+    }
+  ]
+}
