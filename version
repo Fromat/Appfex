@@ -1,11 +1,12 @@
 {
-  "soruVersion": 7,
+  "soruVersion": 1,
   "latestAppVersion": "1.2.2",
   "minAppVersion": "1.0.0",
   "updateTitle": "Yeni güncelleme var",
   "updateNotes": [
-    "Soru filtreleme eklendi",
-    "Çevrimdışı kullanım iyileştirildi",
-    "Hata düzeltmeleri"
+    "Soru-Cevap bölümünde filtreleme eklendi.",
+    "Çevrimdışı kullanım iyileştirildi.",
+    "Hata düzeltmeleri yapıldı.",
+    "DHBT 2026 Soruları eklendi."
   ]
 }
