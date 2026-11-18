@@ -1,6 +1,6 @@
 
 {
-  "surum": 1,
+  "surum": 2,
   "duzeltmeler": [
     {
       "id_string": "2419",
@@ -12,7 +12,7 @@
       "Defin",
       "Terike"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 3
     }
   ]
 }
