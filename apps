@@ -1,6 +1,6 @@
 {
-  "title": "Bize Destek Olun",
-  "message": "Uygulamalarımızı ücretsiz sunmaya devam edebilmemiz için aşağıdaki uygulamalardan birini indirmeniz yeterli.",
+  "title": "Bize Destek Olur Ousunuz?",
+  "message": "Uygulamamızı reklamsız sunmaya devam edebilmemiz için aşağıdaki uygulamalardan birini indirmeniz yeterli.",
   "footer": "Sadece birini indirmeniz yeterli. Yüklü olduğu sürece bu pencere görünmez.",
   "apps": [
     {
@@ -33,7 +33,7 @@
       "description": "Orijinal MathCross Bulmacaları",
       "iconUrl": "",
       "enabled": true,
-      "checkPlayStore": false
+      "checkPlayStore": true
     }
 
   ]
