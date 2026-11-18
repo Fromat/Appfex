@@ -1488,22 +1488,6 @@
     },
     {
       "soru_type": 2,
-      "soru_id": 1057,
-      "category_id": 3,
-      "ders_adi": "İslam Tarihi",
-      "soru": "Kasidiye savaşından kaçan İran askerleri Müslümanlara karşı kendilerini savunmak için hendekler ve siperler kazmaya karar vermişlerdir. Ayrıca Medain’i terk ederek Hulvan’a sığınan Yezdicerd buraya asker ve silah takviyesi yapmıştır.\nBu gelişmelerden haberdar olan Sa’d b. Ebu Vakkas, bu bölgedeki gelişmeleri Hz. Ömer’e bildirdi. Hz. Ömer, Haşim b. Utbe komutasında bir birliği buraya göndermesini, onun birliklerinin başında da Ka’ka b. Amr’ın getirilmesini emretti. Bunun üzerine Müslümanlar bu bölgeyi kuşattılar ve Kasidiye’ye benzer şiddetli çarpışmalar meydana geldi. Yapılan şiddetli çatışmalar neticesinde bu bölge Müslümanların hâkimiyetine girmiştir.\n\n<b>Hz. Ömer döneminde gerçekleşen bu savaş aşağıdakilerden hangisidir?</b>",
-  "optionList": [
-    "Nihavend Savaşı",
-    "Büveyh Savaşı",
-    "Köprü Savaşı",
-    "Celula Savaşı",
-    "Fahl Savaşı"
-  ],
-  "dogru_cevap": "D",
-      "ogretmen_id": 3
-    },
-    {
-      "soru_type": 2,
       "soru_id": 1056,
       "category_id": 3,
       "ders_adi": "Kelam",
