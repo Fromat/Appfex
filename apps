@@ -1,7 +1,7 @@
 {
-  "title": "Bize Destek Olur Ousunuz?",
-  "message": "Uygulamamızı reklamsız sunmaya devam edebilmemiz için aşağıdaki uygulamalardan birini indirmeniz yeterli.",
-  "footer": "Sadece birini indirmeniz yeterli. Yüklü olduğu sürece bu pencere görünmez.",
+  "title": "Bize Destek Olur Musunuz?",
+  "message": "Uygulamamızı reklamsız sunmaya devam edebilmemiz için uygulamalarımızdan birini indirmeniz yeterli.",
+  "footer": "Bize vereceğiniz katkıdan dolayı teşekkürler. Yüklü olduğu sürece bu pencere görünmez. İyi Çalışmalar",
   "apps": [
     {
       "packageName": "com.appfex.wordX",
