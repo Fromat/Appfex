@@ -1,1 +1,11 @@
-{ "soruVersion": 6 }
+{
+  "soruVersion": 7,
+  "latestAppVersion": "1.2.3",
+  "minAppVersion": "1.0.0",
+  "updateTitle": "Yeni güncelleme var",
+  "updateNotes": [
+    "Soru filtreleme eklendi",
+    "Çevrimdışı kullanım iyileştirildi",
+    "Hata düzeltmeleri"
+  ]
+}
