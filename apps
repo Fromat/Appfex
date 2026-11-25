@@ -8,7 +8,7 @@
       "displayName": "WordX (Lingo Kelime Oyunu)",
       "description": "Wordle benzeri hem de Türkçe",
       "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/wordx.png",
-      "enabled": true,
+      "enabled": false,
       "checkPlayStore": false
     },
 {
@@ -33,7 +33,7 @@
       "description": "Orijinal MathCross Bulmacaları",
       "iconUrl": "",
       "enabled": true,
-      "checkPlayStore": true
+      "checkPlayStore": false
     }
 
   ]
