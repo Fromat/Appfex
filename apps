@@ -8,7 +8,7 @@
       "displayName": "WordX (Lingo Kelime Oyunu)",
       "description": "Wordle benzeri hem de Türkçe",
       "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/wordx.png",
-      "enabled": true,
+      "enabled": false,
       "checkPlayStore": false
     },
 {
