@@ -33,7 +33,7 @@
       "description": "Orijinal MathCross Bulmacaları",
       "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/fourmula.png",
       "enabled": true,
-      "checkPlayStore": true
+      "checkPlayStore": false
     }
 
   ]
