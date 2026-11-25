@@ -31,7 +31,7 @@
       "packageName": "com.appfex.mathcross",
       "displayName": "Fourmula 4 işlem Oyunu",
       "description": "Orijinal MathCross Bulmacaları",
-      "iconUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/Fromat/Appfex/refs/heads/main/fourmula.png",
       "enabled": true,
       "checkPlayStore": false
     }
